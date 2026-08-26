@@ -1,6 +1,14 @@
 [
     {
         "event_name": "Live Sports",
+        "team1_name": "Real MadridReal Sociedad",
+        "team2_name": "Real Madrid",
+        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "detail_url": "https://crichd.pk/event/real-madrid-vs-real-sociedad"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "Hockey World Cup 2026FIH Hockey World Cup",
         "team2_name": "Hockey World Cup 2026",
         "team1_logo": "https://cdn.img4every1.org/league/fih-hockey-world-cup/logo.webp",
@@ -73,11 +81,43 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Real MadridReal Sociedad",
-        "team2_name": "Real Madrid",
-        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "detail_url": "https://crichd.pk/event/real-madrid-vs-real-sociedad"
+        "team1_name": "Levski SofiaAEK Athens",
+        "team2_name": "Levski Sofia",
+        "team1_logo": "https://cdn.img4every1.org/team/levski-sofia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/aek-athens/logo.webp",
+        "detail_url": "https://crichd.pk/event/le-vs-ki-sofia-vs-aek-athens"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Dinamo ZagrebViking",
+        "team2_name": "Dinamo Zagreb",
+        "team1_logo": "https://cdn.img4every1.org/team/dinamo-zagreb/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/viking/logo.webp",
+        "detail_url": "https://crichd.pk/event/dinamo-zagreb-vs-viking"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Slovan BratislavaCelje",
+        "team2_name": "Slovan Bratislava",
+        "team1_logo": "https://cdn.img4every1.org/team/slovan-bratislava/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/celje/logo.webp",
+        "detail_url": "https://crichd.pk/event/slovan-bratislava-vs-celje"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "FenerbahçeOlympique Lyonnais",
+        "team2_name": "Fenerbahçe",
+        "team1_logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
+        "detail_url": "https://crichd.pk/event/fenerbahce-vs-lyon"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "UEFA Champions League DrawChampions League",
+        "team2_name": "UEFA Champions League Draw",
+        "team1_logo": "https://cdn.img4every1.org/league/ucl-streams/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/ucl-streams/logo.webp",
+        "detail_url": "https://crichd.pk/event/uefa-champions-league-draw"
     },
     {
         "event_name": "Live Sports",
@@ -137,43 +177,11 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Levski SofiaAEK Athens",
-        "team2_name": "Levski Sofia",
-        "team1_logo": "https://cdn.img4every1.org/team/levski-sofia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/aek-athens/logo.webp",
-        "detail_url": "https://crichd.pk/event/le-vs-ki-sofia-vs-aek-athens"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Dinamo ZagrebViking",
-        "team2_name": "Dinamo Zagreb",
-        "team1_logo": "https://cdn.img4every1.org/team/dinamo-zagreb/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/viking/logo.webp",
-        "detail_url": "https://crichd.pk/event/dinamo-zagreb-vs-viking"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Slovan BratislavaCelje",
-        "team2_name": "Slovan Bratislava",
-        "team1_logo": "https://cdn.img4every1.org/team/slovan-bratislava/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/celje/logo.webp",
-        "detail_url": "https://crichd.pk/event/slovan-bratislava-vs-celje"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "FenerbahçeOlympique Lyonnais",
-        "team2_name": "Fenerbahçe",
-        "team1_logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-        "detail_url": "https://crichd.pk/event/fenerbahce-vs-lyon"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "UEFA Champions League DrawChampions League",
-        "team2_name": "UEFA Champions League Draw",
-        "team1_logo": "https://cdn.img4every1.org/league/ucl-streams/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/ucl-streams/logo.webp",
-        "detail_url": "https://crichd.pk/event/uefa-champions-league-draw"
+        "team1_name": "Real MadridMálaga",
+        "team2_name": "Real Madrid",
+        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "detail_url": "https://crichd.pk/event/real-madrid-vs-malaga"
     },
     {
         "event_name": "Live Sports",
