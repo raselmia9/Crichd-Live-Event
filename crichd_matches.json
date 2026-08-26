@@ -1,14 +1,6 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_name": "Real MadridReal Sociedad",
-        "team2_name": "Real Madrid",
-        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "detail_url": "https://crichd.pk/event/real-madrid-vs-real-sociedad"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Hockey World Cup 2026FIH Hockey World Cup",
         "team2_name": "Hockey World Cup 2026",
         "team1_logo": "https://cdn.img4every1.org/league/fih-hockey-world-cup/logo.webp",
@@ -30,62 +22,6 @@
         "team1_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "detail_url": "https://crichd.pk/event/us-open-2026"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Tottenham HotspurCharlton Athletic",
-        "team2_name": "Tottenham Hotspur",
-        "team1_logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
-        "detail_url": "https://crichd.pk/event/tottenham-hotspur-vs-charlton-athletic"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Newcastle UnitedWest Bromwich Albion",
-        "team2_name": "Newcastle United",
-        "team1_logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/west-bromwich-albion/logo.webp",
-        "detail_url": "https://crichd.pk/event/newcastle-united-vs-west-brom"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Levski SofiaAEK Athens",
-        "team2_name": "Levski Sofia",
-        "team1_logo": "https://cdn.img4every1.org/team/levski-sofia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/aek-athens/logo.webp",
-        "detail_url": "https://crichd.pk/event/le-vs-ki-sofia-vs-aek-athens"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Dinamo ZagrebViking",
-        "team2_name": "Dinamo Zagreb",
-        "team1_logo": "https://cdn.img4every1.org/team/dinamo-zagreb/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/viking/logo.webp",
-        "detail_url": "https://crichd.pk/event/dinamo-zagreb-vs-viking"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Slovan BratislavaCelje",
-        "team2_name": "Slovan Bratislava",
-        "team1_logo": "https://cdn.img4every1.org/team/slovan-bratislava/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/celje/logo.webp",
-        "detail_url": "https://crichd.pk/event/slovan-bratislava-vs-celje"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "FenerbahçeOlympique Lyonnais",
-        "team2_name": "Fenerbahçe",
-        "team1_logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-        "detail_url": "https://crichd.pk/event/fenerbahce-vs-lyon"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Preston North EndEverton",
-        "team2_name": "Preston North End",
-        "team1_logo": "https://cdn.img4every1.org/team/preston-north-end/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "detail_url": "https://crichd.pk/event/preston-vs-everton"
     },
     {
         "event_name": "Live Sports",
@@ -230,6 +166,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/parma/logo.webp",
         "detail_url": "https://crichd.pk/event/juventus-vs-parma"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Inter MilanCagliari",
+        "team2_name": "Inter Milan",
+        "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
+        "detail_url": "https://crichd.pk/event/inter-milan-vs-cagliari"
     },
     {
         "event_name": "Live Sports",
