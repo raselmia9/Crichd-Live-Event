@@ -1,80 +1,9 @@
-import asyncio
 import json
 from bs4 import BeautifulSoup
-from playwright.async_api import async_playwright
 import requests
 
 
-async def fetch_match_details(context, match):
-  page = await context.new_page()
-
-  # গতি বাড়ানোর জন্য ফালতু ফাইল ব্লক করা
-  await page.route(
-      "**/*.{png,jpg,jpeg,gif,css,svg}", lambda route: route.abort()
-  )
-
-  match_date_time = "N/A"
-  streams_list = []
-
-  def handle_request(request):
-    nonlocal streams_list
-    if ".m3u8" in request.url:
-      stream_url = request.url
-      referer_url = request.headers.get("referer", "https://crichdsee.st/")
-
-      link_name = f"Link{len(streams_list) + 1}"
-      formatted_stream = f"{link_name},,{stream_url}|Referer={referer_url},"
-
-      if formatted_stream not in streams_list:
-        streams_list.append(formatted_stream)
-
-  page.on("request", handle_request)
-
-  try:
-    await page.goto(match["detail_url"], timeout=20000)
-
-    # তারিখ এবং সময় সংগ্রহ করা
-    date_elem = await page.query_selector(".date-time, .schedule-date, span")
-    if date_elem:
-      match_date_time = await date_elem.inner_text()
-
-    # চ্যানেল অপশনগুলোতে ক্লিক করে m3u8 ট্রিগার করা
-    channel_links = await page.query_selector_all(
-        "table tr td a, .channels-list a"
-    )
-    for link in channel_links[:3]:  # প্রথম ৩টি চ্যানেল চেক করা
-      try:
-        await link.click()
-        await asyncio.sleep(1)
-      except:
-        pass
-
-    # লিংক পাওয়ার জন্য একটু অপেক্ষা করা
-    for _ in range(5):
-      if streams_list:
-        break
-      await asyncio.sleep(1)
-
-  except Exception as e:
-    print(f"Error for {match['detail_url']}: {e}")
-
-  await page.close()
-
-  # মাল্টি-স্ট্রিমিং ফরম্যাট তৈরি
-  multi_streaming_str = ")".join(streams_list) + ")" if streams_list else ""
-
-  return {
-      "event_name": match["event_name"],
-      "team1_logo": match["team1_logo"],
-      "team2_logo": match["team2_logo"],
-      "team1_name": match["team1_name"],
-      "team2_name": match["team2_name"],
-      "date_and_time": match_date_time.strip(),
-      "multi_streaming": multi_streaming_str,
-  }
-
-
-async def main():
+def main():
   home_url = "https://m.crichd.pk/"
   headers = {
       "User-Agent": (
@@ -84,7 +13,7 @@ async def main():
       )
   }
 
-  print("হোম পেজ থেকে ম্যাচ লিস্ট সংগ্রহ করা হচ্ছে...")
+  print("হোম পেজ থেকে তথ্য সংগ্রহ করা হচ্ছে...")
   response = requests.get(home_url, headers=headers)
   if response.status_code != 200:
     print("হোম পেজ লোড করা যায়নি!")
@@ -93,37 +22,60 @@ async def main():
   soup = BeautifulSoup(response.text, "html.parser")
   matches_data = []
 
-  for card in soup.select("a"):
+  # হোমপেজের প্রতিটি ম্যাচ কার্ড বা লিংক খুঁজে বের করা
+  for card in soup.select("a[href*='/event/'], a[href*='/watch/']"):
+    container = card.find_parent(["div", "li"], class_=lambda x: x and "flex" in x) or card.parent
+
     href = card.get("href", "")
-    if "/event/" in href or "/watch/" in href:
-      detail_url = href if href.startswith("http") else "https://m.crichd.pk" + href
+    if not href:
+      continue
+    detail_url = (
+        href if href.startswith("http") else "https://m.crichd.pk" + href
+    )
 
-      parent_card = card.find_parent()
-      if not parent_card:
-        continue
+    # ১. ইভেন্ট বা সময়ের নাম (যেমন: Live Now! বা Starts in: ...)
+    time_elem = container.find(
+        text=lambda t: t and ("Live" in t or "Starts" in t)
+    )
+    event_name = time_elem.strip() if time_elem else "Live Sports"
 
-      event_elem = parent_card.select_one(
-          ".event-name, h3, .league-title, span"
-      )
-      event_name = event_elem.text.strip() if event_elem else "Live Sports"
+    # ২. টিমের লোগো সংগ্রহ
+    logos = []
+    for img in container.select("img"):
+      src = img.get("src", "")
+      if src:
+        logos.append(src)
 
-      teams = parent_card.select(".team-name, div span")
-      team1_name = teams[0].text.strip() if len(teams) > 0 else "Team 1"
-      team2_name = teams[1].text.strip() if len(teams) > 1 else "Team 2"
+    # ৩. সঠিক টিমের নাম সংগ্রহ
+    texts = [
+        el.get_text(strip=True)
+        for el in container.select("div, span, b, p")
+        if el.get_text(strip=True)
+        and "Live" not in el.get_text()
+        and "Starts" not in el.get_text()
+    ]
 
-      logos = parent_card.select("img")
-      team1_logo = logos[0]["src"] if len(logos) > 0 else ""
-      team2_logo = logos[1]["src"] if len(logos) > 1 else ""
+    filtered_teams = []
+    for t in texts:
+      if len(t) > 2 and t not in filtered_teams and t != event_name:
+        filtered_teams.append(t)
 
-      matches_data.append({
-          "detail_url": detail_url,
-          "event_name": event_name,
-          "team1_name": team1_name,
-          "team2_name": team2_name,
-          "team1_logo": team1_logo,
-          "team2_logo": team2_logo,
-      })
+    team1_name = filtered_teams[0] if len(filtered_teams) > 0 else "Team 1"
+    team2_name = filtered_teams[1] if len(filtered_teams) > 1 else "Team 2"
 
+    team1_logo = logos[0] if len(logos) > 0 else ""
+    team2_logo = logos[1] if len(logos) > 1 else ""
+
+    matches_data.append({
+        "event_name": event_name,
+        "team1_name": team1_name,
+        "team2_name": team2_name,
+        "team1_logo": team1_logo,
+        "team2_logo": team2_logo,
+        "detail_url": detail_url,
+    })
+
+  # ডুপ্লিকেট বাদ দেওয়া
   seen_urls = set()
   unique_matches = []
   for m in matches_data:
@@ -131,33 +83,15 @@ async def main():
       seen_urls.add(m["detail_url"])
       unique_matches.append(m)
 
-  print(
-      f"মোট {len(unique_matches)} টি ম্যাচ পাওয়া গেছে। খুব দ্রুত মাল্টি-ট্যাবে"
-      " প্রসেস করা হচ্ছে..."
-  )
-
-  async with async_playwright() as p:
-    browser = await p.chromium.launch(headless=True)
-    context = await browser.new_context()
-
-    # একসাথে ৫টি করে ম্যাচ প্রসেস করার জন্য টাস্ক সাজানো
-    batch_size = 5
-    final_output = []
-
-    for i in range(0, len(unique_matches), batch_size):
-      batch = unique_matches[i : i + batch_size]
-      tasks = [fetch_match_details(context, match) for match in batch]
-      results = await asyncio.gather(*tasks)
-      final_output.extend(results)
-
-    await browser.close()
-
-  # JSON ফাইলে ডেটা সেভ করা
+  # JSON ফাইলে সেভ করা
   with open("crichd_matches.json", "w", encoding="utf-8") as f:
-    json.dump(final_output, f, indent=4, ensure_ascii=False)
+    json.dump(unique_matches, f, indent=4, ensure_ascii=False)
 
-  print("সফলভাবে 'crichd_matches.json' ফাইলে ডেটা আপডেট করা হয়েছে!")
+  print(
+      f"মোট {len(unique_matches)} টি ম্যাচের তথ্য সফলভাবে 'crichd_matches.json'"
+      " ফাইলে সেভ করা হয়েছে!"
+  )
 
 
 if __name__ == "__main__":
-  asyncio.run(main())
+  main()
