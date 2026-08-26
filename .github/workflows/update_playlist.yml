@@ -25,9 +25,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Install Playwright Browsers and Dependencies
+      - name: Install Playwright Browsers
         run: |
-          playwright install --with-deps chromium
+          playwright install chromium
 
       - name: Run main script to generate JSON
         run: python main.py
