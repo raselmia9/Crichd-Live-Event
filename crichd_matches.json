@@ -25,14 +25,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "UEFA Champions League DrawChampions League",
-        "team2_name": "UEFA Champions League Draw",
-        "team1_logo": "https://cdn.img4every1.org/league/ucl-streams/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/ucl-streams/logo.webp",
-        "detail_url": "https://crichd.pk/event/uefa-champions-league-draw"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Celta de VigoOsasuna",
         "team2_name": "Celta de Vigo",
         "team1_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
@@ -41,11 +33,35 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "ChelseaLuton Town",
+        "team2_name": "Chelsea",
+        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/luton-town/logo.webp",
+        "detail_url": "https://crichd.pk/event/chelsea-vs-luton-town"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "FulhamAFC Wimbledon",
+        "team2_name": "Fulham",
+        "team1_logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/afc-wimbledon/logo.webp",
+        "detail_url": "https://crichd.pk/event/fulham-vs-wimbledon"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "FC BarcelonaAthletic Club",
         "team2_name": "FC Barcelona",
         "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
         "detail_url": "https://crichd.pk/event/barcelona-vs-athletic-club"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "MotoGP Grand Prix of AragonMotoGP",
+        "team2_name": "MotoGP Grand Prix of Aragon",
+        "team1_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "detail_url": "https://crichd.pk/event/motogp-grand-prix-of-aragon"
     },
     {
         "event_name": "Live Sports",
@@ -97,35 +113,19 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "ChelseaLuton Town",
-        "team2_name": "Chelsea",
-        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/luton-town/logo.webp",
-        "detail_url": "https://crichd.pk/event/chelsea-vs-luton-town"
+        "team1_name": "Deportivo La CoruñaValencia",
+        "team2_name": "Deportivo La Coruña",
+        "team1_logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+        "detail_url": "https://crichd.pk/event/deportivo-la-coruna-vs-valencia"
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "FulhamAFC Wimbledon",
-        "team2_name": "Fulham",
-        "team1_logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/afc-wimbledon/logo.webp",
-        "detail_url": "https://crichd.pk/event/fulham-vs-wimbledon"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Birmingham CityWrexham",
-        "team2_name": "Birmingham City",
-        "team1_logo": "https://cdn.img4every1.org/team/birmingham-city/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
-        "detail_url": "https://crichd.pk/event/birmingham-city-vs-wrexham"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "MotoGP Grand Prix of AragonMotoGP",
-        "team2_name": "MotoGP Grand Prix of Aragon",
-        "team1_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-        "detail_url": "https://crichd.pk/event/motogp-grand-prix-of-aragon"
+        "team1_name": "Celta de VigoAthletic Club",
+        "team2_name": "Celta de Vigo",
+        "team1_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "detail_url": "https://crichd.pk/event/celta-vigo-vs-athletic-club"
     },
     {
         "event_name": "Live Sports",
@@ -238,6 +238,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
         "detail_url": "https://crichd.pk/event/fulham-vs-sunderland"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Birmingham CityWrexham",
+        "team2_name": "Birmingham City",
+        "team1_logo": "https://cdn.img4every1.org/team/birmingham-city/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
+        "detail_url": "https://crichd.pk/event/birmingham-city-vs-wrexham"
     },
     {
         "event_name": "Live Sports",
