@@ -97,6 +97,14 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "ArsenalAston Villa",
+        "team2_name": "Arsenal",
+        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "detail_url": "https://crichd.pk/event/arsenal-vs-aston-villa"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "Real BetisLevante",
         "team2_name": "Real Betis",
         "team1_logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
