@@ -4,7 +4,7 @@ import requests
 
 
 def main():
-  home_url = "https://www1.buffstreamss.sx/"
+  home_url = "https://m.crichd.pk/"
   headers = {
       "User-Agent": (
           "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -30,7 +30,7 @@ def main():
     if not href:
       continue
     detail_url = (
-        href if href.startswith("http") else "https://www1.buffstreamss.sx/" + href
+        href if href.startswith("http") else "https://m.crichd.pk/" + href
     )
 
     # ১. ইভেন্ট বা সময়ের নাম (যেমন: Live Now! বা Starts in: ...)
