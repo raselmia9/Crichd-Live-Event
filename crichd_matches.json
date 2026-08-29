@@ -25,14 +25,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "SevillaAtlético Madrid",
-        "team2_name": "Sevilla",
-        "team1_logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "detail_url": "https://crichd.pk/event/sevilla-vs-atletico-madrid"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "ChelseaBrighton & Hove Albion",
         "team2_name": "Chelsea",
         "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
