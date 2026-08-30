@@ -1,6 +1,22 @@
 [
     {
         "event_name": "Live Sports",
+        "team1_name": "Real MadridMálaga",
+        "team2_name": "Real Madrid",
+        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "detail_url": "https://crichd.pk/event/real-madrid-vs-malaga"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Manchester UnitedIpswich Town",
+        "team2_name": "Manchester United",
+        "team1_logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
+        "detail_url": "https://crichd.pk/event/manchester-united-vs-ipswich"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "Hockey World Cup 2026FIH Hockey World Cup",
         "team2_name": "Hockey World Cup 2026",
         "team1_logo": "https://cdn.img4every1.org/league/fih-hockey-world-cup/logo.webp",
@@ -14,14 +30,6 @@
         "team1_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "detail_url": "https://crichd.pk/event/us-open-2026"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "MotoGP Grand Prix of AragonMotoGP",
-        "team2_name": "MotoGP Grand Prix of Aragon",
-        "team1_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-        "detail_url": "https://crichd.pk/event/motogp-grand-prix-of-aragon"
     },
     {
         "event_name": "Live Sports",
@@ -49,27 +57,27 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Manchester UnitedIpswich Town",
-        "team2_name": "Manchester United",
-        "team1_logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
-        "detail_url": "https://crichd.pk/event/manchester-united-vs-ipswich"
+        "team1_name": "NapoliComo",
+        "team2_name": "Napoli",
+        "team1_logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "detail_url": "https://crichd.pk/event/napoli-vs-como"
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "ArsenalAston Villa",
-        "team2_name": "Arsenal",
-        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "detail_url": "https://crichd.pk/event/arsenal-vs-aston-villa"
+        "team1_name": "GenoaLazio",
+        "team2_name": "Genoa",
+        "team1_logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "detail_url": "https://crichd.pk/event/genoa-vs-lazio"
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Real MadridMálaga",
-        "team2_name": "Real Madrid",
-        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-        "detail_url": "https://crichd.pk/event/real-madrid-vs-malaga"
+        "team1_name": "Inter MilanCagliari",
+        "team2_name": "Inter Milan",
+        "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
+        "detail_url": "https://crichd.pk/event/inter-milan-vs-cagliari"
     },
     {
         "event_name": "Live Sports",
@@ -113,10 +121,10 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Inter MilanCagliari",
-        "team2_name": "Inter Milan",
-        "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
-        "detail_url": "https://crichd.pk/event/inter-milan-vs-cagliari"
+        "team1_name": "ArsenalAston Villa",
+        "team2_name": "Arsenal",
+        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "detail_url": "https://crichd.pk/event/arsenal-vs-aston-villa"
     }
 ]
