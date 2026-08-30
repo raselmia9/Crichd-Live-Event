@@ -9,14 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Celta de VigoAthletic Club",
-        "team2_name": "Celta de Vigo",
-        "team1_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "detail_url": "https://crichd.pk/event/celta-vigo-vs-athletic-club"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "GetafeOsasuna",
         "team2_name": "Getafe",
         "team1_logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
