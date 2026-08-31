@@ -1,14 +1,6 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_name": "ArsenalAston Villa",
-        "team2_name": "Arsenal",
-        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "detail_url": "https://crichd.pk/event/arsenal-vs-aston-villa"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "US Open 2026ATP Tour",
         "team2_name": "US Open 2026",
         "team1_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
@@ -22,54 +14,6 @@
         "team1_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "detail_url": "https://crichd.pk/event/british-open"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "AS RomaLecce",
-        "team2_name": "AS Roma",
-        "team1_logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "detail_url": "https://crichd.pk/event/roma-vs-lecce"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "GetafeOsasuna",
-        "team2_name": "Getafe",
-        "team1_logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "detail_url": "https://crichd.pk/event/getafe-vs-osasuna"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "AtalantaBologna",
-        "team2_name": "Atalanta",
-        "team1_logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
-        "detail_url": "https://crichd.pk/event/atalanta-vs-bologna"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "FC BarcelonaRayo Vallecano",
-        "team2_name": "FC Barcelona",
-        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "detail_url": "https://crichd.pk/event/barcelona-vs-rayo-vallecano"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Celta de VigoReal Sociedad",
-        "team2_name": "Celta de Vigo",
-        "team1_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "detail_url": "https://crichd.pk/event/celta-vigo-vs-real-sociedad"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Real MadridReal Betis",
-        "team2_name": "Real Madrid",
-        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "detail_url": "https://crichd.pk/event/real-madrid-vs-real-betis"
     },
     {
         "event_name": "Live Sports",
@@ -102,6 +46,22 @@
         "team1_logo": "https://cdn.img4every1.org/team/al-hilal/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/al-ahli/logo.webp",
         "detail_url": "https://crichd.pk/event/al-hilal-vs-al-ahli"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Celta de VigoReal Sociedad",
+        "team2_name": "Celta de Vigo",
+        "team1_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "detail_url": "https://crichd.pk/event/celta-vigo-vs-real-sociedad"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Real MadridReal Betis",
+        "team2_name": "Real Madrid",
+        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "detail_url": "https://crichd.pk/event/real-madrid-vs-real-betis"
     },
     {
         "event_name": "Liverpool",
