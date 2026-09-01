@@ -25,30 +25,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "TorinoMonza",
-        "team2_name": "Torino",
-        "team1_logo": "https://cdn.img4every1.org/team/torino/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/monza/logo.webp",
-        "detail_url": "https://crichd.pk/event/torino-vs-monza"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "SassuoloFrosinone Calcio",
-        "team2_name": "Sassuolo",
-        "team1_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
-        "detail_url": "https://crichd.pk/event/sassuolo-vs-frosinone"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "VeneziaUdinese",
-        "team2_name": "Venezia",
-        "team1_logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-        "detail_url": "https://crichd.pk/event/venezia-vs-udinese"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "West Ham UnitedWolverhampton Wanderers",
         "team2_name": "West Ham United",
         "team1_logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
@@ -94,6 +70,30 @@
         "team1_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/osnabruck/logo.webp",
         "detail_url": "https://crichd.pk/event/bayern-munich-vs-osnabruck"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "TorinoMonza",
+        "team2_name": "Torino",
+        "team1_logo": "https://cdn.img4every1.org/team/torino/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/monza/logo.webp",
+        "detail_url": "https://crichd.pk/event/torino-vs-monza"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "SassuoloFrosinone Calcio",
+        "team2_name": "Sassuolo",
+        "team1_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
+        "detail_url": "https://crichd.pk/event/sassuolo-vs-frosinone"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "VeneziaUdinese",
+        "team2_name": "Venezia",
+        "team1_logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
+        "detail_url": "https://crichd.pk/event/venezia-vs-udinese"
     },
     {
         "event_name": "Live Sports",
