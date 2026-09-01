@@ -33,11 +33,67 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "SassuoloFrosinone Calcio",
+        "team2_name": "Sassuolo",
+        "team1_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
+        "detail_url": "https://crichd.pk/event/sassuolo-vs-frosinone"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "VeneziaUdinese",
+        "team2_name": "Venezia",
+        "team1_logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
+        "detail_url": "https://crichd.pk/event/venezia-vs-udinese"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "West Ham UnitedWolverhampton Wanderers",
+        "team2_name": "West Ham United",
+        "team1_logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
+        "detail_url": "https://crichd.pk/event/west-ham-vs-wolves"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Millwall FCWrexham",
+        "team2_name": "Millwall FC",
+        "team1_logo": "https://cdn.img4every1.org/team/millwall-fc/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
+        "detail_url": "https://crichd.pk/event/millwall-vs-wrexham"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "Stoke CityNorwich City",
         "team2_name": "Stoke City",
         "team1_logo": "https://cdn.img4every1.org/team/stoke-city/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/norwich-city/logo.webp",
         "detail_url": "https://crichd.pk/event/stoke-city-vs-norwich-city"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Burnley FCMiddlesbrough",
+        "team2_name": "Burnley FC",
+        "team1_logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/middlesbrough/logo.webp",
+        "detail_url": "https://crichd.pk/event/burnley-vs-middlesbrough"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Borussia DortmundHEBC Hamburg",
+        "team2_name": "Borussia Dortmund",
+        "team1_logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/hebc-hamburg/logo.webp",
+        "detail_url": "https://crichd.pk/event/borussia-dortmund-vs-hebc-hamburg"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Bayern MünchenOsnabrück",
+        "team2_name": "Bayern München",
+        "team1_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/osnabruck/logo.webp",
+        "detail_url": "https://crichd.pk/event/bayern-munich-vs-osnabruck"
     },
     {
         "event_name": "Live Sports",
