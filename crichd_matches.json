@@ -17,43 +17,11 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "CremoneseParma",
-        "team2_name": "Cremonese",
-        "team1_logo": "https://cdn.img4every1.org/team/cremonese/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/parma/logo.webp",
-        "detail_url": "https://crichd.pk/event/cremonese-vs-parma"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "West Ham UnitedWolverhampton Wanderers",
         "team2_name": "West Ham United",
         "team1_logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
         "detail_url": "https://crichd.pk/event/west-ham-vs-wolves"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Millwall FCWrexham",
-        "team2_name": "Millwall FC",
-        "team1_logo": "https://cdn.img4every1.org/team/millwall-fc/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
-        "detail_url": "https://crichd.pk/event/millwall-vs-wrexham"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Stoke CityNorwich City",
-        "team2_name": "Stoke City",
-        "team1_logo": "https://cdn.img4every1.org/team/stoke-city/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/norwich-city/logo.webp",
-        "detail_url": "https://crichd.pk/event/stoke-city-vs-norwich-city"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Burnley FCMiddlesbrough",
-        "team2_name": "Burnley FC",
-        "team1_logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/middlesbrough/logo.webp",
-        "detail_url": "https://crichd.pk/event/burnley-vs-middlesbrough"
     },
     {
         "event_name": "Live Sports",
@@ -65,11 +33,11 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Bayern MünchenOsnabrück",
-        "team2_name": "Bayern München",
-        "team1_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/osnabruck/logo.webp",
-        "detail_url": "https://crichd.pk/event/bayern-munich-vs-osnabruck"
+        "team1_name": "Millwall FCWrexham",
+        "team2_name": "Millwall FC",
+        "team1_logo": "https://cdn.img4every1.org/team/millwall-fc/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
+        "detail_url": "https://crichd.pk/event/millwall-vs-wrexham"
     },
     {
         "event_name": "Live Sports",
@@ -78,6 +46,22 @@
         "team1_logo": "https://cdn.img4every1.org/team/torino/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/monza/logo.webp",
         "detail_url": "https://crichd.pk/event/torino-vs-monza"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Stoke CityNorwich City",
+        "team2_name": "Stoke City",
+        "team1_logo": "https://cdn.img4every1.org/team/stoke-city/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/norwich-city/logo.webp",
+        "detail_url": "https://crichd.pk/event/stoke-city-vs-norwich-city"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Al HilalAl Ahli",
+        "team2_name": "Al Hilal",
+        "team1_logo": "https://cdn.img4every1.org/team/al-hilal/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/al-ahli/logo.webp",
+        "detail_url": "https://crichd.pk/event/al-hilal-vs-al-ahli"
     },
     {
         "event_name": "Live Sports",
@@ -97,11 +81,19 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Al HilalAl Ahli",
-        "team2_name": "Al Hilal",
-        "team1_logo": "https://cdn.img4every1.org/team/al-hilal/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/al-ahli/logo.webp",
-        "detail_url": "https://crichd.pk/event/al-hilal-vs-al-ahli"
+        "team1_name": "Bayern MünchenOsnabrück",
+        "team2_name": "Bayern München",
+        "team1_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/osnabruck/logo.webp",
+        "detail_url": "https://crichd.pk/event/bayern-munich-vs-osnabruck"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Burnley FCMiddlesbrough",
+        "team2_name": "Burnley FC",
+        "team1_logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/middlesbrough/logo.webp",
+        "detail_url": "https://crichd.pk/event/burnley-vs-middlesbrough"
     },
     {
         "event_name": "Live Sports",
