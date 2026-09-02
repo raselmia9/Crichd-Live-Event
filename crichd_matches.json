@@ -41,6 +41,14 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "Millwall FCWrexham",
+        "team2_name": "Millwall FC",
+        "team1_logo": "https://cdn.img4every1.org/team/millwall-fc/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
+        "detail_url": "https://crichd.pk/event/millwall-vs-wrexham"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "Burnley FCMiddlesbrough",
         "team2_name": "Burnley FC",
         "team1_logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
