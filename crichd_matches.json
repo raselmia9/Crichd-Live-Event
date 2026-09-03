@@ -33,14 +33,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "South Sydney RabbitohsSydney Roosters",
-        "team2_name": "South Sydney Rabbitohs",
-        "team1_logo": "https://cdn.img4every1.org/team/south-sydney-rabbitohs/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sydney-roosters/logo.webp",
-        "detail_url": "https://crichd.pk/event/rabbitohs-vs-roosters"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "FremantleHawthorn Hawks",
         "team2_name": "Fremantle",
         "team1_logo": "https://cdn.img4every1.org/team/fremantle/logo.webp",
@@ -174,6 +166,14 @@
         "team1_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "detail_url": "https://crichd.pk/event/italian-gp"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "South Sydney RabbitohsSydney Roosters",
+        "team2_name": "South Sydney Rabbitohs",
+        "team1_logo": "https://cdn.img4every1.org/team/south-sydney-rabbitohs/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/sydney-roosters/logo.webp",
+        "detail_url": "https://crichd.pk/event/rabbitohs-vs-roosters"
     },
     {
         "event_name": "Live Sports",
