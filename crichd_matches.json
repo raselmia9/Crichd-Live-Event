@@ -17,38 +17,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "DolphinsGold Coast Titans",
-        "team2_name": "Dolphins",
-        "team1_logo": "https://cdn.img4every1.org/team/dolphins-nrl/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/gold-coast-titans/logo.webp",
-        "detail_url": "https://crichd.pk/event/dolphins-vs-titans"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Canterbury BulldogsBrisbane Broncos",
-        "team2_name": "Canterbury Bulldogs",
-        "team1_logo": "https://cdn.img4every1.org/team/canterbury-bulldogs/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/brisbane-broncos/logo.webp",
-        "detail_url": "https://crichd.pk/event/canterbury-bulldogs-vs-brisbane-broncos"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "FremantleHawthorn Hawks",
-        "team2_name": "Fremantle",
-        "team1_logo": "https://cdn.img4every1.org/team/fremantle/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/hawthorn-hawks/logo.webp",
-        "detail_url": "https://crichd.pk/event/fremantle-vs-hawthorn"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Geelong CatsCarlton",
-        "team2_name": "Geelong Cats",
-        "team1_logo": "https://cdn.img4every1.org/team/geelong-cats/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/carlton/logo.webp",
-        "detail_url": "https://crichd.pk/event/geelong-cats-vs-carlton"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Omega European MastersPGA Tour",
         "team2_name": "Omega European Masters",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -70,6 +38,38 @@
         "team1_logo": "https://cdn.img4every1.org/team/hellas-verona/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
         "detail_url": "https://crichd.pk/event/hellas-verona-vs-cagliari"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Al DiriyahAl Qadsiah",
+        "team2_name": "Al Diriyah",
+        "team1_logo": "https://cdn.img4every1.org/team/al-diriyah/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/al-qadsiah/logo.webp",
+        "detail_url": "https://crichd.pk/event/diriyah-vs-al-qadisiyah"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Al AhliAl Riyadh",
+        "team2_name": "Al Ahli",
+        "team1_logo": "https://cdn.img4every1.org/team/al-ahli/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/al-riyadh/logo.webp",
+        "detail_url": "https://crichd.pk/event/al-ahli-saudi-vs-al-riyadh"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Al ShababAl Hilal",
+        "team2_name": "Al Shabab",
+        "team1_logo": "https://cdn.img4every1.org/team/al-shabab/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/al-hilal/logo.webp",
+        "detail_url": "https://crichd.pk/event/al-shabab-vs-al-hilal"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Al-NassrAl Ittihad",
+        "team2_name": "Al-Nassr",
+        "team1_logo": "https://cdn.img4every1.org/team/al-nassr/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/al-ittihad/logo.webp",
+        "detail_url": "https://crichd.pk/event/al-nassr-vs-al-ittihad"
     },
     {
         "event_name": "Live Sports",
@@ -153,19 +153,19 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "MálagaLevante",
-        "team2_name": "Málaga",
-        "team1_logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "detail_url": "https://crichd.pk/event/malaga-vs-levante"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "F1 Italian Grand PrixFormula 1",
         "team2_name": "F1 Italian Grand Prix",
         "team1_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "detail_url": "https://crichd.pk/event/italian-gp"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Geelong CatsCarlton",
+        "team2_name": "Geelong Cats",
+        "team1_logo": "https://cdn.img4every1.org/team/geelong-cats/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/carlton/logo.webp",
+        "detail_url": "https://crichd.pk/event/geelong-cats-vs-carlton"
     },
     {
         "event_name": "Live Sports",
