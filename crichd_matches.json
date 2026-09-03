@@ -33,14 +33,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Hellas VeronaCagliari",
-        "team2_name": "Hellas Verona",
-        "team1_logo": "https://cdn.img4every1.org/team/hellas-verona/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
-        "detail_url": "https://crichd.pk/event/hellas-verona-vs-cagliari"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Al DiriyahAl Qadsiah",
         "team2_name": "Al Diriyah",
         "team1_logo": "https://cdn.img4every1.org/team/al-diriyah/logo.webp",
@@ -94,6 +86,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/as-monaco/logo.webp",
         "detail_url": "https://crichd.pk/event/psg-vs-monaco"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Hellas VeronaCagliari",
+        "team2_name": "Hellas Verona",
+        "team1_logo": "https://cdn.img4every1.org/team/hellas-verona/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
+        "detail_url": "https://crichd.pk/event/hellas-verona-vs-cagliari"
     },
     {
         "event_name": "Live Sports",
