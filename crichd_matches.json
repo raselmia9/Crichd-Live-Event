@@ -25,30 +25,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "LilleToulouse",
-        "team2_name": "Lille",
-        "team1_logo": "https://cdn.img4every1.org/team/lille/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
-        "detail_url": "https://crichd.pk/event/lille-vs-toulouse"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Hellas VeronaCagliari",
-        "team2_name": "Hellas Verona",
-        "team1_logo": "https://cdn.img4every1.org/team/hellas-verona/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
-        "detail_url": "https://crichd.pk/event/hellas-verona-vs-cagliari"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Celta de VigoReal Sociedad",
-        "team2_name": "Celta de Vigo",
-        "team1_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "detail_url": "https://crichd.pk/event/celta-vigo-vs-real-sociedad"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "F1 Italian Grand PrixFormula 1",
         "team2_name": "F1 Italian Grand Prix",
         "team1_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
@@ -230,6 +206,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
         "detail_url": "https://crichd.pk/event/malaga-vs-levante"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "SevillaEspanyol",
+        "team2_name": "Sevilla",
+        "team1_logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
+        "detail_url": "https://crichd.pk/event/sevilla-vs-espanyol"
     },
     {
         "event_name": "Liverpool",
