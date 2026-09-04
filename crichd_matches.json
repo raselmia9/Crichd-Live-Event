@@ -1,30 +1,6 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_name": "Real MadridReal Betis",
-        "team2_name": "Real Madrid",
-        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "detail_url": "https://crichd.pk/event/real-madrid-vs-real-betis"
-    },
-    {
-        "event_name": "Liverpool",
-        "team1_name": "Ipswich Town",
-        "team2_name": "Team 2",
-        "team1_logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
-        "detail_url": "https://crichd.pk/event/liverpool-vs-ipswich-town"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "PSGAS Monaco",
-        "team2_name": "PSG",
-        "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/as-monaco/logo.webp",
-        "detail_url": "https://crichd.pk/event/psg-vs-monaco"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "US Open 2026ATP Tour",
         "team2_name": "US Open 2026",
         "team1_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
@@ -54,22 +30,6 @@
         "team1_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "detail_url": "https://crichd.pk/event/italian-gp"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "ComoGenoa",
-        "team2_name": "Como",
-        "team1_logo": "https://cdn.img4every1.org/team/como/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
-        "detail_url": "https://crichd.pk/event/como-vs-genoa"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "PortoMoreirense",
-        "team2_name": "Porto",
-        "team1_logo": "https://cdn.img4every1.org/team/porto/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/moreirense/logo.webp",
-        "detail_url": "https://crichd.pk/event/porto-vs-moreirense"
     },
     {
         "event_name": "Live Sports",
