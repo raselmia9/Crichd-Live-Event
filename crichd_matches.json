@@ -33,22 +33,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Geelong CatsCarlton",
-        "team2_name": "Geelong Cats",
-        "team1_logo": "https://cdn.img4every1.org/team/geelong-cats/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/carlton/logo.webp",
-        "detail_url": "https://crichd.pk/event/geelong-cats-vs-carlton"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "South Sydney RabbitohsSydney Roosters",
-        "team2_name": "South Sydney Rabbitohs",
-        "team1_logo": "https://cdn.img4every1.org/team/south-sydney-rabbitohs/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sydney-roosters/logo.webp",
-        "detail_url": "https://crichd.pk/event/rabbitohs-vs-roosters"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Olympique LyonnaisAuxerre",
         "team2_name": "Olympique Lyonnais",
         "team1_logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
