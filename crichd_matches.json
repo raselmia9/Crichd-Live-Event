@@ -49,38 +49,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Al-NassrAl Ittihad",
-        "team2_name": "Al-Nassr",
-        "team1_logo": "https://cdn.img4every1.org/team/al-nassr/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/al-ittihad/logo.webp",
-        "detail_url": "https://crichd.pk/event/al-nassr-vs-al-ittihad"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "AS RomaAtalanta",
-        "team2_name": "AS Roma",
-        "team1_logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
-        "detail_url": "https://crichd.pk/event/roma-vs-atalanta"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Swansea CityWrexham",
-        "team2_name": "Swansea City",
-        "team1_logo": "https://cdn.img4every1.org/team/swansea-city/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
-        "detail_url": "https://crichd.pk/event/swansea-city-vs-wrexham"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "VillarrealDeportivo La Coruña",
-        "team2_name": "Villarreal",
-        "team1_logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
-        "detail_url": "https://crichd.pk/event/villarreal-vs-la-coruna"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "AustraliaArgentina",
         "team2_name": "Australia",
         "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
