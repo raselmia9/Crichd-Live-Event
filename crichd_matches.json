@@ -137,6 +137,14 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "Borussia DortmundHoffenheim",
+        "team2_name": "Borussia Dortmund",
+        "team1_logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
+        "detail_url": "https://crichd.pk/event/borussia-dortmund-vs-hoffenheim"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "Bayern MünchenSchalke 04",
         "team2_name": "Bayern München",
         "team1_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
