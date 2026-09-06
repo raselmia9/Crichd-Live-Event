@@ -25,22 +25,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "AC MilanJuventus",
-        "team2_name": "AC Milan",
-        "team1_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "detail_url": "https://crichd.pk/event/milan-vs-juventus"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "SevillaEspanyol",
-        "team2_name": "Sevilla",
-        "team1_logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
-        "detail_url": "https://crichd.pk/event/sevilla-vs-espanyol"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Celta de VigoGetafe",
         "team2_name": "Celta de Vigo",
         "team1_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
