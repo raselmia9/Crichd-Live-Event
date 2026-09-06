@@ -1,6 +1,38 @@
 [
     {
         "event_name": "Live Sports",
+        "team1_name": "F1 Italian Grand PrixFormula 1",
+        "team2_name": "F1 Italian Grand Prix",
+        "team1_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "detail_url": "https://crichd.pk/event/italian-gp"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Manchester UnitedEverton",
+        "team2_name": "Manchester United",
+        "team1_logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+        "detail_url": "https://crichd.pk/event/manchester-united-vs-everton"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "FC BarcelonaValencia",
+        "team2_name": "FC Barcelona",
+        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+        "detail_url": "https://crichd.pk/event/barcelona-vs-valencia"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "ChelseaArsenal",
+        "team2_name": "Chelsea",
+        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "detail_url": "https://crichd.pk/event/chelsea-vs-arsenal"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "US Open 2026ATP Tour",
         "team2_name": "US Open 2026",
         "team1_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
@@ -25,14 +57,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "F1 Italian Grand PrixFormula 1",
-        "team2_name": "F1 Italian Grand Prix",
-        "team1_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "detail_url": "https://crichd.pk/event/italian-gp"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "IndyCar Monterey Grand PrixMotorSports",
         "team2_name": "IndyCar Monterey Grand Prix",
         "team1_logo": "https://cdn.img4every1.org/league/motorsports-streams-free/logo.webp",
@@ -41,59 +65,11 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "ArsenalBrighton & Hove Albion",
-        "team2_name": "Arsenal",
-        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-        "detail_url": "https://crichd.pk/event/arsenal-vs-brighton"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Birmingham CityWolverhampton Wanderers",
-        "team2_name": "Birmingham City",
-        "team1_logo": "https://cdn.img4every1.org/team/birmingham-city/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
-        "detail_url": "https://crichd.pk/event/birmingham-city-vs-wolves"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Manchester UnitedEverton",
-        "team2_name": "Manchester United",
-        "team1_logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "detail_url": "https://crichd.pk/event/manchester-united-vs-everton"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "ChelseaArsenal",
-        "team2_name": "Chelsea",
-        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "detail_url": "https://crichd.pk/event/chelsea-vs-arsenal"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "ParmaMonza",
         "team2_name": "Parma",
         "team1_logo": "https://cdn.img4every1.org/team/parma/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/monza/logo.webp",
         "detail_url": "https://crichd.pk/event/parma-vs-monza"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "BolognaSassuolo",
-        "team2_name": "Bologna",
-        "team1_logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "detail_url": "https://crichd.pk/event/bologna-vs-sassuolo"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "AC MilanJuventus",
-        "team2_name": "AC Milan",
-        "team1_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "detail_url": "https://crichd.pk/event/milan-vs-juventus"
     },
     {
         "event_name": "Live Sports",
@@ -113,11 +89,27 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "FC BarcelonaValencia",
-        "team2_name": "FC Barcelona",
-        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-        "detail_url": "https://crichd.pk/event/barcelona-vs-valencia"
+        "team1_name": "BolognaSassuolo",
+        "team2_name": "Bologna",
+        "team1_logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "detail_url": "https://crichd.pk/event/bologna-vs-sassuolo"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "AC MilanJuventus",
+        "team2_name": "AC Milan",
+        "team1_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "detail_url": "https://crichd.pk/event/milan-vs-juventus"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "LazioUdinese",
+        "team2_name": "Lazio",
+        "team1_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
+        "detail_url": "https://crichd.pk/event/lazio-vs-udinese"
     },
     {
         "event_name": "Live Sports",
@@ -142,6 +134,30 @@
         "team1_logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
         "detail_url": "https://crichd.pk/event/sevilla-vs-espanyol"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Celta de VigoGetafe",
+        "team2_name": "Celta de Vigo",
+        "team1_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "detail_url": "https://crichd.pk/event/celta-de-vigo-vs-getafe"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Real SociedadElche CF",
+        "team2_name": "Real Sociedad",
+        "team1_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+        "detail_url": "https://crichd.pk/event/elche-vs-real-sociedad"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "AFC WimbledonBromley",
+        "team2_name": "AFC Wimbledon",
+        "team1_logo": "https://cdn.img4every1.org/team/afc-wimbledon/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/bromley/logo.webp",
+        "detail_url": "https://crichd.pk/event/afc-wimbledon-vs-bromley"
     },
     {
         "event_name": "Live Sports",
