@@ -1,14 +1,6 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_name": "ChelseaArsenal",
-        "team2_name": "Chelsea",
-        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "detail_url": "https://crichd.pk/event/chelsea-vs-arsenal"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "US Open 2026ATP Tour",
         "team2_name": "US Open 2026",
         "team1_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
@@ -33,51 +25,11 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Eintracht FrankfurtAugsburg",
-        "team2_name": "Eintracht Frankfurt",
-        "team1_logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/augsburg/logo.webp",
-        "detail_url": "https://crichd.pk/event/eintracht-frankfurt-vs-augsburg"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "BolognaSassuolo",
-        "team2_name": "Bologna",
-        "team1_logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "detail_url": "https://crichd.pk/event/bologna-vs-sassuolo"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Deportivo AlavésOsasuna",
-        "team2_name": "Deportivo Alavés",
-        "team1_logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "detail_url": "https://crichd.pk/event/alaves-vs-osasuna"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "MálagaLevante",
-        "team2_name": "Málaga",
-        "team1_logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "detail_url": "https://crichd.pk/event/malaga-vs-levante"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "AC MilanJuventus",
         "team2_name": "AC Milan",
         "team1_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
         "detail_url": "https://crichd.pk/event/milan-vs-juventus"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "LazioUdinese",
-        "team2_name": "Lazio",
-        "team1_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-        "detail_url": "https://crichd.pk/event/lazio-vs-udinese"
     },
     {
         "event_name": "Live Sports",
@@ -102,6 +54,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
         "detail_url": "https://crichd.pk/event/elche-vs-real-sociedad"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "LazioUdinese",
+        "team2_name": "Lazio",
+        "team1_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
+        "detail_url": "https://crichd.pk/event/lazio-vs-udinese"
     },
     {
         "event_name": "Live Sports",
