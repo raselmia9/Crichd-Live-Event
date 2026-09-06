@@ -17,14 +17,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "IndyCar Monterey Grand PrixMotorSports",
-        "team2_name": "IndyCar Monterey Grand Prix",
-        "team1_logo": "https://cdn.img4every1.org/league/motorsports-streams-free/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/motorsports-streams-free/logo.webp",
-        "detail_url": "https://crichd.pk/event/indycar-monterey-grand-prix"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Celta de VigoGetafe",
         "team2_name": "Celta de Vigo",
         "team1_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
