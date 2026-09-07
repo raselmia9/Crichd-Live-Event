@@ -9,38 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "LazioUdinese",
-        "team2_name": "Lazio",
-        "team1_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-        "detail_url": "https://crichd.pk/event/lazio-vs-udinese"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "AFC WimbledonBromley",
-        "team2_name": "AFC Wimbledon",
-        "team1_logo": "https://cdn.img4every1.org/team/afc-wimbledon/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/bromley/logo.webp",
-        "detail_url": "https://crichd.pk/event/afc-wimbledon-vs-bromley"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "EstorilArouca",
-        "team2_name": "Estoril",
-        "team1_logo": "https://cdn.img4every1.org/team/estoril/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/arouca/logo.webp",
-        "detail_url": "https://crichd.pk/event/estoril-vs-arouca"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Real SociedadElche CF",
-        "team2_name": "Real Sociedad",
-        "team1_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
-        "detail_url": "https://crichd.pk/event/elche-vs-real-sociedad"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Aston VillaClub Brugge",
         "team2_name": "Aston Villa",
         "team1_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
