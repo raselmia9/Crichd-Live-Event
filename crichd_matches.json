@@ -9,22 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "CagliariLecce",
-        "team2_name": "Cagliari",
-        "team1_logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "detail_url": "https://crichd.pk/event/cagliari-vs-lecce"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Celta de VigoGetafe",
-        "team2_name": "Celta de Vigo",
-        "team1_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "detail_url": "https://crichd.pk/event/celta-de-vigo-vs-getafe"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "LazioUdinese",
         "team2_name": "Lazio",
         "team1_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
