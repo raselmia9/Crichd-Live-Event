@@ -9,14 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "British OpenSnooker",
-        "team2_name": "British Open",
-        "team1_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "detail_url": "https://crichd.pk/event/british-open"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Celta de VigoGetafe",
         "team2_name": "Celta de Vigo",
         "team1_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
