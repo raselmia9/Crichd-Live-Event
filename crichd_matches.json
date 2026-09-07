@@ -9,19 +9,19 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "CagliariLecce",
+        "team2_name": "Cagliari",
+        "team1_logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
+        "detail_url": "https://crichd.pk/event/cagliari-vs-lecce"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "Celta de VigoGetafe",
         "team2_name": "Celta de Vigo",
         "team1_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
         "detail_url": "https://crichd.pk/event/celta-de-vigo-vs-getafe"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Real SociedadElche CF",
-        "team2_name": "Real Sociedad",
-        "team1_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
-        "detail_url": "https://crichd.pk/event/elche-vs-real-sociedad"
     },
     {
         "event_name": "Live Sports",
@@ -38,6 +38,22 @@
         "team1_logo": "https://cdn.img4every1.org/team/afc-wimbledon/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/bromley/logo.webp",
         "detail_url": "https://crichd.pk/event/afc-wimbledon-vs-bromley"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "EstorilArouca",
+        "team2_name": "Estoril",
+        "team1_logo": "https://cdn.img4every1.org/team/estoril/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/arouca/logo.webp",
+        "detail_url": "https://crichd.pk/event/estoril-vs-arouca"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Real SociedadElche CF",
+        "team2_name": "Real Sociedad",
+        "team1_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+        "detail_url": "https://crichd.pk/event/elche-vs-real-sociedad"
     },
     {
         "event_name": "Live Sports",
