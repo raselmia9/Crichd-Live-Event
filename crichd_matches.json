@@ -25,6 +25,30 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "Burnley FCWrexham",
+        "team2_name": "Burnley FC",
+        "team1_logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
+        "detail_url": "https://crichd.pk/event/burnley-vs-wrexham"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Bolton WanderersWest Ham United",
+        "team2_name": "Bolton Wanderers",
+        "team1_logo": "https://cdn.img4every1.org/team/bolton-wanderers/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
+        "detail_url": "https://crichd.pk/event/bolton-wanderers-vs-west-ham-united"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Millwall FCNewcastle United",
+        "team2_name": "Millwall FC",
+        "team1_logo": "https://cdn.img4every1.org/team/millwall-fc/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
+        "detail_url": "https://crichd.pk/event/millwall-vs-newcastle-united"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "Borussia DortmundVillarreal",
         "team2_name": "Borussia Dortmund",
         "team1_logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
@@ -46,6 +70,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
         "detail_url": "https://crichd.pk/event/real-madrid-vs-inter-milan"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Real BetisLille",
+        "team2_name": "Real Betis",
+        "team1_logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/lille/logo.webp",
+        "detail_url": "https://crichd.pk/event/real-betis-vs-lille"
     },
     {
         "event_name": "Live Sports",
@@ -73,26 +105,10 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Burnley FCWrexham",
-        "team2_name": "Burnley FC",
-        "team1_logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
-        "detail_url": "https://crichd.pk/event/burnley-vs-wrexham"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Bolton WanderersWest Ham United",
-        "team2_name": "Bolton Wanderers",
-        "team1_logo": "https://cdn.img4every1.org/team/bolton-wanderers/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
-        "detail_url": "https://crichd.pk/event/bolton-wanderers-vs-west-ham-united"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Millwall FCNewcastle United",
-        "team2_name": "Millwall FC",
-        "team1_logo": "https://cdn.img4every1.org/team/millwall-fc/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-        "detail_url": "https://crichd.pk/event/millwall-vs-newcastle-united"
+        "team1_name": "ArsenalNapoli",
+        "team2_name": "Arsenal",
+        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "detail_url": "https://crichd.pk/event/arsenal-vs-napoli"
     }
 ]
