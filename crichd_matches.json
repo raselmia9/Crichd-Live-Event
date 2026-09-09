@@ -17,14 +17,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "BenficaMoreirense",
-        "team2_name": "Benfica",
-        "team1_logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/moreirense/logo.webp",
-        "detail_url": "https://crichd.pk/event/benfica-vs-moreirense"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "New England PatriotsSeattle Seahawks",
         "team2_name": "New England Patriots",
         "team1_logo": "https://cdn.img4every1.org/team/new-england-patriots/logo.webp",
