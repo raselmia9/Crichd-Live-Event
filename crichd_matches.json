@@ -16,14 +16,6 @@
         "detail_url": "https://crichd.pk/event/english-open-snooker"
     },
     {
-        "event_name": "Liverpool",
-        "team1_name": "Atlético Madrid",
-        "team2_name": "Team 2",
-        "team1_logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "detail_url": "https://crichd.pk/event/atletico-vs-liverpool"
-    },
-    {
         "event_name": "Live Sports",
         "team1_name": "FC BarcelonaFeyenoord",
         "team2_name": "FC Barcelona",
@@ -206,6 +198,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
         "detail_url": "https://crichd.pk/event/milan-vs-lazio"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "AtalantaCagliari",
+        "team2_name": "Atalanta",
+        "team1_logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
+        "detail_url": "https://crichd.pk/event/atalanta-vs-cagliari"
     },
     {
         "event_name": "Live Sports",
