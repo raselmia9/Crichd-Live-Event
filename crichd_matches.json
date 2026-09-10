@@ -17,30 +17,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "New England PatriotsSeattle Seahawks",
-        "team2_name": "New England Patriots",
-        "team1_logo": "https://cdn.img4every1.org/team/new-england-patriots/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
-        "detail_url": "https://crichd.pk/event/patriots-vs-seahawks"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Los Angeles RamsSan Francisco 49ers",
-        "team2_name": "Los Angeles Rams",
-        "team1_logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
-        "detail_url": "https://crichd.pk/event/rams-vs-49ers-live"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Chicago BearsCarolina Panthers",
-        "team2_name": "Chicago Bears",
-        "team1_logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
-        "detail_url": "https://crichd.pk/event/bears-vs-panthers"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Irish OpenPGA Tour",
         "team2_name": "Irish Open",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -118,6 +94,22 @@
         "team1_logo": "https://cdn.img4every1.org/team/estrela/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/sporting-braga/logo.webp",
         "detail_url": "https://crichd.pk/event/estrela-vs-sporting-braga"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Los Angeles RamsSan Francisco 49ers",
+        "team2_name": "Los Angeles Rams",
+        "team1_logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
+        "detail_url": "https://crichd.pk/event/rams-vs-49ers-live"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Chicago BearsCarolina Panthers",
+        "team2_name": "Chicago Bears",
+        "team1_logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
+        "detail_url": "https://crichd.pk/event/bears-vs-panthers"
     },
     {
         "event_name": "Live Sports",
