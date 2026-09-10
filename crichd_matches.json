@@ -113,6 +113,22 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "MotoGP San Marino Grand PrixMotoGP",
+        "team2_name": "MotoGP San Marino Grand Prix",
+        "team1_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "detail_url": "https://crichd.pk/event/motogp-san-marino-grand-prix"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "f1 Spanish Grand PrixFormula 1",
+        "team2_name": "f1 Spanish Grand Prix",
+        "team1_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "detail_url": "https://crichd.pk/event/f1-spanish-grand-prix"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "Union BerlinSchalke 04",
         "team2_name": "Union Berlin",
         "team1_logo": "https://cdn.img4every1.org/team/union-berlin/logo.webp",
