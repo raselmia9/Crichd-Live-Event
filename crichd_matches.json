@@ -25,54 +25,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "LensSlavia Praha",
-        "team2_name": "Lens",
-        "team1_logo": "https://cdn.img4every1.org/team/lens/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/slavia-praha/logo.webp",
-        "detail_url": "https://crichd.pk/event/lens-vs-slavia-praha"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Manchester UnitedSabah Baku",
-        "team2_name": "Manchester United",
-        "team1_logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sabah-baku/logo.webp",
-        "detail_url": "https://crichd.pk/event/manchester-united-vs-sabah"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Bayern MünchenFK Bodo Glimt",
-        "team2_name": "Bayern München",
-        "team1_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/fk-bodo-glimt/logo.webp",
-        "detail_url": "https://crichd.pk/event/bayern-munchen-vs-bodo-glimt"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "ComoRB Leipzig",
-        "team2_name": "Como",
-        "team1_logo": "https://cdn.img4every1.org/team/como/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
-        "detail_url": "https://crichd.pk/event/como-vs-rb-leipzig"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "StevenageLuton Town",
-        "team2_name": "Stevenage",
-        "team1_logo": "https://cdn.img4every1.org/team/stevenage/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/luton-town/logo.webp",
-        "detail_url": "https://crichd.pk/event/stevenage-vs-luton-town"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "EstrelaSporting Braga",
-        "team2_name": "Estrela",
-        "team1_logo": "https://cdn.img4every1.org/team/estrela/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sporting-braga/logo.webp",
-        "detail_url": "https://crichd.pk/event/estrela-vs-sporting-braga"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Los Angeles RamsSan Francisco 49ers",
         "team2_name": "Los Angeles Rams",
         "team1_logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
