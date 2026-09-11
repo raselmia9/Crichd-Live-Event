@@ -65,35 +65,19 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "GenoaFrosinone Calcio",
-        "team2_name": "Genoa",
-        "team1_logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
-        "detail_url": "https://crichd.pk/event/genoa-vs-frosinone"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "AC MilanLazio",
-        "team2_name": "AC Milan",
-        "team1_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "detail_url": "https://crichd.pk/event/milan-vs-lazio"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "AtalantaCagliari",
-        "team2_name": "Atalanta",
-        "team1_logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
-        "detail_url": "https://crichd.pk/event/atalanta-vs-cagliari"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "ValenciaSevilla",
         "team2_name": "Valencia",
         "team1_logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
         "detail_url": "https://crichd.pk/event/valencia-vs-sevilla"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "West Ham UnitedWrexham",
+        "team2_name": "West Ham United",
+        "team1_logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
+        "detail_url": "https://crichd.pk/event/west-ham-united-vs-wrexham"
     },
     {
         "event_name": "Live Sports",
@@ -129,11 +113,27 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "West Ham UnitedWrexham",
-        "team2_name": "West Ham United",
-        "team1_logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
-        "detail_url": "https://crichd.pk/event/west-ham-united-vs-wrexham"
+        "team1_name": "GenoaFrosinone Calcio",
+        "team2_name": "Genoa",
+        "team1_logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
+        "detail_url": "https://crichd.pk/event/genoa-vs-frosinone"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "AC MilanLazio",
+        "team2_name": "AC Milan",
+        "team1_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "detail_url": "https://crichd.pk/event/milan-vs-lazio"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "AtalantaCagliari",
+        "team2_name": "Atalanta",
+        "team1_logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
+        "detail_url": "https://crichd.pk/event/atalanta-vs-cagliari"
     },
     {
         "event_name": "Live Sports",
