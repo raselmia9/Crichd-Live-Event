@@ -41,46 +41,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Union BerlinSchalke 04",
-        "team2_name": "Union Berlin",
-        "team1_logo": "https://cdn.img4every1.org/team/union-berlin/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
-        "detail_url": "https://crichd.pk/event/union-berlin-vs-schalke-04"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "RennesOlympique Marseille",
-        "team2_name": "Rennes",
-        "team1_logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
-        "detail_url": "https://crichd.pk/event/rennes-vs-olympique-marseille"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "VeneziaFiorentina",
-        "team2_name": "Venezia",
-        "team1_logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-        "detail_url": "https://crichd.pk/event/venezia-vs-fiorentina"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "ValenciaSevilla",
-        "team2_name": "Valencia",
-        "team1_logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "detail_url": "https://crichd.pk/event/valencia-vs-sevilla"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "West Ham UnitedWrexham",
-        "team2_name": "West Ham United",
-        "team1_logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
-        "detail_url": "https://crichd.pk/event/west-ham-united-vs-wrexham"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Racing SantanderDeportivo Alavés",
         "team2_name": "Racing Santander",
         "team1_logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
