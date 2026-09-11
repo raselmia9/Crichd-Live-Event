@@ -25,22 +25,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Los Angeles RamsSan Francisco 49ers",
-        "team2_name": "Los Angeles Rams",
-        "team1_logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
-        "detail_url": "https://crichd.pk/event/rams-vs-49ers-live"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Chicago BearsCarolina Panthers",
-        "team2_name": "Chicago Bears",
-        "team1_logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
-        "detail_url": "https://crichd.pk/event/bears-vs-panthers"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "MotoGP San Marino Grand PrixMotoGP",
         "team2_name": "MotoGP San Marino Grand Prix",
         "team1_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
@@ -206,5 +190,13 @@
         "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
         "detail_url": "https://crichd.pk/event/arsenal-vs-sunderland"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Chicago BearsCarolina Panthers",
+        "team2_name": "Chicago Bears",
+        "team1_logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
+        "detail_url": "https://crichd.pk/event/bears-vs-panthers"
     }
 ]
