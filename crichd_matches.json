@@ -1,22 +1,6 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_name": "Real MadridRayo Vallecano",
-        "team2_name": "Real Madrid",
-        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "detail_url": "https://crichd.pk/event/real-madrid-vs-rayo-vallecano"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "ArsenalSunderland",
-        "team2_name": "Arsenal",
-        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-        "detail_url": "https://crichd.pk/event/arsenal-vs-sunderland"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "US Open 2026ATP Tour",
         "team2_name": "US Open 2026",
         "team1_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
@@ -54,14 +38,6 @@
         "team1_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "detail_url": "https://crichd.pk/event/f1-spanish-grand-prix"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "AtalantaCagliari",
-        "team2_name": "Atalanta",
-        "team1_logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
-        "detail_url": "https://crichd.pk/event/atalanta-vs-cagliari"
     },
     {
         "event_name": "Live Sports",
