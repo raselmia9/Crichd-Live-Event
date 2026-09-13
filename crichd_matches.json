@@ -9,51 +9,11 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "PSGBrest",
-        "team2_name": "PSG",
-        "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/brest/logo.webp",
-        "detail_url": "https://crichd.pk/event/psg-vs-brest"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "JuventusSassuolo",
-        "team2_name": "Juventus",
-        "team1_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "detail_url": "https://crichd.pk/event/juventus-vs-sassuolo"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "English Open SnookerSnooker",
         "team2_name": "English Open Snooker",
         "team1_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "detail_url": "https://crichd.pk/event/english-open-snooker"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Irish OpenPGA Tour",
-        "team2_name": "Irish Open",
-        "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "detail_url": "https://crichd.pk/event/irish-open"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Chicago BearsCarolina Panthers",
-        "team2_name": "Chicago Bears",
-        "team1_logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
-        "detail_url": "https://crichd.pk/event/bears-vs-panthers"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Atlético MadridReal Sociedad",
-        "team2_name": "Atlético Madrid",
-        "team1_logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "detail_url": "https://crichd.pk/event/atletico-madrid-vs-real-sociedad"
     },
     {
         "event_name": "Live Sports",
@@ -310,5 +270,29 @@
         "team1_logo": "https://cdn.img4every1.org/team/ofi/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
         "detail_url": "https://crichd.pk/event/ofi-vs-hoffenheim"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "SalzburgLevski Sofia",
+        "team2_name": "Salzburg",
+        "team1_logo": "https://cdn.img4every1.org/team/salzburg/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/levski-sofia/logo.webp",
+        "detail_url": "https://crichd.pk/event/salzburg-vs-le-vs-ki-sofia"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "JuventusNEC",
+        "team2_name": "Juventus",
+        "team1_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/nec/logo.webp",
+        "detail_url": "https://crichd.pk/event/juventus-vs-nec"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "CelticFerencváros",
+        "team2_name": "Celtic",
+        "team1_logo": "https://cdn.img4every1.org/team/celtic/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/ferencvaros/logo.webp",
+        "detail_url": "https://crichd.pk/event/celtic-vs-ferencvaros"
     }
 ]
