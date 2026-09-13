@@ -150,5 +150,13 @@
         "team1_logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
         "detail_url": "https://crichd.pk/event/atletico-madrid-vs-real-sociedad"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "MotoGP Austria Grand PrixMotoGP",
+        "team2_name": "MotoGP Austria Grand Prix",
+        "team1_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "detail_url": "https://crichd.pk/event/motogp-austria-grand-prix"
     }
 ]
