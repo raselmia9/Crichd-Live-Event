@@ -1,30 +1,6 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_name": "US Open 2026ATP Tour",
-        "team2_name": "US Open 2026",
-        "team1_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
-        "detail_url": "https://crichd.pk/event/us-open-2026"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "English Open SnookerSnooker",
-        "team2_name": "English Open Snooker",
-        "team1_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "detail_url": "https://crichd.pk/event/english-open-snooker"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Philadelphia EaglesWashington Commanders",
-        "team2_name": "Philadelphia Eagles",
-        "team1_logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
-        "detail_url": "https://crichd.pk/event/eagles-vs-commanders-live"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Dallas CowboysNew York Giants",
         "team2_name": "Dallas Cowboys",
         "team1_logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
@@ -294,5 +270,21 @@
         "team1_logo": "https://cdn.img4every1.org/team/celtic/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/ferencvaros/logo.webp",
         "detail_url": "https://crichd.pk/event/celtic-vs-ferencvaros"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Crystal PalaceLech Poznan",
+        "team2_name": "Crystal Palace",
+        "team1_logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/lech-poznan/logo.webp",
+        "detail_url": "https://crichd.pk/event/crystal-palace-vs-lech-poznan"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "AFC BournemouthReal Sociedad",
+        "team2_name": "AFC Bournemouth",
+        "team1_logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "detail_url": "https://crichd.pk/event/bournemouth-vs-real-sociedad"
     }
 ]
