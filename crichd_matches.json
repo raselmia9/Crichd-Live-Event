@@ -1,14 +1,6 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_name": "Dallas CowboysNew York Giants",
-        "team2_name": "Dallas Cowboys",
-        "team1_logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/new-york-giants/logo.webp",
-        "detail_url": "https://crichd.pk/event/dallas-cowboys-vs-giants-live-stream"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "AS RomaTorino",
         "team2_name": "AS Roma",
         "team1_logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
