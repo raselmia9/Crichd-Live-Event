@@ -9,6 +9,30 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "ParmaComo",
+        "team2_name": "Parma",
+        "team1_logo": "https://cdn.img4every1.org/team/parma/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "detail_url": "https://crichd.pk/event/parma-vs-como"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Rio AveEstrela",
+        "team2_name": "Rio Ave",
+        "team1_logo": "https://cdn.img4every1.org/team/rio-ave/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/estrela/logo.webp",
+        "detail_url": "https://crichd.pk/event/rio-ave-vs-estrela"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Sporting BragaEstoril",
+        "team2_name": "Sporting Braga",
+        "team1_logo": "https://cdn.img4every1.org/team/sporting-braga/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/estoril/logo.webp",
+        "detail_url": "https://crichd.pk/event/sporting-braga-vs-estoril"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "Inter MilanUdinese",
         "team2_name": "Inter Milan",
         "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
@@ -270,13 +294,5 @@
         "team1_logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/lech-poznan/logo.webp",
         "detail_url": "https://crichd.pk/event/crystal-palace-vs-lech-poznan"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "AFC BournemouthReal Sociedad",
-        "team2_name": "AFC Bournemouth",
-        "team1_logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "detail_url": "https://crichd.pk/event/bournemouth-vs-real-sociedad"
     }
 ]
