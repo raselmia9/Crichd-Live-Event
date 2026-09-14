@@ -1,38 +1,6 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_name": "Inter MilanUdinese",
-        "team2_name": "Inter Milan",
-        "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-        "detail_url": "https://crichd.pk/event/inter-milan-vs-udinese"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Leeds UnitedNewcastle United",
-        "team2_name": "Leeds United",
-        "team1_logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-        "detail_url": "https://crichd.pk/event/leeds-united-vs-newcastle-united"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Real BetisVillarreal",
-        "team2_name": "Real Betis",
-        "team1_logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "detail_url": "https://crichd.pk/event/real-betis-vs-villarreal"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Sporting BragaEstoril",
-        "team2_name": "Sporting Braga",
-        "team1_logo": "https://cdn.img4every1.org/team/sporting-braga/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/estoril/logo.webp",
-        "detail_url": "https://crichd.pk/event/sporting-braga-vs-estoril"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "GenoaSüdtirol",
         "team2_name": "Genoa",
         "team1_logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
@@ -286,5 +254,37 @@
         "team1_logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
         "detail_url": "https://crichd.pk/event/bournemouth-vs-real-sociedad"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "MotoGP Austria Grand PrixMotoGP",
+        "team2_name": "MotoGP Austria Grand Prix",
+        "team1_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "detail_url": "https://crichd.pk/event/motogp-austria-grand-prix"
+    },
+    {
+        "event_name": "Liverpool",
+        "team1_name": "Manchester City",
+        "team2_name": "Team 2",
+        "team1_logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "detail_url": "https://crichd.pk/event/liverpool-vs-manchester-city"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Bayern MünchenUnion Berlin",
+        "team2_name": "Bayern München",
+        "team1_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/union-berlin/logo.webp",
+        "detail_url": "https://crichd.pk/event/bayern-munchen-vs-union-berlin"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "LensAS Monaco",
+        "team2_name": "Lens",
+        "team1_logo": "https://cdn.img4every1.org/team/lens/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/as-monaco/logo.webp",
+        "detail_url": "https://crichd.pk/event/lens-vs-monaco"
     }
 ]
