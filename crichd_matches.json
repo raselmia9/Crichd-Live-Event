@@ -9,14 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "PisaFiorentina",
-        "team2_name": "Pisa",
-        "team1_logo": "https://cdn.img4every1.org/team/pisa/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-        "detail_url": "https://crichd.pk/event/pisa-vs-fiorentina"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Rayo VallecanoEspanyol",
         "team2_name": "Rayo Vallecano",
         "team1_logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
@@ -81,6 +73,14 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "MálagaVillarreal",
+        "team2_name": "Málaga",
+        "team1_logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "detail_url": "https://crichd.pk/event/malaga-vs-villarreal"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "BarnsleyPeterborough United",
         "team2_name": "Barnsley",
         "team1_logo": "https://cdn.img4every1.org/team/barnsley/logo.webp",
@@ -94,6 +94,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
         "detail_url": "https://crichd.pk/event/fulham-vs-west-ham-united"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "ArsenalIpswich Town",
+        "team2_name": "Arsenal",
+        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
+        "detail_url": "https://crichd.pk/event/arsenal-vs-ipswich"
     },
     {
         "event_name": "Liverpool",
@@ -137,11 +145,11 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Aston VillaCoventry City",
-        "team2_name": "Aston Villa",
-        "team1_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
-        "detail_url": "https://crichd.pk/event/aston-villa-vs-coventry-city"
+        "team1_name": "PisaFiorentina",
+        "team2_name": "Pisa",
+        "team1_logo": "https://cdn.img4every1.org/team/pisa/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
+        "detail_url": "https://crichd.pk/event/pisa-vs-fiorentina"
     },
     {
         "event_name": "Live Sports",
@@ -278,13 +286,5 @@
         "team1_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/union-berlin/logo.webp",
         "detail_url": "https://crichd.pk/event/bayern-munchen-vs-union-berlin"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "LensAS Monaco",
-        "team2_name": "Lens",
-        "team1_logo": "https://cdn.img4every1.org/team/lens/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/as-monaco/logo.webp",
-        "detail_url": "https://crichd.pk/event/lens-vs-monaco"
     }
 ]
