@@ -1,107 +1,19 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_name": "Fleetwood TownSheffield United",
-        "team2_name": "Fleetwood Town",
-        "team1_logo": "https://cdn.img4every1.org/team/fleetwood-town/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sheffield-united/logo.webp",
-        "detail_url": "https://crichd.pk/event/fleetwood-town-vs-sheffield-united"
+        "team1_name": "BMW ChampionshipPGA Tour",
+        "team2_name": "BMW Championship",
+        "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "detail_url": "https://crichd.pk/event/bmw-championship"
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "EvertonWolverhampton Wanderers",
-        "team2_name": "Everton",
-        "team1_logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
-        "detail_url": "https://crichd.pk/event/everton-vs-wolves"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Manchester UnitedBrighton & Hove Albion",
-        "team2_name": "Manchester United",
-        "team1_logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-        "detail_url": "https://crichd.pk/event/manchester-united-vs-brighton"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "AC MilanBenfica",
-        "team2_name": "AC Milan",
-        "team1_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
-        "detail_url": "https://crichd.pk/event/milan-vs-benfica"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Bayer LeverkusenCelje",
-        "team2_name": "Bayer Leverkusen",
-        "team1_logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/celje/logo.webp",
-        "detail_url": "https://crichd.pk/event/bayer-leverkusen-vs-celje"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "SunderlandAZ Alkmaar",
-        "team2_name": "Sunderland",
-        "team1_logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/az-alkmaar/logo.webp",
-        "detail_url": "https://crichd.pk/event/sunderland-vs-az"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Olympique LyonnaisAnderlecht",
-        "team2_name": "Olympique Lyonnais",
-        "team1_logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/anderlecht/logo.webp",
-        "detail_url": "https://crichd.pk/event/lyon-vs-anderlecht"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Hapoel Be'er ShevaDinamo Zagreb",
-        "team2_name": "Hapoel Be'er Sheva",
-        "team1_logo": "https://cdn.img4every1.org/team/hapoel-beer-sheva/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/dinamo-zagreb/logo.webp",
-        "detail_url": "https://crichd.pk/event/hapoel-beer-sheva-vs-dinamo-zagreb"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "RennesSturm Graz",
-        "team2_name": "Rennes",
-        "team1_logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sturm-graz/logo.webp",
-        "detail_url": "https://crichd.pk/event/rennes-vs-sturm-graz"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Aston VillaCoventry City",
-        "team2_name": "Aston Villa",
-        "team1_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
-        "detail_url": "https://crichd.pk/event/aston-villa-vs-coventry-city"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Olympiakos PiraeusJagiellonia Bialystok",
-        "team2_name": "Olympiakos Piraeus",
-        "team1_logo": "https://cdn.img4every1.org/team/olympiakos-piraeus/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/jagiellonia-bialystok/logo.webp",
-        "detail_url": "https://crichd.pk/event/olympiakos-piraeus-vs-jagiellonia-bia-ystok"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "LevanteAthletic Club",
-        "team2_name": "Levante",
-        "team1_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "detail_url": "https://crichd.pk/event/levante-vs-athletic-club"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "FC BarcelonaRacing Santander",
-        "team2_name": "FC Barcelona",
-        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
-        "detail_url": "https://crichd.pk/event/barcelona-vs-racing"
+        "team1_name": "Biltmore ChampionshipPGA Tour",
+        "team2_name": "Biltmore Championship",
+        "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "detail_url": "https://crichd.pk/event/biltmore-championship"
     },
     {
         "event_name": "Live Sports",
@@ -201,11 +113,35 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "Buffalo BillsDetroit Lions",
+        "team2_name": "Buffalo Bills",
+        "team1_logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/detroit-lions/logo.webp",
+        "detail_url": "https://crichd.pk/event/buffalo-bills-vs-lions"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "MotoGP Austria Grand PrixMotoGP",
         "team2_name": "MotoGP Austria Grand Prix",
         "team1_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
         "detail_url": "https://crichd.pk/event/motogp-austria-grand-prix"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Goodwood Festival of SpeedMotorSports",
+        "team2_name": "Goodwood Festival of Speed",
+        "team1_logo": "https://cdn.img4every1.org/league/motorsports-streams-free/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/motorsports-streams-free/logo.webp",
+        "detail_url": "https://crichd.pk/event/goodwood-festival-of-speed"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Sydney SwansFremantle",
+        "team2_name": "Sydney Swans",
+        "team1_logo": "https://cdn.img4every1.org/team/sydney-swans/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/fremantle/logo.webp",
+        "detail_url": "https://crichd.pk/event/sydney-swans-vs-fremantle"
     },
     {
         "event_name": "Liverpool",
