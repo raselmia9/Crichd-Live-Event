@@ -32,20 +32,28 @@
         "detail_url": "https://crichd.pk/event/goodwood-festival-of-speed"
     },
     {
-        "event_name": "Live Sports",
-        "team1_name": "Sydney SwansFremantle",
-        "team2_name": "Sydney Swans",
-        "team1_logo": "https://cdn.img4every1.org/team/sydney-swans/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/fremantle/logo.webp",
-        "detail_url": "https://crichd.pk/event/sydney-swans-vs-fremantle"
-    },
-    {
         "event_name": "Liverpool",
         "team1_name": "Manchester City",
         "team2_name": "Team 2",
         "team1_logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
         "detail_url": "https://crichd.pk/event/liverpool-vs-manchester-city"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Charlton AthleticLondon City Lionesses",
+        "team2_name": "Charlton Athletic",
+        "team1_logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/london-city-lionesses/logo.webp",
+        "detail_url": "https://crichd.pk/event/charlton-athletic-vs-london-lionesses"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "ChelseaBirmingham City",
+        "team2_name": "Chelsea",
+        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/birmingham-city/logo.webp",
+        "detail_url": "https://crichd.pk/event/chelsea-vs-birmingham-city"
     },
     {
         "event_name": "Live Sports",
@@ -126,6 +134,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
         "detail_url": "https://crichd.pk/event/lazio-vs-venezia"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Leigh LeopardsWakefield Trinity",
+        "team2_name": "Leigh Leopards",
+        "team1_logo": "https://cdn.img4every1.org/team/leigh-leopards/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/wakefield-trinity/logo.webp",
+        "detail_url": "https://crichd.pk/event/wakefield-trinity-vs-leigh-leopards"
     },
     {
         "event_name": "Live Sports",
@@ -238,5 +254,37 @@
         "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
         "detail_url": "https://crichd.pk/event/barcelona-vs-sevilla"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "CanadaUSA",
+        "team2_name": "Canada",
+        "team1_logo": "https://cdn.img4every1.org/team/canada/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/usa/logo.webp",
+        "detail_url": "https://crichd.pk/event/canada-vs-usa"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "FijiJapan",
+        "team2_name": "Fiji",
+        "team1_logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/japan/logo.webp",
+        "detail_url": "https://crichd.pk/event/fiji-vs-japan"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Hawthorn HawksBrisbane Lions",
+        "team2_name": "Hawthorn Hawks",
+        "team1_logo": "https://cdn.img4every1.org/team/hawthorn-hawks/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/brisbane-lions/logo.webp",
+        "detail_url": "https://crichd.pk/event/hawthorn-vs-brisbane-lions"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Sydney RoostersCronulla Sharks",
+        "team2_name": "Sydney Roosters",
+        "team1_logo": "https://cdn.img4every1.org/team/sydney-roosters/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/cronulla-sharks/logo.webp",
+        "detail_url": "https://crichd.pk/event/sydney-roosters-vs-sharks"
     }
 ]
