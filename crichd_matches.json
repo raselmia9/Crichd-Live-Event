@@ -17,14 +17,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Buffalo BillsDetroit Lions",
-        "team2_name": "Buffalo Bills",
-        "team1_logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/detroit-lions/logo.webp",
-        "detail_url": "https://crichd.pk/event/buffalo-bills-vs-lions"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "MotoGP Austria Grand PrixMotoGP",
         "team2_name": "MotoGP Austria Grand Prix",
         "team1_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
