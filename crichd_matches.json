@@ -33,22 +33,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "CanadaUSA",
-        "team2_name": "Canada",
-        "team1_logo": "https://cdn.img4every1.org/team/canada/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/usa/logo.webp",
-        "detail_url": "https://crichd.pk/event/canada-vs-usa"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "FijiJapan",
-        "team2_name": "Fiji",
-        "team1_logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/japan/logo.webp",
-        "detail_url": "https://crichd.pk/event/fiji-vs-japan"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Hawthorn HawksBrisbane Lions",
         "team2_name": "Hawthorn Hawks",
         "team1_logo": "https://cdn.img4every1.org/team/hawthorn-hawks/logo.webp",
@@ -70,6 +54,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/newcastle-knights/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/warriors-nrl-team/logo.webp",
         "detail_url": "https://crichd.pk/event/newcastle-knights-vs-warriors"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "FijiJapan",
+        "team2_name": "Fiji",
+        "team1_logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/japan/logo.webp",
+        "detail_url": "https://crichd.pk/event/fiji-vs-japan"
     },
     {
         "event_name": "Live Sports",
@@ -158,6 +150,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
         "detail_url": "https://crichd.pk/event/leeds-united-vs-crystal-palace"
+    },
+    {
+        "event_name": "Liverpool",
+        "team1_name": "AFC Bournemouth",
+        "team2_name": "Team 2",
+        "team1_logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
+        "detail_url": "https://crichd.pk/event/liverpool-vs-bournemouth"
     },
     {
         "event_name": "Live Sports",
