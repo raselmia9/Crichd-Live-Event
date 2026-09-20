@@ -1,38 +1,6 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_name": "Biltmore ChampionshipPGA Tour",
-        "team2_name": "Biltmore Championship",
-        "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "detail_url": "https://crichd.pk/event/biltmore-championship"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "PortoBenfica",
-        "team2_name": "Porto",
-        "team1_logo": "https://cdn.img4every1.org/team/porto/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
-        "detail_url": "https://crichd.pk/event/porto-vs-benfica"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Denver BroncosJacksonville Jaguars",
-        "team2_name": "Denver Broncos",
-        "team1_logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp",
-        "detail_url": "https://crichd.pk/event/broncos-vs-jaguars"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Las Vegas RaidersLos Angeles Chargers",
-        "team2_name": "Las Vegas Raiders",
-        "team1_logo": "https://cdn.img4every1.org/team/las-vegas-raiders/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/los-angeles-chargers/logo.webp",
-        "detail_url": "https://crichd.pk/event/raiders-vs-chargers"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Miami DolphinsSan Francisco 49ers",
         "team2_name": "Miami Dolphins",
         "team1_logo": "https://cdn.img4every1.org/team/miami-dolphins/logo.webp",
