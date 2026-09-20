@@ -1,99 +1,11 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_name": "AC MilanLecce",
-        "team2_name": "AC Milan",
-        "team1_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "detail_url": "https://crichd.pk/event/milan-vs-lecce"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "PSGOlympique Marseille",
-        "team2_name": "PSG",
-        "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
-        "detail_url": "https://crichd.pk/event/psg-vs-marseille"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Biltmore ChampionshipPGA Tour",
         "team2_name": "Biltmore Championship",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "detail_url": "https://crichd.pk/event/biltmore-championship"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "World Series of Darts FinalsDarts",
-        "team2_name": "World Series of Darts Finals",
-        "team1_logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
-        "detail_url": "https://crichd.pk/event/world-series-of-darts-finals"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Philadelphia EaglesTennessee Titans",
-        "team2_name": "Philadelphia Eagles",
-        "team1_logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/tennessee-titans/logo.webp",
-        "detail_url": "https://crichd.pk/event/eagles-vs-titans"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "New York JetsGreen Bay Packers",
-        "team2_name": "New York Jets",
-        "team1_logo": "https://cdn.img4every1.org/team/new-york-jets/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/green-bay-packers/logo.webp",
-        "detail_url": "https://crichd.pk/event/jets-vs-packers"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Houston TexansCincinnati Bengals",
-        "team2_name": "Houston Texans",
-        "team1_logo": "https://cdn.img4every1.org/team/houston-texans/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cincinnati-bengals/logo.webp",
-        "detail_url": "https://crichd.pk/event/texans-vs-bengals"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Chicago BearsMinnesota Vikings",
-        "team2_name": "Chicago Bears",
-        "team1_logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/minnesota-vikings/logo.webp",
-        "detail_url": "https://crichd.pk/event/chicago-bears-vs-minnesota-vikings"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "New England PatriotsPittsburgh Steelers",
-        "team2_name": "New England Patriots",
-        "team1_logo": "https://cdn.img4every1.org/team/new-england-patriots/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/pittsburgh-steelers/logo.webp",
-        "detail_url": "https://crichd.pk/event/patriots-vs-steelers"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Atlanta FalconsCarolina Panthers",
-        "team2_name": "Atlanta Falcons",
-        "team1_logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
-        "detail_url": "https://crichd.pk/event/falcons-vs-panthers"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "PaderbornHoffenheim",
-        "team2_name": "Paderborn",
-        "team1_logo": "https://cdn.img4every1.org/team/paderborn/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
-        "detail_url": "https://crichd.pk/event/paderborn-vs-hoffenheim"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Real SociedadValencia",
-        "team2_name": "Real Sociedad",
-        "team1_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-        "detail_url": "https://crichd.pk/event/real-sociedad-vs-valencia"
     },
     {
         "event_name": "Live Sports",
