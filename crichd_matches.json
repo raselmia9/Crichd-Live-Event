@@ -1,38 +1,6 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_name": "Salford CitySheffield Wednesday",
-        "team2_name": "Salford City",
-        "team1_logo": "https://cdn.img4every1.org/team/salford-city/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sheffield-wednesday/logo.webp",
-        "detail_url": "https://crichd.pk/event/salford-city-vs-sheffield-wednesday"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "ArsenalKøge",
-        "team2_name": "Arsenal",
-        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/koge/logo.webp",
-        "detail_url": "https://crichd.pk/event/arsenal-vs-k-ge"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Real MadridPSG",
-        "team2_name": "Real Madrid",
-        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "detail_url": "https://crichd.pk/event/real-madrid-vs-psg"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "BenficaJuventus",
-        "team2_name": "Benfica",
-        "team1_logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "detail_url": "https://crichd.pk/event/benfica-vs-juventus"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Boston Red SoxCleveland Guardians",
         "team2_name": "Boston Red Sox",
         "team1_logo": "https://cdn.img4every1.org/team/boston-red-sox/logo.webp",
@@ -70,6 +38,30 @@
         "team1_logo": "https://cdn.img4every1.org/team/india/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/panama/logo.webp",
         "detail_url": "https://crichd.pk/event/india-vs-panama"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "ColombiaMexico",
+        "team2_name": "Colombia",
+        "team1_logo": "https://cdn.img4every1.org/team/colombia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
+        "detail_url": "https://crichd.pk/event/colombia-vs-mexico"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "USAPeru",
+        "team2_name": "USA",
+        "team1_logo": "https://cdn.img4every1.org/team/usa/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/peru/logo.webp",
+        "detail_url": "https://crichd.pk/event/usa-vs-peru"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "CanadaChile",
+        "team2_name": "Canada",
+        "team1_logo": "https://cdn.img4every1.org/team/canada/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/chile/logo.webp",
+        "detail_url": "https://crichd.pk/event/canada-vs-chile"
     },
     {
         "event_name": "Live Sports",
