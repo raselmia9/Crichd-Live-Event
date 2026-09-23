@@ -1,22 +1,6 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_name": "Boston Red SoxCleveland Guardians",
-        "team2_name": "Boston Red Sox",
-        "team1_logo": "https://cdn.img4every1.org/team/boston-red-sox/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
-        "detail_url": "https://crichd.pk/event/red-sox-vs-guardians"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Houston AstrosCentral Coast Mariners",
-        "team2_name": "Houston Astros",
-        "team1_logo": "https://cdn.img4every1.org/team/houston-astros/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/central-coast-mariners/logo.webp",
-        "detail_url": "https://crichd.pk/event/astros-vs-mariners"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "AzerbaijanTajikistan",
         "team2_name": "Azerbaijan",
         "team1_logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
