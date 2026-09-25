@@ -25,22 +25,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "GeorgiaNorthern Ireland",
-        "team2_name": "Georgia",
-        "team1_logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/northern-ireland/logo.webp",
-        "detail_url": "https://crichd.pk/event/georgia-vs-northern-ireland"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "ArmeniaLatvia",
-        "team2_name": "Armenia",
-        "team1_logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
-        "detail_url": "https://crichd.pk/event/armenia-vs-latvia"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "TurkiyeFrance",
         "team2_name": "Turkiye",
         "team1_logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
@@ -81,11 +65,51 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "EdinburghUlster",
+        "team2_name": "Edinburgh",
+        "team1_logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/ulster/logo.webp",
+        "detail_url": "https://crichd.pk/event/edinburgh-vs-ulster"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "ItalyBelgium",
         "team2_name": "Italy",
         "team1_logo": "https://cdn.img4every1.org/team/italy/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
         "detail_url": "https://crichd.pk/event/italy-vs-belgium-live-stream"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Northampton SaintsNewcastle Red Bulls",
+        "team2_name": "Northampton Saints",
+        "team1_logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/newcastle-red-bulls/logo.webp",
+        "detail_url": "https://crichd.pk/event/northampton-vs-newcastle"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Bath RugbyHarlequins",
+        "team2_name": "Bath Rugby",
+        "team1_logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/harlequins/logo.webp",
+        "detail_url": "https://crichd.pk/event/bath-rugby-vs-harlequins"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "StormersConnacht",
+        "team2_name": "Stormers",
+        "team1_logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
+        "detail_url": "https://crichd.pk/event/stormers-vs-connacht"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Leeds RhinosWarrington Wolves",
+        "team2_name": "Leeds Rhinos",
+        "team1_logo": "https://cdn.img4every1.org/team/leeds-rhinos/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/warrington-wolves/logo.webp",
+        "detail_url": "https://crichd.pk/event/leeds-rhinos-vs-warrington-wolves"
     },
     {
         "event_name": "Live Sports",
@@ -105,35 +129,51 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "EdinburghUlster",
-        "team2_name": "Edinburgh",
-        "team1_logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/ulster/logo.webp",
-        "detail_url": "https://crichd.pk/event/edinburgh-vs-ulster"
+        "team1_name": "Faroe IslandsKazakhstan",
+        "team2_name": "Faroe Islands",
+        "team1_logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
+        "detail_url": "https://crichd.pk/event/faroe-islands-vs-kazakhstan"
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "StormersConnacht",
-        "team2_name": "Stormers",
-        "team1_logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
-        "detail_url": "https://crichd.pk/event/stormers-vs-connacht"
+        "team1_name": "IcelandEstonia",
+        "team2_name": "Iceland",
+        "team1_logo": "https://cdn.img4every1.org/team/iceland/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/estonia/logo.webp",
+        "detail_url": "https://crichd.pk/event/iceland-vs-estonia"
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Northampton SaintsNewcastle Red Bulls",
-        "team2_name": "Northampton Saints",
-        "team1_logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/newcastle-red-bulls/logo.webp",
-        "detail_url": "https://crichd.pk/event/northampton-vs-newcastle"
+        "team1_name": "FinlandSan Marino",
+        "team2_name": "Finland",
+        "team1_logo": "https://cdn.img4every1.org/team/finland/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/san-marino/logo.webp",
+        "detail_url": "https://crichd.pk/event/finland-vs-san-marino"
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Bath RugbyHarlequins",
-        "team2_name": "Bath Rugby",
-        "team1_logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/harlequins/logo.webp",
-        "detail_url": "https://crichd.pk/event/bath-rugby-vs-harlequins"
+        "team1_name": "EnglandSpain",
+        "team2_name": "England",
+        "team1_logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/spain/logo.webp",
+        "detail_url": "https://crichd.pk/event/england-vs-spain"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "CzechiaCroatia",
+        "team2_name": "Czechia",
+        "team1_logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
+        "detail_url": "https://crichd.pk/event/czechia-vs-croatia"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "SwitzerlandNorth Macedonia",
+        "team2_name": "Switzerland",
+        "team1_logo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/north-macedonia/logo.webp",
+        "detail_url": "https://crichd.pk/event/switzerland-vs-north-macedonia"
     },
     {
         "event_name": "Live Sports",
