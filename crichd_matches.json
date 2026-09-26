@@ -1,14 +1,6 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_name": "EnglandSpain",
-        "team2_name": "England",
-        "team1_logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/spain/logo.webp",
-        "detail_url": "https://crichd.pk/event/england-vs-spain"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Open de FrancePGA Tour",
         "team2_name": "Open de France",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -33,51 +25,19 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "CzechiaCroatia",
-        "team2_name": "Czechia",
-        "team1_logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
-        "detail_url": "https://crichd.pk/event/czechia-vs-croatia"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "SwitzerlandNorth Macedonia",
-        "team2_name": "Switzerland",
-        "team1_logo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/north-macedonia/logo.webp",
-        "detail_url": "https://crichd.pk/event/switzerland-vs-north-macedonia"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "AlbaniaBelarus",
-        "team2_name": "Albania",
-        "team1_logo": "https://cdn.img4every1.org/team/albania/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
-        "detail_url": "https://crichd.pk/event/albania-vs-belarus"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "SlovakiaMoldova",
-        "team2_name": "Slovakia",
-        "team1_logo": "https://cdn.img4every1.org/team/slovakia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/moldova/logo.webp",
-        "detail_url": "https://crichd.pk/event/slovakia-vs-moldova"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "ScarletsCardiff Blues",
-        "team2_name": "Scarlets",
-        "team1_logo": "https://cdn.img4every1.org/team/scarlets/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
-        "detail_url": "https://crichd.pk/event/scarlets-vs-cardiff-rugby"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "USAPeru",
         "team2_name": "USA",
         "team1_logo": "https://cdn.img4every1.org/team/usa/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/peru/logo.webp",
         "detail_url": "https://crichd.pk/event/usa-vs-peru"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Raul Rosas JrRaoni Barcelos",
+        "team2_name": "Raul Rosas Jr",
+        "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "detail_url": "https://crichd.pk/event/raul-rosas-jr-vs-raoni-barcelos"
     },
     {
         "event_name": "Live Sports",
@@ -97,11 +57,11 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Raul Rosas JrRaoni Barcelos",
-        "team2_name": "Raul Rosas Jr",
-        "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "detail_url": "https://crichd.pk/event/raul-rosas-jr-vs-raoni-barcelos"
+        "team1_name": "Newcastle KnightsPenrith Panthers",
+        "team2_name": "Newcastle Knights",
+        "team1_logo": "https://cdn.img4every1.org/team/newcastle-knights/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/penrith-panthers/logo.webp",
+        "detail_url": "https://crichd.pk/event/newcastle-knights-vs-penrith-panthers"
     },
     {
         "event_name": "Live Sports",
