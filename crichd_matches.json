@@ -1,115 +1,11 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_name": "PortugalNorway",
-        "team2_name": "Portugal",
-        "team1_logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/norway/logo.webp",
-        "detail_url": "https://crichd.pk/event/portugal-vs-norway"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "GermanyGreece",
-        "team2_name": "Germany",
-        "team1_logo": "https://cdn.img4every1.org/team/germany/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/greece/logo.webp",
-        "detail_url": "https://crichd.pk/event/germany-vs-greece"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Presidents CupPGA Tour",
-        "team2_name": "Presidents Cup",
-        "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "detail_url": "https://crichd.pk/event/presidents-cup"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "NFL RedzoneNFL",
         "team2_name": "NFL Redzone",
         "team1_logo": "https://cdn.img4every1.org/league/nfl-streams/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/nfl-streams/logo.webp",
         "detail_url": "https://crichd.pk/event/nfl-redzone"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Indianapolis ColtsHouston Texans",
-        "team2_name": "Indianapolis Colts",
-        "team1_logo": "https://cdn.img4every1.org/team/indianapolis-colts/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/houston-texans/logo.webp",
-        "detail_url": "https://crichd.pk/event/indianapolis-colts-vs-houston-texans"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Carolina PanthersCleveland Browns",
-        "team2_name": "Carolina Panthers",
-        "team1_logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cleveland-browns/logo.webp",
-        "detail_url": "https://crichd.pk/event/panthers-vs-browns"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "New York GiantsTennessee Titans",
-        "team2_name": "New York Giants",
-        "team1_logo": "https://cdn.img4every1.org/team/new-york-giants/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/tennessee-titans/logo.webp",
-        "detail_url": "https://crichd.pk/event/giants-vs-titans"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Buffalo BillsLos Angeles Chargers",
-        "team2_name": "Buffalo Bills",
-        "team1_logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/los-angeles-chargers/logo.webp",
-        "detail_url": "https://crichd.pk/event/bills-vs-chargers"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Miami DolphinsKansas City Chiefs",
-        "team2_name": "Miami Dolphins",
-        "team1_logo": "https://cdn.img4every1.org/team/miami-dolphins/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
-        "detail_url": "https://crichd.pk/event/dolphins-vs-chiefs"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Jacksonville JaguarsNew England Patriots",
-        "team2_name": "Jacksonville Jaguars",
-        "team1_logo": "https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/new-england-patriots/logo.webp",
-        "detail_url": "https://crichd.pk/event/jaguars-vs-patriots"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Detroit LionsNew York Jets",
-        "team2_name": "Detroit Lions",
-        "team1_logo": "https://cdn.img4every1.org/team/detroit-lions/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/new-york-jets/logo.webp",
-        "detail_url": "https://crichd.pk/event/lions-vs-jets"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Washington CommandersSeattle Seahawks",
-        "team2_name": "Washington Commanders",
-        "team1_logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
-        "detail_url": "https://crichd.pk/event/commanders-vs-seahawks"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Pittsburgh SteelersCincinnati Bengals",
-        "team2_name": "Pittsburgh Steelers",
-        "team1_logo": "https://cdn.img4every1.org/team/pittsburgh-steelers/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cincinnati-bengals/logo.webp",
-        "detail_url": "https://crichd.pk/event/steelers-vs-bengals"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "IrelandIsrael",
-        "team2_name": "Ireland",
-        "team1_logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/israel/logo.webp",
-        "detail_url": "https://crichd.pk/event/ireland-vs-israel"
     },
     {
         "event_name": "Live Sports",
