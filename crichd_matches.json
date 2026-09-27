@@ -25,14 +25,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Newcastle KnightsPenrith Panthers",
-        "team2_name": "Newcastle Knights",
-        "team1_logo": "https://cdn.img4every1.org/team/newcastle-knights/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/penrith-panthers/logo.webp",
-        "detail_url": "https://crichd.pk/event/newcastle-knights-vs-penrith-panthers"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "South AfricaAustralia",
         "team2_name": "South Africa",
         "team1_logo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
