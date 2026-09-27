@@ -25,30 +25,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Raul Rosas JrRaoni Barcelos",
-        "team2_name": "Raul Rosas Jr",
-        "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "detail_url": "https://crichd.pk/event/raul-rosas-jr-vs-raoni-barcelos"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "CanadaChile",
-        "team2_name": "Canada",
-        "team1_logo": "https://cdn.img4every1.org/team/canada/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/chile/logo.webp",
-        "detail_url": "https://crichd.pk/event/canada-vs-chile"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "ColombiaMexico",
-        "team2_name": "Colombia",
-        "team1_logo": "https://cdn.img4every1.org/team/colombia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
-        "detail_url": "https://crichd.pk/event/colombia-vs-mexico"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Newcastle KnightsPenrith Panthers",
         "team2_name": "Newcastle Knights",
         "team1_logo": "https://cdn.img4every1.org/team/newcastle-knights/logo.webp",
