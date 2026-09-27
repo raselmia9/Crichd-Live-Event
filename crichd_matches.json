@@ -25,19 +25,19 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "South AfricaAustralia",
-        "team2_name": "South Africa",
-        "team1_logo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "detail_url": "https://crichd.pk/event/south-africa-vs-australia"
+        "team1_name": "Leicester TigersSaracens",
+        "team2_name": "Leicester Tigers",
+        "team1_logo": "https://cdn.img4every1.org/team/leicester-tigers/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
+        "detail_url": "https://crichd.pk/event/leicester-tigers-vs-saracens"
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "AzerbaijanLithuania",
-        "team2_name": "Azerbaijan",
-        "team1_logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/lithuania/logo.webp",
-        "detail_url": "https://crichd.pk/event/azerbaijan-vs-lithuania"
+        "team1_name": "ChelseaArsenal",
+        "team2_name": "Chelsea",
+        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "detail_url": "https://crichd.pk/event/chelsea-vs-arsenal"
     },
     {
         "event_name": "Live Sports",
@@ -97,19 +97,19 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Leicester TigersSaracens",
-        "team2_name": "Leicester Tigers",
-        "team1_logo": "https://cdn.img4every1.org/team/leicester-tigers/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
-        "detail_url": "https://crichd.pk/event/leicester-tigers-vs-saracens"
+        "team1_name": "ArmeniaMontenegro",
+        "team2_name": "Armenia",
+        "team1_logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/montenegro/logo.webp",
+        "detail_url": "https://crichd.pk/event/armenia-vs-montenegro"
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "ChelseaArsenal",
-        "team2_name": "Chelsea",
-        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "detail_url": "https://crichd.pk/event/chelsea-vs-arsenal"
+        "team1_name": "NFL RedzoneNFL",
+        "team2_name": "NFL Redzone",
+        "team1_logo": "https://cdn.img4every1.org/league/nfl-streams/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/nfl-streams/logo.webp",
+        "detail_url": "https://crichd.pk/event/nfl-redzone"
     },
     {
         "event_name": "Live Sports",
@@ -169,10 +169,10 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Washington CommandersSeattle Seahawks",
-        "team2_name": "Washington Commanders",
-        "team1_logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
-        "detail_url": "https://crichd.pk/event/commanders-vs-seahawks"
+        "team1_name": "BangladeshSingapore",
+        "team2_name": "Bangladesh",
+        "team1_logo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/singapore/logo.webp",
+        "detail_url": "https://crichd.pk/event/bangladesh-vs-singapore"
     }
 ]
