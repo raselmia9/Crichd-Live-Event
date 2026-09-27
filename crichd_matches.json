@@ -25,14 +25,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "USAPeru",
-        "team2_name": "USA",
-        "team1_logo": "https://cdn.img4every1.org/team/usa/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/peru/logo.webp",
-        "detail_url": "https://crichd.pk/event/usa-vs-peru"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Raul Rosas JrRaoni Barcelos",
         "team2_name": "Raul Rosas Jr",
         "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
