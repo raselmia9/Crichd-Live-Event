@@ -1,14 +1,6 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_name": "Los Angeles RamsDenver Broncos",
-        "team2_name": "Los Angeles Rams",
-        "team1_logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
-        "detail_url": "https://crichd.pk/event/rams-vs-broncos"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Shenzhen Open SnookerSnooker",
         "team2_name": "Shenzhen Open Snooker",
         "team1_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
