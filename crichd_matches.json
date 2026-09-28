@@ -9,14 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "BangladeshSingapore",
-        "team2_name": "Bangladesh",
-        "team1_logo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/singapore/logo.webp",
-        "detail_url": "https://crichd.pk/event/bangladesh-vs-singapore"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "ArmeniaMontenegro",
         "team2_name": "Armenia",
         "team1_logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
@@ -38,6 +30,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/ukraine/logo.webp",
         "detail_url": "https://crichd.pk/event/georgia-vs-ukraine"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "FranceBelgium",
+        "team2_name": "France",
+        "team1_logo": "https://cdn.img4every1.org/team/france/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
+        "detail_url": "https://crichd.pk/event/france-vs-belgium"
     },
     {
         "event_name": "Live Sports",
@@ -70,5 +70,21 @@
         "team1_logo": "https://cdn.img4every1.org/team/poland/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/sweden/logo.webp",
         "detail_url": "https://crichd.pk/event/poland-vs-sweden"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Chicago BearsPhiladelphia Eagles",
+        "team2_name": "Chicago Bears",
+        "team1_logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
+        "detail_url": "https://crichd.pk/event/chicago-bears-vs-philadelphia-eagles"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "AustraliaBrazil",
+        "team2_name": "Australia",
+        "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
+        "detail_url": "https://crichd.pk/event/australia-vs-brazil"
     }
 ]
