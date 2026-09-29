@@ -9,14 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "AustraliaBrazil",
-        "team2_name": "Australia",
-        "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
-        "detail_url": "https://crichd.pk/event/australia-vs-brazil"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "FinlandBelarus",
         "team2_name": "Finland",
         "team1_logo": "https://cdn.img4every1.org/team/finland/logo.webp",
