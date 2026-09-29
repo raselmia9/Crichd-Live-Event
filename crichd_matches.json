@@ -9,14 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Chicago BearsPhiladelphia Eagles",
-        "team2_name": "Chicago Bears",
-        "team1_logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
-        "detail_url": "https://crichd.pk/event/chicago-bears-vs-philadelphia-eagles"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "AustraliaBrazil",
         "team2_name": "Australia",
         "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
