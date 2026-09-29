@@ -9,46 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "FranceBelgium",
-        "team2_name": "France",
-        "team1_logo": "https://cdn.img4every1.org/team/france/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
-        "detail_url": "https://crichd.pk/event/france-vs-belgium"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "TurkiyeItaly",
-        "team2_name": "Turkiye",
-        "team1_logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/italy/logo.webp",
-        "detail_url": "https://crichd.pk/event/turkey-vs-italy"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Northern IrelandHungary",
-        "team2_name": "Northern Ireland",
-        "team1_logo": "https://cdn.img4every1.org/team/northern-ireland/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
-        "detail_url": "https://crichd.pk/event/northern-ireland-vs-hungary"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Bosnia and HerzegovinaRomania",
-        "team2_name": "Bosnia and Herzegovina",
-        "team1_logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/romania/logo.webp",
-        "detail_url": "https://crichd.pk/event/bosnia-vs-romania"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "PolandSweden",
-        "team2_name": "Poland",
-        "team1_logo": "https://cdn.img4every1.org/team/poland/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sweden/logo.webp",
-        "detail_url": "https://crichd.pk/event/poland-vs-sweden"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Chicago BearsPhiladelphia Eagles",
         "team2_name": "Chicago Bears",
         "team1_logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
