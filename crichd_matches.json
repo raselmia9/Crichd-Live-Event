@@ -17,27 +17,11 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "FC BarcelonaAS Roma",
-        "team2_name": "FC Barcelona",
-        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-        "detail_url": "https://crichd.pk/event/barcelona-vs-roma"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Paris FCArsenal",
-        "team2_name": "Paris FC",
-        "team1_logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "detail_url": "https://crichd.pk/event/paris-vs-arsenal"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "HäckenJuventus",
-        "team2_name": "Häcken",
-        "team1_logo": "https://cdn.img4every1.org/team/hacken/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "detail_url": "https://crichd.pk/event/hacken-vs-juventus"
+        "team1_name": "Atlanta BravesPhiladelphia Phillies",
+        "team2_name": "Atlanta Braves",
+        "team1_logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/philadelphia-phillies/logo.webp",
+        "detail_url": "https://crichd.pk/event/philadelphia-phillies-vs-braves"
     },
     {
         "event_name": "Live Sports",
@@ -54,38 +38,6 @@
         "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
         "detail_url": "https://crichd.pk/event/chelsea-vs-lyon"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Inter MilanAustria Wien",
-        "team2_name": "Inter Milan",
-        "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/austria-wien/logo.webp",
-        "detail_url": "https://crichd.pk/event/inter-milano-vs-austria-wien"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Manchester CityReal Madrid",
-        "team2_name": "Manchester City",
-        "team1_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "detail_url": "https://crichd.pk/event/manchester-city-vs-real-madrid"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "PSGOud-Heverlee Leuven",
-        "team2_name": "PSG",
-        "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/oud-heverlee-leuven/logo.webp",
-        "detail_url": "https://crichd.pk/event/psg-vs-oh-leuven"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Atlanta BravesPhiladelphia Phillies",
-        "team2_name": "Atlanta Braves",
-        "team1_logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/philadelphia-phillies/logo.webp",
-        "detail_url": "https://crichd.pk/event/philadelphia-phillies-vs-braves"
     },
     {
         "event_name": "Live Sports",
@@ -174,6 +126,30 @@
         "team1_logo": "https://cdn.img4every1.org/team/denmark/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
         "detail_url": "https://crichd.pk/event/denmark-vs-portugal"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Inter MilanAustria Wien",
+        "team2_name": "Inter Milan",
+        "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/austria-wien/logo.webp",
+        "detail_url": "https://crichd.pk/event/inter-milano-vs-austria-wien"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Manchester CityReal Madrid",
+        "team2_name": "Manchester City",
+        "team1_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "detail_url": "https://crichd.pk/event/manchester-city-vs-real-madrid"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "PSGOud-Heverlee Leuven",
+        "team2_name": "PSG",
+        "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/oud-heverlee-leuven/logo.webp",
+        "detail_url": "https://crichd.pk/event/psg-vs-oh-leuven"
     },
     {
         "event_name": "Live Sports",
