@@ -9,59 +9,11 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "USAChile",
-        "team2_name": "USA",
-        "team1_logo": "https://cdn.img4every1.org/team/usa/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/chile/logo.webp",
-        "detail_url": "https://crichd.pk/event/usa-vs-chile"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "New York YankeesBoston Red Sox",
-        "team2_name": "New York Yankees",
-        "team1_logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/boston-red-sox/logo.webp",
-        "detail_url": "https://crichd.pk/event/yankees-vs-red-sox"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "MexicoPeru",
-        "team2_name": "Mexico",
-        "team1_logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/peru/logo.webp",
-        "detail_url": "https://crichd.pk/event/mexico-vs-peru"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Japan Open Tennis ChampionshipsATP Tour",
         "team2_name": "Japan Open Tennis Championships",
         "team1_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "detail_url": "https://crichd.pk/event/japan-open-tennis-championships"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Chicago CubsSan Diego Padres",
-        "team2_name": "Chicago Cubs",
-        "team1_logo": "https://cdn.img4every1.org/team/chicago-cubs/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/san-diego-padres/logo.webp",
-        "detail_url": "https://crichd.pk/event/cubs-vs-padres"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Atlanta BravesPhiladelphia Phillies",
-        "team2_name": "Atlanta Braves",
-        "team1_logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/philadelphia-phillies/logo.webp",
-        "detail_url": "https://crichd.pk/event/philadelphia-phillies-vs-braves"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Chicago White SoxHouston Astros",
-        "team2_name": "Chicago White Sox",
-        "team1_logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/houston-astros/logo.webp",
-        "detail_url": "https://crichd.pk/event/chicago-white-sox-vs-astros"
     },
     {
         "event_name": "Live Sports",
@@ -126,6 +78,22 @@
         "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/oud-heverlee-leuven/logo.webp",
         "detail_url": "https://crichd.pk/event/psg-vs-oh-leuven"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Atlanta BravesPhiladelphia Phillies",
+        "team2_name": "Atlanta Braves",
+        "team1_logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/philadelphia-phillies/logo.webp",
+        "detail_url": "https://crichd.pk/event/philadelphia-phillies-vs-braves"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Chicago White SoxHouston Astros",
+        "team2_name": "Chicago White Sox",
+        "team1_logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/houston-astros/logo.webp",
+        "detail_url": "https://crichd.pk/event/chicago-white-sox-vs-astros"
     },
     {
         "event_name": "Live Sports",
