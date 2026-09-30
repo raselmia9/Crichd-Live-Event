@@ -17,30 +17,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Atlanta BravesPhiladelphia Phillies",
-        "team2_name": "Atlanta Braves",
-        "team1_logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/philadelphia-phillies/logo.webp",
-        "detail_url": "https://crichd.pk/event/philadelphia-phillies-vs-braves"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "BenficaBayern München",
-        "team2_name": "Benfica",
-        "team1_logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "detail_url": "https://crichd.pk/event/benfica-vs-bayern-munchen"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "ChelseaOlympique Lyonnais",
-        "team2_name": "Chelsea",
-        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-        "detail_url": "https://crichd.pk/event/chelsea-vs-lyon"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Chicago White SoxHouston Astros",
         "team2_name": "Chicago White Sox",
         "team1_logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
