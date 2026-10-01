@@ -17,19 +17,35 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "BangladeshIndonesia",
-        "team2_name": "Bangladesh",
-        "team1_logo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/indonesia/logo.webp",
-        "detail_url": "https://crichd.pk/event/bangladesh-vs-indonesia"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "AzerbaijanLiechtenstein",
         "team2_name": "Azerbaijan",
         "team1_logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/liechtenstein/logo.webp",
         "detail_url": "https://crichd.pk/event/azerbaijan-vs-liechtenstein"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Inter MilanAustria Wien",
+        "team2_name": "Inter Milan",
+        "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/austria-wien/logo.webp",
+        "detail_url": "https://crichd.pk/event/inter-milano-vs-austria-wien"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Manchester CityReal Madrid",
+        "team2_name": "Manchester City",
+        "team1_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "detail_url": "https://crichd.pk/event/manchester-city-vs-real-madrid"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "PSGOud-Heverlee Leuven",
+        "team2_name": "PSG",
+        "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/oud-heverlee-leuven/logo.webp",
+        "detail_url": "https://crichd.pk/event/psg-vs-oh-leuven"
     },
     {
         "event_name": "Live Sports",
@@ -89,27 +105,11 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Inter MilanAustria Wien",
-        "team2_name": "Inter Milan",
-        "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/austria-wien/logo.webp",
-        "detail_url": "https://crichd.pk/event/inter-milano-vs-austria-wien"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Manchester CityReal Madrid",
-        "team2_name": "Manchester City",
-        "team1_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "detail_url": "https://crichd.pk/event/manchester-city-vs-real-madrid"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "PSGOud-Heverlee Leuven",
-        "team2_name": "PSG",
-        "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/oud-heverlee-leuven/logo.webp",
-        "detail_url": "https://crichd.pk/event/psg-vs-oh-leuven"
+        "team1_name": "TurkiyeBelgium",
+        "team2_name": "Turkiye",
+        "team1_logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
+        "detail_url": "https://crichd.pk/event/turkey-vs-belgium"
     },
     {
         "event_name": "Live Sports",
