@@ -33,35 +33,11 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "New York YankeesBoston Red Sox",
-        "team2_name": "New York Yankees",
-        "team1_logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/boston-red-sox/logo.webp",
-        "detail_url": "https://crichd.pk/event/yankees-vs-red-sox"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "MotoGP Japanese GPMotoGP",
         "team2_name": "MotoGP Japanese GP",
         "team1_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
         "detail_url": "https://crichd.pk/event/japanese-gp"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Pittsburgh SteelersCleveland Browns",
-        "team2_name": "Pittsburgh Steelers",
-        "team1_logo": "https://cdn.img4every1.org/team/pittsburgh-steelers/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cleveland-browns/logo.webp",
-        "detail_url": "https://crichd.pk/event/steelers-vs-browns"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Chicago CubsSan Diego Padres",
-        "team2_name": "Chicago Cubs",
-        "team1_logo": "https://cdn.img4every1.org/team/chicago-cubs/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/san-diego-padres/logo.webp",
-        "detail_url": "https://crichd.pk/event/cubs-vs-padres"
     },
     {
         "event_name": "Live Sports",
