@@ -25,30 +25,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Manchester CityReal Madrid",
-        "team2_name": "Manchester City",
-        "team1_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "detail_url": "https://crichd.pk/event/manchester-city-vs-real-madrid"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "PSGOud-Heverlee Leuven",
-        "team2_name": "PSG",
-        "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/oud-heverlee-leuven/logo.webp",
-        "detail_url": "https://crichd.pk/event/psg-vs-oh-leuven"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Chicago White SoxHouston Astros",
-        "team2_name": "Chicago White Sox",
-        "team1_logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/houston-astros/logo.webp",
-        "detail_url": "https://crichd.pk/event/chicago-white-sox-vs-astros"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "LPGA Lotte ChampionshipPGA Tour",
         "team2_name": "LPGA Lotte Championship",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -57,27 +33,11 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Alfred Dunhill ChampionshipPGA Tour",
-        "team2_name": "Alfred Dunhill Championship",
-        "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "detail_url": "https://crichd.pk/event/alfred-dunhill-championship"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "New York YankeesBoston Red Sox",
         "team2_name": "New York Yankees",
         "team1_logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/boston-red-sox/logo.webp",
         "detail_url": "https://crichd.pk/event/yankees-vs-red-sox"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Chicago CubsSan Diego Padres",
-        "team2_name": "Chicago Cubs",
-        "team1_logo": "https://cdn.img4every1.org/team/chicago-cubs/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/san-diego-padres/logo.webp",
-        "detail_url": "https://crichd.pk/event/cubs-vs-padres"
     },
     {
         "event_name": "Live Sports",
@@ -97,11 +57,11 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Washington CommandersIndianapolis Colts",
-        "team2_name": "Washington Commanders",
-        "team1_logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/indianapolis-colts/logo.webp",
-        "detail_url": "https://crichd.pk/event/commanders-vs-colts"
+        "team1_name": "Chicago CubsSan Diego Padres",
+        "team2_name": "Chicago Cubs",
+        "team1_logo": "https://cdn.img4every1.org/team/chicago-cubs/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/san-diego-padres/logo.webp",
+        "detail_url": "https://crichd.pk/event/cubs-vs-padres"
     },
     {
         "event_name": "Live Sports",
@@ -118,6 +78,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/vietnam/logo.webp",
         "detail_url": "https://crichd.pk/event/pakistan-vs-vietnam"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Alfred Dunhill ChampionshipPGA Tour",
+        "team2_name": "Alfred Dunhill Championship",
+        "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "detail_url": "https://crichd.pk/event/alfred-dunhill-championship"
     },
     {
         "event_name": "Live Sports",
@@ -238,5 +206,13 @@
         "team1_logo": "https://cdn.img4every1.org/team/usa/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
         "detail_url": "https://crichd.pk/event/usa-vs-mexico"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Washington CommandersIndianapolis Colts",
+        "team2_name": "Washington Commanders",
+        "team1_logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/indianapolis-colts/logo.webp",
+        "detail_url": "https://crichd.pk/event/commanders-vs-colts"
     }
 ]
