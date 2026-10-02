@@ -49,14 +49,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "PakistanVietnam",
-        "team2_name": "Pakistan",
-        "team1_logo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/vietnam/logo.webp",
-        "detail_url": "https://crichd.pk/event/pakistan-vs-vietnam"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Alfred Dunhill ChampionshipPGA Tour",
         "team2_name": "Alfred Dunhill Championship",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -65,27 +57,19 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Cardiff BluesZebre",
-        "team2_name": "Cardiff Blues",
-        "team1_logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
-        "detail_url": "https://crichd.pk/event/cardiff-blues-vs-zebre"
+        "team1_name": "KazakhstanMoldova",
+        "team2_name": "Kazakhstan",
+        "team1_logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/moldova/logo.webp",
+        "detail_url": "https://crichd.pk/event/kazakhstan-vs-moldova"
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "StormersEdinburgh",
-        "team2_name": "Stormers",
-        "team1_logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
-        "detail_url": "https://crichd.pk/event/stormers-vs-edinburgh"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "BenettonConnacht",
-        "team2_name": "Benetton",
-        "team1_logo": "https://cdn.img4every1.org/team/benetton/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
-        "detail_url": "https://crichd.pk/event/benetton-treviso-vs-connacht"
+        "team1_name": "ArmeniaCyprus",
+        "team2_name": "Armenia",
+        "team1_logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
+        "detail_url": "https://crichd.pk/event/armenia-vs-cyprus"
     },
     {
         "event_name": "Live Sports",
@@ -137,11 +121,27 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "ItalyFrance",
-        "team2_name": "Italy",
-        "team1_logo": "https://cdn.img4every1.org/team/italy/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/france/logo.webp",
-        "detail_url": "https://crichd.pk/event/italy-vs-france"
+        "team1_name": "StormersEdinburgh",
+        "team2_name": "Stormers",
+        "team1_logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
+        "detail_url": "https://crichd.pk/event/stormers-vs-edinburgh"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "BenettonConnacht",
+        "team2_name": "Benetton",
+        "team1_logo": "https://cdn.img4every1.org/team/benetton/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
+        "detail_url": "https://crichd.pk/event/benetton-treviso-vs-connacht"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Cardiff BluesZebre",
+        "team2_name": "Cardiff Blues",
+        "team1_logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
+        "detail_url": "https://crichd.pk/event/cardiff-blues-vs-zebre"
     },
     {
         "event_name": "Live Sports",
