@@ -57,22 +57,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "KazakhstanMoldova",
-        "team2_name": "Kazakhstan",
-        "team1_logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/moldova/logo.webp",
-        "detail_url": "https://crichd.pk/event/kazakhstan-vs-moldova"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "ArmeniaCyprus",
-        "team2_name": "Armenia",
-        "team1_logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
-        "detail_url": "https://crichd.pk/event/armenia-vs-cyprus"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "TurkiyeBelgium",
         "team2_name": "Turkiye",
         "team1_logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
@@ -121,6 +105,22 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "ItalyFrance",
+        "team2_name": "Italy",
+        "team1_logo": "https://cdn.img4every1.org/team/italy/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/france/logo.webp",
+        "detail_url": "https://crichd.pk/event/italy-vs-france"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "AlbaniaFinland",
+        "team2_name": "Albania",
+        "team1_logo": "https://cdn.img4every1.org/team/albania/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/finland/logo.webp",
+        "detail_url": "https://crichd.pk/event/albania-vs-finland"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "StormersEdinburgh",
         "team2_name": "Stormers",
         "team1_logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
@@ -153,6 +153,14 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "ColombiaParaguay",
+        "team2_name": "Colombia",
+        "team1_logo": "https://cdn.img4every1.org/team/colombia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/paraguay/logo.webp",
+        "detail_url": "https://crichd.pk/event/colombia-vs-paraguay"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "IndiaBrazil",
         "team2_name": "India",
         "team1_logo": "https://cdn.img4every1.org/team/india/logo.webp",
@@ -182,6 +190,38 @@
         "team1_logo": "https://cdn.img4every1.org/team/usa/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
         "detail_url": "https://crichd.pk/event/usa-vs-mexico"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "ChesterfieldTranmere Rovers",
+        "team2_name": "Chesterfield",
+        "team1_logo": "https://cdn.img4every1.org/team/chesterfield/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/tranmere-rovers/logo.webp",
+        "detail_url": "https://crichd.pk/event/chesterfield-vs-tranmere-rovers"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Burton AlbionHuddersfield Town",
+        "team2_name": "Burton Albion",
+        "team1_logo": "https://cdn.img4every1.org/team/burton-albion/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/huddersfield-town/logo.webp",
+        "detail_url": "https://crichd.pk/event/burton-albion-vs-huddersfield-town"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Bradford CityReading",
+        "team2_name": "Bradford City",
+        "team1_logo": "https://cdn.img4every1.org/team/bradford-city/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/reading/logo.webp",
+        "detail_url": "https://crichd.pk/event/bradford-city-vs-reading"
+    },
+    {
+        "event_name": "Liverpool",
+        "team1_name": "Manchester United",
+        "team2_name": "Team 2",
+        "team1_logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "detail_url": "https://crichd.pk/event/man-united-vs-liverpool"
     },
     {
         "event_name": "Live Sports",
