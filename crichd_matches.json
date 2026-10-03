@@ -1,14 +1,6 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_name": "EnglandCroatia",
-        "team2_name": "England",
-        "team1_logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
-        "detail_url": "https://crichd.pk/event/england-vs-croatia"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Alfred Dunhill ChampionshipPGA Tour",
         "team2_name": "Alfred Dunhill Championship",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -25,51 +17,11 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "BelarusSan Marino",
-        "team2_name": "Belarus",
-        "team1_logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/san-marino/logo.webp",
-        "detail_url": "https://crichd.pk/event/belarus-vs-san-marino"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "EstoniaLuxembourg",
-        "team2_name": "Estonia",
-        "team1_logo": "https://cdn.img4every1.org/team/estonia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/luxembourg/logo.webp",
-        "detail_url": "https://crichd.pk/event/estonia-vs-luxembourg"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "IcelandBulgaria",
-        "team2_name": "Iceland",
-        "team1_logo": "https://cdn.img4every1.org/team/iceland/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/bulgaria/logo.webp",
-        "detail_url": "https://crichd.pk/event/iceland-vs-bulgaria"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Bank of Utah ChampionshipPGA Tour",
         "team2_name": "Bank of Utah Championship",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "detail_url": "https://crichd.pk/event/bank-of-utah-championship"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Gloucester RugbyHarlequins",
-        "team2_name": "Gloucester Rugby",
-        "team1_logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/harlequins/logo.webp",
-        "detail_url": "https://crichd.pk/event/gloucester-vs-harlequins"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Glasgow WarriorsUlster",
-        "team2_name": "Glasgow Warriors",
-        "team1_logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/ulster/logo.webp",
-        "detail_url": "https://crichd.pk/event/glasgow-warriors-vs-ulster"
     },
     {
         "event_name": "Live Sports",
@@ -81,43 +33,11 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Atlanta BravesLos Angeles Dodgers",
-        "team2_name": "Atlanta Braves",
-        "team1_logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
-        "detail_url": "https://crichd.pk/event/braves-vs-dodgers"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Tampa Bay RaysNew York Yankees",
-        "team2_name": "Tampa Bay Rays",
-        "team1_logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
-        "detail_url": "https://crichd.pk/event/rays-vs-yankees"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "CanadaPeru",
         "team2_name": "Canada",
         "team1_logo": "https://cdn.img4every1.org/team/canada/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/peru/logo.webp",
         "detail_url": "https://crichd.pk/event/canada-vs-peru"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "ArgentinaBurkina Faso",
-        "team2_name": "Argentina",
-        "team1_logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/burkina-faso/logo.webp",
-        "detail_url": "https://crichd.pk/event/argentina-vs-burkina-faso"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "USAMexico",
-        "team2_name": "USA",
-        "team1_logo": "https://cdn.img4every1.org/team/usa/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
-        "detail_url": "https://crichd.pk/event/usa-vs-mexico"
     },
     {
         "event_name": "Live Sports",
@@ -137,6 +57,14 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "BullsMunster",
+        "team2_name": "Bulls",
+        "team1_logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/munster/logo.webp",
+        "detail_url": "https://crichd.pk/event/bulls-vs-munster"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "SwitzerlandSlovenia",
         "team2_name": "Switzerland",
         "team1_logo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
@@ -145,11 +73,19 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "BullsMunster",
-        "team2_name": "Bulls",
-        "team1_logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/munster/logo.webp",
-        "detail_url": "https://crichd.pk/event/bulls-vs-munster"
+        "team1_name": "Atlanta BravesLos Angeles Dodgers",
+        "team2_name": "Atlanta Braves",
+        "team1_logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
+        "detail_url": "https://crichd.pk/event/braves-vs-dodgers"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Tampa Bay RaysNew York Yankees",
+        "team2_name": "Tampa Bay Rays",
+        "team1_logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
+        "detail_url": "https://crichd.pk/event/rays-vs-yankees"
     },
     {
         "event_name": "Live Sports",
@@ -166,6 +102,22 @@
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "detail_url": "https://crichd.pk/event/lpga-lotte-championship"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "ArgentinaBurkina Faso",
+        "team2_name": "Argentina",
+        "team1_logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/burkina-faso/logo.webp",
+        "detail_url": "https://crichd.pk/event/argentina-vs-burkina-faso"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "USAMexico",
+        "team2_name": "USA",
+        "team1_logo": "https://cdn.img4every1.org/team/usa/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
+        "detail_url": "https://crichd.pk/event/usa-vs-mexico"
     },
     {
         "event_name": "Live Sports",
