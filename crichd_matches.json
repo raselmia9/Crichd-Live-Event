@@ -57,14 +57,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "ColombiaParaguay",
-        "team2_name": "Colombia",
-        "team1_logo": "https://cdn.img4every1.org/team/colombia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/paraguay/logo.webp",
-        "detail_url": "https://crichd.pk/event/colombia-vs-paraguay"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "ChesterfieldTranmere Rovers",
         "team2_name": "Chesterfield",
         "team1_logo": "https://cdn.img4every1.org/team/chesterfield/logo.webp",
