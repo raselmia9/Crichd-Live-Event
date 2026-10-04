@@ -25,14 +25,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Atlanta BravesLos Angeles Dodgers",
-        "team2_name": "Atlanta Braves",
-        "team1_logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
-        "detail_url": "https://crichd.pk/event/braves-vs-dodgers"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Natalia SilvaWang Cong",
         "team2_name": "Natalia Silva",
         "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
@@ -41,27 +33,11 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Tampa Bay RaysNew York Yankees",
-        "team2_name": "Tampa Bay Rays",
-        "team1_logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
-        "detail_url": "https://crichd.pk/event/rays-vs-yankees"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "LPGA Lotte ChampionshipPGA Tour",
         "team2_name": "LPGA Lotte Championship",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "detail_url": "https://crichd.pk/event/lpga-lotte-championship"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Alfred Dunhill ChampionshipPGA Tour",
-        "team2_name": "Alfred Dunhill Championship",
-        "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "detail_url": "https://crichd.pk/event/alfred-dunhill-championship"
     },
     {
         "event_name": "Live Sports",
@@ -94,6 +70,14 @@
         "team1_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "detail_url": "https://crichd.pk/event/shenzhen-open-snooker"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Alfred Dunhill ChampionshipPGA Tour",
+        "team2_name": "Alfred Dunhill Championship",
+        "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "detail_url": "https://crichd.pk/event/alfred-dunhill-championship"
     },
     {
         "event_name": "Live Sports",
