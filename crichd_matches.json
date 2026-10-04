@@ -1,14 +1,6 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_name": "Japan Open Tennis ChampionshipsATP Tour",
-        "team2_name": "Japan Open Tennis Championships",
-        "team1_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
-        "detail_url": "https://crichd.pk/event/japan-open-tennis-championships"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Bank of Utah ChampionshipPGA Tour",
         "team2_name": "Bank of Utah Championship",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -22,14 +14,6 @@
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "detail_url": "https://crichd.pk/event/lpga-lotte-championship"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "f1 Bahrain Grand PrixFormula 1",
-        "team2_name": "f1 Bahrain Grand Prix",
-        "team1_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "detail_url": "https://crichd.pk/event/f1-bahrain-grand-prix"
     },
     {
         "event_name": "Live Sports",
@@ -54,6 +38,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/lithuania/logo.webp",
         "detail_url": "https://crichd.pk/event/azerbaijan-vs-lithuania"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Washington CommandersIndianapolis Colts",
+        "team2_name": "Washington Commanders",
+        "team1_logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/indianapolis-colts/logo.webp",
+        "detail_url": "https://crichd.pk/event/commanders-vs-colts"
     },
     {
         "event_name": "Live Sports",
@@ -113,10 +105,42 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Washington CommandersIndianapolis Colts",
-        "team2_name": "Washington Commanders",
-        "team1_logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/indianapolis-colts/logo.webp",
-        "detail_url": "https://crichd.pk/event/commanders-vs-colts"
+        "team1_name": "Buffalo BillsNew England Patriots",
+        "team2_name": "Buffalo Bills",
+        "team1_logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/new-england-patriots/logo.webp",
+        "detail_url": "https://crichd.pk/event/bills-vs-patriots-live"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Cincinnati BengalsJacksonville Jaguars",
+        "team2_name": "Cincinnati Bengals",
+        "team1_logo": "https://cdn.img4every1.org/team/cincinnati-bengals/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp",
+        "detail_url": "https://crichd.pk/event/bengals-vs-jaguars"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Chicago BearsNew York Jets",
+        "team2_name": "Chicago Bears",
+        "team1_logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/new-york-jets/logo.webp",
+        "detail_url": "https://crichd.pk/event/bears-vs-jets"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Baltimore RavensTennessee Titans",
+        "team2_name": "Baltimore Ravens",
+        "team1_logo": "https://cdn.img4every1.org/team/baltimore-ravens/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/tennessee-titans/logo.webp",
+        "detail_url": "https://crichd.pk/event/ravens-vs-titans"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Dallas CowboysHouston Texans",
+        "team2_name": "Dallas Cowboys",
+        "team1_logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/houston-texans/logo.webp",
+        "detail_url": "https://crichd.pk/event/cowboys-vs-texans-live-1"
     }
 ]
