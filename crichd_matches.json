@@ -17,35 +17,27 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Minnesota VikingsMiami Dolphins",
-        "team2_name": "Minnesota Vikings",
-        "team1_logo": "https://cdn.img4every1.org/team/minnesota-vikings/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/miami-dolphins/logo.webp",
-        "detail_url": "https://crichd.pk/event/vikings-vs-dolphins"
+        "team1_name": "Carolina PanthersDetroit Lions",
+        "team2_name": "Carolina Panthers",
+        "team1_logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/detroit-lions/logo.webp",
+        "detail_url": "https://crichd.pk/event/panthers-vs-lions"
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "San Francisco 49ersDenver Broncos",
-        "team2_name": "San Francisco 49ers",
-        "team1_logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
-        "detail_url": "https://crichd.pk/event/49ers-vs-broncos"
+        "team1_name": "Atlanta FalconsNew Orleans Saints",
+        "team2_name": "Atlanta Falcons",
+        "team1_logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/new-orleans-saints/logo.webp",
+        "detail_url": "https://crichd.pk/event/falcons-vs-saints-live-stream-3"
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Los Angeles ChargersSeattle Seahawks",
-        "team2_name": "Los Angeles Chargers",
-        "team1_logo": "https://cdn.img4every1.org/team/los-angeles-chargers/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
-        "detail_url": "https://crichd.pk/event/chargers-vs-seahawks"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Kansas City ChiefsLas Vegas Raiders",
-        "team2_name": "Kansas City Chiefs",
-        "team1_logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/las-vegas-raiders/logo.webp",
-        "detail_url": "https://crichd.pk/event/chiefs-vs-raiders-live"
+        "team1_name": "Dallas CowboysTampa Bay Buccaneers",
+        "team2_name": "Dallas Cowboys",
+        "team1_logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/tampa-bay-buccaneers/logo.webp",
+        "detail_url": "https://crichd.pk/event/dallas-cowboys-vs-buccaneers-live"
     },
     {
         "event_name": "Live Sports",
