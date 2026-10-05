@@ -1,70 +1,6 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_name": "LatviaCyprus",
-        "team2_name": "Latvia",
-        "team1_logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
-        "detail_url": "https://crichd.pk/event/latvia-vs-cyprus"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "SwedenRomania",
-        "team2_name": "Sweden",
-        "team1_logo": "https://cdn.img4every1.org/team/sweden/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/romania/logo.webp",
-        "detail_url": "https://crichd.pk/event/sweden-vs-romania"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Bosnia and HerzegovinaPoland",
-        "team2_name": "Bosnia and Herzegovina",
-        "team1_logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/poland/logo.webp",
-        "detail_url": "https://crichd.pk/event/bosnia-vs-poland"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "HungaryUkraine",
-        "team2_name": "Hungary",
-        "team1_logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/ukraine/logo.webp",
-        "detail_url": "https://crichd.pk/event/hungary-vs-ukraine"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "GeorgiaNorthern Ireland",
-        "team2_name": "Georgia",
-        "team1_logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/northern-ireland/logo.webp",
-        "detail_url": "https://crichd.pk/event/georgia-vs-northern-ireland"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "FranceBelgium",
-        "team2_name": "France",
-        "team1_logo": "https://cdn.img4every1.org/team/france/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
-        "detail_url": "https://crichd.pk/event/france-vs-belgium"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "ArmeniaMontenegro",
-        "team2_name": "Armenia",
-        "team1_logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/montenegro/logo.webp",
-        "detail_url": "https://crichd.pk/event/armenia-vs-montenegro"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "TurkiyeItaly",
-        "team2_name": "Turkiye",
-        "team1_logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/italy/logo.webp",
-        "detail_url": "https://crichd.pk/event/turkey-vs-italy"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Atlanta FalconsNew Orleans Saints",
         "team2_name": "Atlanta Falcons",
         "team1_logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
@@ -78,6 +14,70 @@
         "team1_logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/tampa-bay-buccaneers/logo.webp",
         "detail_url": "https://crichd.pk/event/dallas-cowboys-vs-buccaneers-live"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Faroe IslandsKazakhstan",
+        "team2_name": "Faroe Islands",
+        "team1_logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
+        "detail_url": "https://crichd.pk/event/faroe-islands-vs-kazakhstan"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "ScotlandSlovenia",
+        "team2_name": "Scotland",
+        "team1_logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/slovenia/logo.webp",
+        "detail_url": "https://crichd.pk/event/scotland-vs-slovenia"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "BulgariaLuxembourg",
+        "team2_name": "Bulgaria",
+        "team1_logo": "https://cdn.img4every1.org/team/bulgaria/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/luxembourg/logo.webp",
+        "detail_url": "https://crichd.pk/event/bulgaria-vs-luxembourg"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "IcelandEstonia",
+        "team2_name": "Iceland",
+        "team1_logo": "https://cdn.img4every1.org/team/iceland/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/estonia/logo.webp",
+        "detail_url": "https://crichd.pk/event/iceland-vs-estonia"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "SwitzerlandNorth Macedonia",
+        "team2_name": "Switzerland",
+        "team1_logo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/north-macedonia/logo.webp",
+        "detail_url": "https://crichd.pk/event/switzerland-vs-north-macedonia"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "SlovakiaMoldova",
+        "team2_name": "Slovakia",
+        "team1_logo": "https://cdn.img4every1.org/team/slovakia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/moldova/logo.webp",
+        "detail_url": "https://crichd.pk/event/slovakia-vs-moldova"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "FinlandBelarus",
+        "team2_name": "Finland",
+        "team1_logo": "https://cdn.img4every1.org/team/finland/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
+        "detail_url": "https://crichd.pk/event/finland-vs-belarus"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "SpainCroatia",
+        "team2_name": "Spain",
+        "team1_logo": "https://cdn.img4every1.org/team/spain/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
+        "detail_url": "https://crichd.pk/event/spain-vs-croatia"
     },
     {
         "event_name": "Live Sports",
