@@ -1,6 +1,14 @@
 [
     {
         "event_name": "Live Sports",
+        "team1_name": "IndiaUruguay",
+        "team2_name": "India",
+        "team1_logo": "https://cdn.img4every1.org/team/india/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/uruguay/logo.webp",
+        "detail_url": "https://crichd.pk/event/india-vs-uruguay"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "Faroe IslandsKazakhstan",
         "team2_name": "Faroe Islands",
         "team1_logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
@@ -65,11 +73,11 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "IndiaUruguay",
-        "team2_name": "India",
-        "team1_logo": "https://cdn.img4every1.org/team/india/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/uruguay/logo.webp",
-        "detail_url": "https://crichd.pk/event/india-vs-uruguay"
+        "team1_name": "EnglandCzechia",
+        "team2_name": "England",
+        "team1_logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
+        "detail_url": "https://crichd.pk/event/england-vs-czechia"
     },
     {
         "event_name": "Live Sports",
@@ -110,5 +118,13 @@
         "team1_logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/tampa-bay-buccaneers/logo.webp",
         "detail_url": "https://crichd.pk/event/dallas-cowboys-vs-buccaneers-live"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Philadelphia EaglesJacksonville Jaguars",
+        "team2_name": "Philadelphia Eagles",
+        "team1_logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp",
+        "detail_url": "https://crichd.pk/event/eagles-vs-jaguars"
     }
 ]
