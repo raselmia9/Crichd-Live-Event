@@ -9,14 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Cleveland GuardiansChicago White Sox",
-        "team2_name": "Cleveland Guardians",
-        "team1_logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
-        "detail_url": "https://crichd.pk/event/guardians-vs-white-sox"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Los Angeles DodgersAtlanta Braves",
         "team2_name": "Los Angeles Dodgers",
         "team1_logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
@@ -270,6 +262,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
         "detail_url": "https://crichd.pk/event/manchester-united-vs-spurs"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Nottingham ForestCrystal Palace",
+        "team2_name": "Nottingham Forest",
+        "team1_logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+        "detail_url": "https://crichd.pk/event/nottm-forest-vs-crystal-palace"
     },
     {
         "event_name": "Live Sports",
