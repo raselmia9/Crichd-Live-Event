@@ -1,43 +1,11 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_name": "Atlanta BravesLos Angeles Dodgers",
-        "team2_name": "Atlanta Braves",
-        "team1_logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
-        "detail_url": "https://crichd.pk/event/braves-vs-dodgers"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "ArgentinaBenin",
-        "team2_name": "Argentina",
-        "team1_logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/benin/logo.webp",
-        "detail_url": "https://crichd.pk/event/argentina-vs-benin"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "ColombiaPeru",
-        "team2_name": "Colombia",
-        "team1_logo": "https://cdn.img4every1.org/team/colombia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/peru/logo.webp",
-        "detail_url": "https://crichd.pk/event/colombia-vs-peru"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "CanadaUSA",
-        "team2_name": "Canada",
-        "team1_logo": "https://cdn.img4every1.org/team/canada/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/usa/logo.webp",
-        "detail_url": "https://crichd.pk/event/canada-vs-usa"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "San Diego PadresMilwaukee Brewers",
-        "team2_name": "San Diego Padres",
-        "team1_logo": "https://cdn.img4every1.org/team/san-diego-padres/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/milwaukee-brewers/logo.webp",
-        "detail_url": "https://crichd.pk/event/padres-vs-brewers"
+        "team1_name": "Shanghai Rolex MastersATP Tour",
+        "team2_name": "Shanghai Rolex Masters",
+        "team1_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "detail_url": "https://crichd.pk/event/shanghai-rolex-masters"
     },
     {
         "event_name": "Live Sports",
@@ -62,22 +30,6 @@
         "team1_logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
         "detail_url": "https://crichd.pk/event/rays-vs-yankees"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "MexicoChile",
-        "team2_name": "Mexico",
-        "team1_logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/chile/logo.webp",
-        "detail_url": "https://crichd.pk/event/mexico-vs-chile"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Shanghai Rolex MastersATP Tour",
-        "team2_name": "Shanghai Rolex Masters",
-        "team1_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
-        "detail_url": "https://crichd.pk/event/shanghai-rolex-masters"
     },
     {
         "event_name": "Live Sports",
