@@ -9,22 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Los Angeles DodgersAtlanta Braves",
-        "team2_name": "Los Angeles Dodgers",
-        "team1_logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
-        "detail_url": "https://crichd.pk/event/los-angeles-dodgers-vs-atlanta-braves"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Tampa Bay RaysNew York Yankees",
-        "team2_name": "Tampa Bay Rays",
-        "team1_logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
-        "detail_url": "https://crichd.pk/event/rays-vs-yankees"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Baycurrent ClassicPGA Tour",
         "team2_name": "Baycurrent Classic",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -118,6 +102,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/le-mans/logo.webp",
         "detail_url": "https://crichd.pk/event/psg-vs-le-mans"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "NiceStrasbourg",
+        "team2_name": "Nice",
+        "team1_logo": "https://cdn.img4every1.org/team/nice/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
+        "detail_url": "https://crichd.pk/event/nice-vs-strasbourg"
     },
     {
         "event_name": "Live Sports",
@@ -270,6 +262,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
         "detail_url": "https://crichd.pk/event/nottm-forest-vs-crystal-palace"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Hull CityEverton",
+        "team2_name": "Hull City",
+        "team1_logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+        "detail_url": "https://crichd.pk/event/hull-city-vs-everton"
     },
     {
         "event_name": "Live Sports",
