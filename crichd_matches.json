@@ -25,14 +25,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Dallas CowboysTampa Bay Buccaneers",
-        "team2_name": "Dallas Cowboys",
-        "team1_logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/tampa-bay-buccaneers/logo.webp",
-        "detail_url": "https://crichd.pk/event/dallas-cowboys-vs-buccaneers-live"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "MotoGP Indonesia Grand PrixMotoGP",
         "team2_name": "MotoGP Indonesia Grand Prix",
         "team1_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
@@ -310,6 +302,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/monza/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
         "detail_url": "https://crichd.pk/event/monza-vs-lazio-live"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "LecceBologna",
+        "team2_name": "Lecce",
+        "team1_logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
+        "detail_url": "https://crichd.pk/event/lecce-vs-bologna"
     },
     {
         "event_name": "Live Sports",
