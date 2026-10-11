@@ -41,22 +41,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Brendan AllenChristian Leroy Duncan",
-        "team2_name": "Brendan Allen",
-        "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "detail_url": "https://crichd.pk/event/brendan-allen-vs-christian-leroy-duncan"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Inter MiamiDC United",
-        "team2_name": "Inter Miami",
-        "team1_logo": "https://cdn.img4every1.org/team/inter-miami/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/dc-united/logo.webp",
-        "detail_url": "https://crichd.pk/event/inter-miami-vs-dc-united"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "AS RomaComo",
         "team2_name": "AS Roma",
         "team1_logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
