@@ -9,30 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Los Angeles ChargersDenver Broncos",
-        "team2_name": "Los Angeles Chargers",
-        "team1_logo": "https://cdn.img4every1.org/team/los-angeles-chargers/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
-        "detail_url": "https://crichd.pk/event/la-chargers-vs-broncos"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Seattle SeahawksSan Francisco 49ers",
-        "team2_name": "Seattle Seahawks",
-        "team1_logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
-        "detail_url": "https://crichd.pk/event/seahawks-vs-49ers-live-stream"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Detroit LionsArizona Cardinals",
-        "team2_name": "Detroit Lions",
-        "team1_logo": "https://cdn.img4every1.org/team/detroit-lions/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/arizona-cardinals/logo.webp",
-        "detail_url": "https://crichd.pk/event/lions-vs-cardinals"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Milwaukee BrewersLos Angeles Dodgers",
         "team2_name": "Milwaukee Brewers",
         "team1_logo": "https://cdn.img4every1.org/team/milwaukee-brewers/logo.webp",
