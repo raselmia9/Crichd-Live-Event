@@ -9,35 +9,43 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "AtalantaVenezia",
-        "team2_name": "Atalanta",
-        "team1_logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
-        "detail_url": "https://crichd.pk/event/atalanta-vs-venezia"
+        "team1_name": "Tampa Bay RaysCleveland Guardians",
+        "team2_name": "Tampa Bay Rays",
+        "team1_logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
+        "detail_url": "https://crichd.pk/event/rays-vs-guardians"
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "TorinoUdinese",
-        "team2_name": "Torino",
-        "team1_logo": "https://cdn.img4every1.org/team/torino/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-        "detail_url": "https://crichd.pk/event/torino-vs-udinese"
+        "team1_name": "Los Angeles RamsBuffalo Bills",
+        "team2_name": "Los Angeles Rams",
+        "team1_logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",
+        "detail_url": "https://crichd.pk/event/buffalo-bills-vs-rams-live"
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Newcastle UnitedCoventry City",
-        "team2_name": "Newcastle United",
-        "team1_logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
-        "detail_url": "https://crichd.pk/event/newcastle-united-vs-coventry-city"
+        "team1_name": "Atlético MadridManchester United",
+        "team2_name": "Atlético Madrid",
+        "team1_logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+        "detail_url": "https://crichd.pk/event/atletico-vs-man-united"
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "SevillaLevante",
-        "team2_name": "Sevilla",
-        "team1_logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "detail_url": "https://crichd.pk/event/sevilla-vs-levante"
+        "team1_name": "FenerbahçeAston Villa",
+        "team2_name": "Fenerbahçe",
+        "team1_logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "detail_url": "https://crichd.pk/event/fenerbahce-vs-aston-villa-u19"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Manchester CityPSG",
+        "team2_name": "Manchester City",
+        "team1_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "detail_url": "https://crichd.pk/event/man-city-vs-psg"
     },
     {
         "event_name": "Live Sports",
@@ -110,5 +118,13 @@
         "team1_logo": "https://cdn.img4every1.org/team/stoke-city/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/middlesbrough/logo.webp",
         "detail_url": "https://crichd.pk/event/stoke-city-vs-middlesbrough"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "West Ham UnitedLincoln City",
+        "team2_name": "West Ham United",
+        "team1_logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/lincoln-city/logo.webp",
+        "detail_url": "https://crichd.pk/event/west-ham-vs-lincoln-city"
     }
 ]
