@@ -1,75 +1,11 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_name": "Manchester UnitedAtlético Madrid",
-        "team2_name": "Manchester United",
-        "team1_logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "detail_url": "https://crichd.pk/event/manchester-united-vs-atletico-madrid"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Shanghai Rolex MastersATP Tour",
         "team2_name": "Shanghai Rolex Masters",
         "team1_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "detail_url": "https://crichd.pk/event/shanghai-rolex-masters"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Stoke CityMiddlesbrough",
-        "team2_name": "Stoke City",
-        "team1_logo": "https://cdn.img4every1.org/team/stoke-city/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/middlesbrough/logo.webp",
-        "detail_url": "https://crichd.pk/event/stoke-city-vs-middlesbrough"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "ArsenalLille",
-        "team2_name": "Arsenal",
-        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/lille/logo.webp",
-        "detail_url": "https://crichd.pk/event/arsenal-vs-lille"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "FC BarcelonaGalatasaray",
-        "team2_name": "FC Barcelona",
-        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/galatasaray/logo.webp",
-        "detail_url": "https://crichd.pk/event/barcelona-vs-galatasaray"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Inter MilanClub Brugge",
-        "team2_name": "Inter Milan",
-        "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/club-brugge/logo.webp",
-        "detail_url": "https://crichd.pk/event/inter-milan-vs-club-brugge"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Bayern MünchenViking",
-        "team2_name": "Bayern München",
-        "team1_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/viking/logo.webp",
-        "detail_url": "https://crichd.pk/event/bayern-munchen-vs-viking"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "NapoliVillarreal",
-        "team2_name": "Napoli",
-        "team1_logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "detail_url": "https://crichd.pk/event/napoli-vs-villarreal"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "RB LeipzigPSV",
-        "team2_name": "RB Leipzig",
-        "team1_logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/psv/logo.webp",
-        "detail_url": "https://crichd.pk/event/rb-leipzig-vs-psv"
     },
     {
         "event_name": "Live Sports",
