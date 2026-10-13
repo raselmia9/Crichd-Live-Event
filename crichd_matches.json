@@ -9,22 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Tampa Bay RaysCleveland Guardians",
-        "team2_name": "Tampa Bay Rays",
-        "team1_logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
-        "detail_url": "https://crichd.pk/event/rays-vs-guardians"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Los Angeles RamsBuffalo Bills",
-        "team2_name": "Los Angeles Rams",
-        "team1_logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",
-        "detail_url": "https://crichd.pk/event/buffalo-bills-vs-rams-live"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Atlético MadridManchester United",
         "team2_name": "Atlético Madrid",
         "team1_logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
