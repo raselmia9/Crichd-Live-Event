@@ -17,14 +17,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Tampa Bay RaysCleveland Guardians",
-        "team2_name": "Tampa Bay Rays",
-        "team1_logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
-        "detail_url": "https://crichd.pk/event/rays-vs-guardians"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "India ChampionshipPGA Tour",
         "team2_name": "India Championship",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -174,6 +166,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/watford/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
         "detail_url": "https://crichd.pk/event/watford-vs-charlton-athletic"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Tampa Bay RaysCleveland Guardians",
+        "team2_name": "Tampa Bay Rays",
+        "team1_logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
+        "detail_url": "https://crichd.pk/event/rays-vs-guardians"
     },
     {
         "event_name": "Live Sports",
