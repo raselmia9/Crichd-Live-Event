@@ -17,14 +17,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "AustraliaNew Zealand",
-        "team2_name": "Australia",
-        "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-        "detail_url": "https://crichd.pk/event/australia-vs-new-zealand"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Crystal PalaceOlympique Lyonnais",
         "team2_name": "Crystal Palace",
         "team1_logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
@@ -86,30 +78,6 @@
         "team1_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
         "detail_url": "https://crichd.pk/event/juventus-vs-celta-vigo"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Al-NassrAl Ahli",
-        "team2_name": "Al-Nassr",
-        "team1_logo": "https://cdn.img4every1.org/team/al-nassr/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/al-ahli/logo.webp",
-        "detail_url": "https://crichd.pk/event/al-nassr-vs-al-ahli"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Le MansToulouse",
-        "team2_name": "Le Mans",
-        "team1_logo": "https://cdn.img4every1.org/team/le-mans/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
-        "detail_url": "https://crichd.pk/event/le-mans-vs-toulouse"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "PSGStrasbourg",
-        "team2_name": "PSG",
-        "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
-        "detail_url": "https://crichd.pk/event/psg-vs-strasbourg"
     },
     {
         "event_name": "Live Sports",
@@ -217,6 +185,14 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "Bayern MünchenRB Leipzig",
+        "team2_name": "Bayern München",
+        "team1_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
+        "detail_url": "https://crichd.pk/event/bayern-munchen-vs-rb-leipzig"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "SassuoloFrosinone Calcio",
         "team2_name": "Sassuolo",
         "team1_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
@@ -238,6 +214,22 @@
         "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
         "detail_url": "https://crichd.pk/event/inter-milan-vs-bologna"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Le MansToulouse",
+        "team2_name": "Le Mans",
+        "team1_logo": "https://cdn.img4every1.org/team/le-mans/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
+        "detail_url": "https://crichd.pk/event/le-mans-vs-toulouse"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "PSGStrasbourg",
+        "team2_name": "PSG",
+        "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
+        "detail_url": "https://crichd.pk/event/psg-vs-strasbourg"
     },
     {
         "event_name": "Live Sports",
@@ -310,5 +302,13 @@
         "team1_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
         "detail_url": "https://crichd.pk/event/manchester-city-vs-ipswich-town"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Aston VillaNewcastle United",
+        "team2_name": "Aston Villa",
+        "team1_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
+        "detail_url": "https://crichd.pk/event/aston-villa-vs-newcastle"
     }
 ]
