@@ -81,6 +81,14 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "HoffenheimBesiktas",
+        "team2_name": "Hoffenheim",
+        "team1_logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/besiktas/logo.webp",
+        "detail_url": "https://crichd.pk/event/hoffenheim-vs-besiktas"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "Brighton & Hove AlbionKauno Zalgiris",
         "team2_name": "Brighton & Hove Albion",
         "team1_logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
