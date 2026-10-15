@@ -9,14 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Milwaukee BrewersLos Angeles Dodgers",
-        "team2_name": "Milwaukee Brewers",
-        "team1_logo": "https://cdn.img4every1.org/team/milwaukee-brewers/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
-        "detail_url": "https://crichd.pk/event/brewers-vs-dodgers"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "India ChampionshipPGA Tour",
         "team2_name": "India Championship",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -270,6 +262,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
         "detail_url": "https://crichd.pk/event/elche-vs-villarreal"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "FC BarcelonaReal Betis",
+        "team2_name": "FC Barcelona",
+        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "detail_url": "https://crichd.pk/event/barcelona-vs-real-betis"
     },
     {
         "event_name": "Live Sports",
