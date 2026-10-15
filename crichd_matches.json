@@ -25,14 +25,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "FranceSamoa",
-        "team2_name": "France",
-        "team1_logo": "https://cdn.img4every1.org/team/france/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/samoa/logo.webp",
-        "detail_url": "https://crichd.pk/event/france-vs-samoa"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Crystal PalaceOlympique Lyonnais",
         "team2_name": "Crystal Palace",
         "team1_logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
@@ -174,6 +166,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
         "detail_url": "https://crichd.pk/event/broncos-vs-seahawks"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "FranceSamoa",
+        "team2_name": "France",
+        "team1_logo": "https://cdn.img4every1.org/team/france/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/samoa/logo.webp",
+        "detail_url": "https://crichd.pk/event/france-vs-samoa"
     },
     {
         "event_name": "Live Sports",
