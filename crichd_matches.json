@@ -17,14 +17,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Sydney FCWestern Sydney Wanderers",
-        "team2_name": "Sydney FC",
-        "team1_logo": "https://cdn.img4every1.org/team/sydney-fc/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/western-sydney-wanderers/logo.webp",
-        "detail_url": "https://crichd.pk/event/sydney-fc-vs-western-sydney-wanderers"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Eintracht FrankfurtKöln",
         "team2_name": "Eintracht Frankfurt",
         "team1_logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
