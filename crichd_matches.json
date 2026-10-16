@@ -17,22 +17,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Tampa Bay RaysCleveland Guardians",
-        "team2_name": "Tampa Bay Rays",
-        "team1_logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
-        "detail_url": "https://crichd.pk/event/rays-vs-guardians"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Denver BroncosSeattle Seahawks",
-        "team2_name": "Denver Broncos",
-        "team1_logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
-        "detail_url": "https://crichd.pk/event/broncos-vs-seahawks"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "FranceSamoa",
         "team2_name": "France",
         "team1_logo": "https://cdn.img4every1.org/team/france/logo.webp",
@@ -145,6 +129,14 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "LazioJuventus",
+        "team2_name": "Lazio",
+        "team1_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "detail_url": "https://crichd.pk/event/lazio-vs-juventus"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "Le MansToulouse",
         "team2_name": "Le Mans",
         "team1_logo": "https://cdn.img4every1.org/team/le-mans/logo.webp",
@@ -222,6 +214,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
         "detail_url": "https://crichd.pk/event/alaves-vs-celta-vigo"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Real SociedadMálaga",
+        "team2_name": "Real Sociedad",
+        "team1_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "detail_url": "https://crichd.pk/event/real-sociedad-vs-malaga"
     },
     {
         "event_name": "Live Sports",
