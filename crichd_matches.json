@@ -41,6 +41,22 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "AustraliaNew Zealand",
+        "team2_name": "Australia",
+        "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+        "detail_url": "https://crichd.pk/event/australia-vs-new-zealand"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "EnglandTonga",
+        "team2_name": "England",
+        "team1_logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/tonga/logo.webp",
+        "detail_url": "https://crichd.pk/event/england-vs-tonga"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "WatfordCharlton Athletic",
         "team2_name": "Watford",
         "team1_logo": "https://cdn.img4every1.org/team/watford/logo.webp",
@@ -110,6 +126,22 @@
         "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
         "detail_url": "https://crichd.pk/event/arsenal-vs-nottm-forest"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Glasgow WarriorsSale Sharks",
+        "team2_name": "Glasgow Warriors",
+        "team1_logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
+        "detail_url": "https://crichd.pk/event/warriors-vs-sale-sharks"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "BullsStade Français Paris",
+        "team2_name": "Bulls",
+        "team1_logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/sf-paris/logo.webp",
+        "detail_url": "https://crichd.pk/event/bulls-vs-stade-francais"
     },
     {
         "event_name": "Live Sports",
@@ -254,5 +286,13 @@
         "team1_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
         "detail_url": "https://crichd.pk/event/bayern-munchen-vs-rb-leipzig"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "UFC Fight Night: BuckleyMalott",
+        "team2_name": "UFC Fight Night: Buckley",
+        "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "detail_url": "https://crichd.pk/event/ufc-fight-night-buckley-vs-malott"
     }
 ]
