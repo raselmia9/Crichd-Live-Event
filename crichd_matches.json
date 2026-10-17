@@ -1,14 +1,6 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_name": "FC BarcelonaReal Betis",
-        "team2_name": "FC Barcelona",
-        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "detail_url": "https://crichd.pk/event/barcelona-vs-real-betis"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Shanghai Rolex MastersATP Tour",
         "team2_name": "Shanghai Rolex Masters",
         "team1_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
@@ -25,51 +17,83 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "PSGStrasbourg",
-        "team2_name": "PSG",
-        "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
-        "detail_url": "https://crichd.pk/event/psg-vs-strasbourg"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Inter MilanBologna",
-        "team2_name": "Inter Milan",
-        "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
-        "detail_url": "https://crichd.pk/event/inter-milan-vs-bologna"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Bayern MünchenRB Leipzig",
-        "team2_name": "Bayern München",
-        "team1_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
-        "detail_url": "https://crichd.pk/event/bayern-munchen-vs-rb-leipzig"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Aston VillaNewcastle United",
-        "team2_name": "Aston Villa",
-        "team1_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-        "detail_url": "https://crichd.pk/event/aston-villa-vs-newcastle"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "ConnachtSaracens",
-        "team2_name": "Connacht",
-        "team1_logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
-        "detail_url": "https://crichd.pk/event/connacht-vs-saracens"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "AS RomaGenoa",
         "team2_name": "AS Roma",
         "team1_logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
         "detail_url": "https://crichd.pk/event/roma-vs-genoa"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "LilleBrest",
+        "team2_name": "Lille",
+        "team1_logo": "https://cdn.img4every1.org/team/lille/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/brest/logo.webp",
+        "detail_url": "https://crichd.pk/event/lille-vs-brest"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Athletic ClubValencia",
+        "team2_name": "Athletic Club",
+        "team1_logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+        "detail_url": "https://crichd.pk/event/athletic-club-vs-valencia"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "MunsterRacing Métro 92",
+        "team2_name": "Munster",
+        "team1_logo": "https://cdn.img4every1.org/team/munster/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/racing-metro-92/logo.webp",
+        "detail_url": "https://crichd.pk/event/munster-vs-racing-92"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Bath RugbyMontpellier",
+        "team2_name": "Bath Rugby",
+        "team1_logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/montpellier/logo.webp",
+        "detail_url": "https://crichd.pk/event/bath-rugby-vs-montpellier"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "BuckleyMalott",
+        "team2_name": "Buckley",
+        "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "detail_url": "https://crichd.pk/event/ufc-fight-night-buckley-vs-malott"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Tampa Bay RaysCleveland Guardians",
+        "team2_name": "Tampa Bay Rays",
+        "team1_logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
+        "detail_url": "https://crichd.pk/event/rays-vs-guardians"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Melbourne VictoryWellington Phoenix",
+        "team2_name": "Melbourne Victory",
+        "team1_logo": "https://cdn.img4every1.org/team/melbourne-victory/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/wellington-phoenix/logo.webp",
+        "detail_url": "https://crichd.pk/event/melbourne-victory-vs-wellington-phoenix"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "FijiCook Islands",
+        "team2_name": "Fiji",
+        "team1_logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/cook-islands/logo.webp",
+        "detail_url": "https://crichd.pk/event/fiji-vs-cook-islands"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Snooker Northern Ireland OpenSnooker",
+        "team2_name": "Snooker Northern Ireland Open",
+        "team1_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+        "detail_url": "https://crichd.pk/event/snooker-northern-ireland-open"
     },
     {
         "event_name": "Live Sports",
@@ -105,22 +129,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "LilleBrest",
-        "team2_name": "Lille",
-        "team1_logo": "https://cdn.img4every1.org/team/lille/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/brest/logo.webp",
-        "detail_url": "https://crichd.pk/event/lille-vs-brest"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Athletic ClubValencia",
-        "team2_name": "Athletic Club",
-        "team1_logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-        "detail_url": "https://crichd.pk/event/athletic-club-vs-valencia"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Racing SantanderOsasuna",
         "team2_name": "Racing Santander",
         "team1_logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
@@ -153,27 +161,11 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "MunsterRacing Métro 92",
-        "team2_name": "Munster",
-        "team1_logo": "https://cdn.img4every1.org/team/munster/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/racing-metro-92/logo.webp",
-        "detail_url": "https://crichd.pk/event/munster-vs-racing-92"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Bath RugbyMontpellier",
-        "team2_name": "Bath Rugby",
-        "team1_logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/montpellier/logo.webp",
-        "detail_url": "https://crichd.pk/event/bath-rugby-vs-montpellier"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "UFC Fight Night: BuckleyMalott",
-        "team2_name": "UFC Fight Night: Buckley",
-        "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "detail_url": "https://crichd.pk/event/ufc-fight-night-buckley-vs-malott"
+        "team1_name": "Leicester TigersSection Paloise",
+        "team2_name": "Leicester Tigers",
+        "team1_logo": "https://cdn.img4every1.org/team/leicester-tigers/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/section-paloise/logo.webp",
+        "detail_url": "https://crichd.pk/event/leicester-tigers-vs-pau"
     },
     {
         "event_name": "Live Sports",
