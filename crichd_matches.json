@@ -25,6 +25,14 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "AustraliaNew Zealand",
+        "team2_name": "Australia",
+        "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+        "detail_url": "https://crichd.pk/event/australia-vs-new-zealand"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "Perth GloryMacarthur",
         "team2_name": "Perth Glory",
         "team1_logo": "https://cdn.img4every1.org/team/perth-glory/logo.webp",
@@ -38,14 +46,6 @@
         "team1_logo": "https://cdn.img4every1.org/team/newcastle-jets/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/central-coast-mariners/logo.webp",
         "detail_url": "https://crichd.pk/event/newcastle-jets-vs-central-coast-mariners"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "AustraliaNew Zealand",
-        "team2_name": "Australia",
-        "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-        "detail_url": "https://crichd.pk/event/australia-vs-new-zealand"
     },
     {
         "event_name": "Live Sports",
