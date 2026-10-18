@@ -17,30 +17,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "BuckleyMalott",
-        "team2_name": "Buckley",
-        "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "detail_url": "https://crichd.pk/event/ufc-fight-night-buckley-vs-malott"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Tampa Bay RaysCleveland Guardians",
-        "team2_name": "Tampa Bay Rays",
-        "team1_logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
-        "detail_url": "https://crichd.pk/event/rays-vs-guardians"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Melbourne VictoryWellington Phoenix",
-        "team2_name": "Melbourne Victory",
-        "team1_logo": "https://cdn.img4every1.org/team/melbourne-victory/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/wellington-phoenix/logo.webp",
-        "detail_url": "https://crichd.pk/event/melbourne-victory-vs-wellington-phoenix"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "FijiCook Islands",
         "team2_name": "Fiji",
         "team1_logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
@@ -286,5 +262,29 @@
         "team1_logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/sabah-baku/logo.webp",
         "detail_url": "https://crichd.pk/event/borussia-dortmund-vs-sabah"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "FenerbahçeSlavia Praha",
+        "team2_name": "Fenerbahçe",
+        "team1_logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/slavia-praha/logo.webp",
+        "detail_url": "https://crichd.pk/event/fenerbahce-vs-slavia-praha"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "PortoPSV",
+        "team2_name": "Porto",
+        "team1_logo": "https://cdn.img4every1.org/team/porto/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/psv/logo.webp",
+        "detail_url": "https://crichd.pk/event/porto-vs-psv"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Wolverhampton WanderersPortsmouth",
+        "team2_name": "Wolverhampton Wanderers",
+        "team1_logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/portsmouth/logo.webp",
+        "detail_url": "https://crichd.pk/event/wolves-vs-portsmouth"
     }
 ]
