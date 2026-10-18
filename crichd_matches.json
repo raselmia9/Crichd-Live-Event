@@ -9,22 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "LazioJuventus",
-        "team2_name": "Lazio",
-        "team1_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "detail_url": "https://crichd.pk/event/lazio-vs-juventus"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Real MadridSevilla",
-        "team2_name": "Real Madrid",
-        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "detail_url": "https://crichd.pk/event/real-madrid-vs-sevilla"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Los Angeles RamsArizona Cardinals",
         "team2_name": "Los Angeles Rams",
         "team1_logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
