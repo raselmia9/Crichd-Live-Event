@@ -9,30 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Los Angeles RamsArizona Cardinals",
-        "team2_name": "Los Angeles Rams",
-        "team1_logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/arizona-cardinals/logo.webp",
-        "detail_url": "https://crichd.pk/event/rams-vs-cardinals"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Los Angeles ChargersKansas City Chiefs",
-        "team2_name": "Los Angeles Chargers",
-        "team1_logo": "https://cdn.img4every1.org/team/los-angeles-chargers/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
-        "detail_url": "https://crichd.pk/event/chargers-vs-chiefs"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Buffalo BillsLas Vegas Raiders",
-        "team2_name": "Buffalo Bills",
-        "team1_logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/las-vegas-raiders/logo.webp",
-        "detail_url": "https://crichd.pk/event/bills-vs-raiders"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Dallas CowboysGreen Bay Packers",
         "team2_name": "Dallas Cowboys",
         "team1_logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
