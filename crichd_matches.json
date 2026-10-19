@@ -9,46 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "MonzaCagliari",
-        "team2_name": "Monza",
-        "team1_logo": "https://cdn.img4every1.org/team/monza/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
-        "detail_url": "https://crichd.pk/event/monza-vs-cagliari"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "ParmaTorino",
-        "team2_name": "Parma",
-        "team1_logo": "https://cdn.img4every1.org/team/parma/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/torino/logo.webp",
-        "detail_url": "https://crichd.pk/event/parma-vs-torino"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "GetafeRayo Vallecano",
-        "team2_name": "Getafe",
-        "team1_logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "detail_url": "https://crichd.pk/event/getafe-vs-rayo-vallecano"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "LevanteAthletic Club",
-        "team2_name": "Levante",
-        "team1_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "detail_url": "https://crichd.pk/event/levante-vs-athletic-club"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Tottenham HotspurCoventry City",
-        "team2_name": "Tottenham Hotspur",
-        "team1_logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
-        "detail_url": "https://crichd.pk/event/spurs-vs-coventry-city"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Borussia DortmundSabah Baku",
         "team2_name": "Borussia Dortmund",
         "team1_logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
@@ -126,5 +86,13 @@
         "team1_logo": "https://cdn.img4every1.org/team/reading/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/leyton-orient/logo.webp",
         "detail_url": "https://crichd.pk/event/reading-vs-leyton-orient"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "LevanteAthletic Club",
+        "team2_name": "Levante",
+        "team1_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "detail_url": "https://crichd.pk/event/levante-vs-athletic-club"
     }
 ]
