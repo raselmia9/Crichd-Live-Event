@@ -73,11 +73,27 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "World Gymnastics ChampionshipGymnastics",
+        "team2_name": "World Gymnastics Championship",
+        "team1_logo": "https://cdn.img4every1.org/league/gymnastics/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/gymnastics/logo.webp",
+        "detail_url": "https://crichd.pk/event/world-gymnastics-championship"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "Wolverhampton WanderersPortsmouth",
         "team2_name": "Wolverhampton Wanderers",
         "team1_logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/portsmouth/logo.webp",
         "detail_url": "https://crichd.pk/event/wolves-vs-portsmouth"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "GillinghamPort Vale",
+        "team2_name": "Gillingham",
+        "team1_logo": "https://cdn.img4every1.org/team/gillingham/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/port-vale/logo.webp",
+        "detail_url": "https://crichd.pk/event/gillingham-vs-port-vale"
     },
     {
         "event_name": "Live Sports",
