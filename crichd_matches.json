@@ -9,14 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Washington CommandersSan Francisco 49ers",
-        "team2_name": "Washington Commanders",
-        "team1_logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
-        "detail_url": "https://crichd.pk/event/commanders-vs-49ers"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Borussia DortmundSabah Baku",
         "team2_name": "Borussia Dortmund",
         "team1_logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
