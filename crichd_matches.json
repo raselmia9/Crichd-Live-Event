@@ -1,6 +1,14 @@
 [
     {
         "event_name": "Live Sports",
+        "team1_name": "f1 United States Grand PrixFormula 1",
+        "team2_name": "f1 United States Grand Prix",
+        "team1_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "detail_url": "https://crichd.pk/event/f1-united-states-grand-prix"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "Snooker Northern Ireland OpenSnooker",
         "team2_name": "Snooker Northern Ireland Open",
         "team1_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
@@ -49,6 +57,22 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "Brighton & Hove AlbionJablonec",
+        "team2_name": "Brighton & Hove Albion",
+        "team1_logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/jablonec/logo.webp",
+        "detail_url": "https://crichd.pk/event/brighton-vs-jablonec"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "HeartsTrabzonspor",
+        "team2_name": "Hearts",
+        "team1_logo": "https://cdn.img4every1.org/team/hearts/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/trabzonspor/logo.webp",
+        "detail_url": "https://crichd.pk/event/hearts-vs-trabzonspor"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "Olympique MarseilleSturm Graz",
         "team2_name": "Olympique Marseille",
         "team1_logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
@@ -89,19 +113,35 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Brighton & Hove AlbionJablonec",
-        "team2_name": "Brighton & Hove Albion",
-        "team1_logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/jablonec/logo.webp",
-        "detail_url": "https://crichd.pk/event/brighton-vs-jablonec"
+        "team1_name": "BenficaOmonia Nicosia",
+        "team2_name": "Benfica",
+        "team1_logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/omonia-nicosia/logo.webp",
+        "detail_url": "https://crichd.pk/event/benfica-vs-omonia-nicosia"
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "HeartsTrabzonspor",
-        "team2_name": "Hearts",
-        "team1_logo": "https://cdn.img4every1.org/team/hearts/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/trabzonspor/logo.webp",
-        "detail_url": "https://crichd.pk/event/hearts-vs-trabzonspor"
+        "team1_name": "Real SociedadLillestrøm",
+        "team2_name": "Real Sociedad",
+        "team1_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/lillestrom/logo.webp",
+        "detail_url": "https://crichd.pk/event/real-sociedad-vs-lillestr-m"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "AS MonacoFreiburg",
+        "team2_name": "AS Monaco",
+        "team1_logo": "https://cdn.img4every1.org/team/as-monaco/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
+        "detail_url": "https://crichd.pk/event/monaco-vs-freiburg"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "MotoGP Australian Grand PrixMotoGP",
+        "team2_name": "MotoGP Australian Grand Prix",
+        "team1_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "detail_url": "https://crichd.pk/event/australian-grand-prix"
     },
     {
         "event_name": "Live Sports",
@@ -137,14 +177,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "LensParis FC",
-        "team2_name": "Lens",
-        "team1_logo": "https://cdn.img4every1.org/team/lens/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
-        "detail_url": "https://crichd.pk/event/lens-vs-paris"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "TorinoMonza",
         "team2_name": "Torino",
         "team1_logo": "https://cdn.img4every1.org/team/torino/logo.webp",
@@ -177,14 +209,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "ParmaLazio",
-        "team2_name": "Parma",
-        "team1_logo": "https://cdn.img4every1.org/team/parma/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "detail_url": "https://crichd.pk/event/parma-vs-lazio"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Deportivo AlavésMálaga",
         "team2_name": "Deportivo Alavés",
         "team1_logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
@@ -214,22 +238,6 @@
         "team1_logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
         "detail_url": "https://crichd.pk/event/valencia-vs-villarreal"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Atlético MadridDeportivo La Coruña",
-        "team2_name": "Atlético Madrid",
-        "team1_logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
-        "detail_url": "https://crichd.pk/event/atletico-madrid-vs-deportivo-la-coruna"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "GetafeAthletic Club",
-        "team2_name": "Getafe",
-        "team1_logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "detail_url": "https://crichd.pk/event/getafe-vs-athletic-club"
     },
     {
         "event_name": "Live Sports",
