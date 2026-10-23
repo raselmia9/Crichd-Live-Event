@@ -49,6 +49,46 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "LionsEdinburgh",
+        "team2_name": "Lions",
+        "team1_logo": "https://cdn.img4every1.org/team/lions/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
+        "detail_url": "https://crichd.pk/event/lions-vs-edinburgh"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "ZebreConnacht",
+        "team2_name": "Zebre",
+        "team1_logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
+        "detail_url": "https://crichd.pk/event/zebre-vs-connacht"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "The SharksCardiff Blues",
+        "team2_name": "The Sharks",
+        "team1_logo": "https://cdn.img4every1.org/team/the-sharks/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
+        "detail_url": "https://crichd.pk/event/sharks-vs-cardiff-rugby"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Bath RugbyGloucester Rugby",
+        "team2_name": "Bath Rugby",
+        "team1_logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
+        "detail_url": "https://crichd.pk/event/bath-rugby-vs-gloucester"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Sale SharksNewcastle Red Bulls",
+        "team2_name": "Sale Sharks",
+        "team1_logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/newcastle-red-bulls/logo.webp",
+        "detail_url": "https://crichd.pk/event/sale-sharks-vs-newcastle-red-bulls"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "BrestNice",
         "team2_name": "Brest",
         "team1_logo": "https://cdn.img4every1.org/team/brest/logo.webp",
@@ -161,22 +201,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Real BetisCelta de Vigo",
-        "team2_name": "Real Betis",
-        "team1_logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "detail_url": "https://crichd.pk/event/real-betis-vs-celta-vigo"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Real SociedadLevante",
-        "team2_name": "Real Sociedad",
-        "team1_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "detail_url": "https://crichd.pk/event/real-sociedad-vs-levante"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Bolton WanderersMiddlesbrough",
         "team2_name": "Bolton Wanderers",
         "team1_logo": "https://cdn.img4every1.org/team/bolton-wanderers/logo.webp",
@@ -249,11 +273,11 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Crystal PalaceNewcastle United",
-        "team2_name": "Crystal Palace",
-        "team1_logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-        "detail_url": "https://crichd.pk/event/crystal-palace-vs-newcastle-united"
+        "team1_name": "Milwaukee BrewersTampa Bay Rays",
+        "team2_name": "Milwaukee Brewers",
+        "team1_logo": "https://cdn.img4every1.org/team/milwaukee-brewers/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
+        "detail_url": "https://crichd.pk/event/brewers-vs-rays"
     },
     {
         "event_name": "Live Sports",
@@ -278,5 +302,21 @@
         "team1_logo": "https://cdn.img4every1.org/team/melbourne-city/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/melbourne-victory/logo.webp",
         "detail_url": "https://crichd.pk/event/melbourne-city-vs-melbourne-victory"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Papua New GuineaSamoa",
+        "team2_name": "Papua New Guinea",
+        "team1_logo": "https://cdn.img4every1.org/team/papua-new-guinea/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/samoa/logo.webp",
+        "detail_url": "https://crichd.pk/event/png-vs-samoa"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "EnglandFrance",
+        "team2_name": "England",
+        "team1_logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/france/logo.webp",
+        "detail_url": "https://crichd.pk/event/england-vs-france"
     }
 ]
