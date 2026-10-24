@@ -33,22 +33,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Alexander VolkanovskiMovsar Evloev",
-        "team2_name": "Alexander Volkanovski",
-        "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "detail_url": "https://crichd.pk/event/alexander-volkano-vs-ki-vs-mo-vs-ar-evloev"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Atlético MadridDeportivo La Coruña",
-        "team2_name": "Atlético Madrid",
-        "team1_logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
-        "detail_url": "https://crichd.pk/event/atletico-madrid-vs-deportivo-la-coruna"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "GetafeAthletic Club",
         "team2_name": "Getafe",
         "team1_logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
