@@ -33,22 +33,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Milwaukee BrewersTampa Bay Rays",
-        "team2_name": "Milwaukee Brewers",
-        "team1_logo": "https://cdn.img4every1.org/team/milwaukee-brewers/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
-        "detail_url": "https://crichd.pk/event/brewers-vs-rays"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "MacarthurNewcastle Jets",
-        "team2_name": "Macarthur",
-        "team1_logo": "https://cdn.img4every1.org/team/macarthur/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/newcastle-jets/logo.webp",
-        "detail_url": "https://crichd.pk/event/macarthur-vs-newcastle-jets"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "AucklandWestern Sydney Wanderers",
         "team2_name": "Auckland",
         "team1_logo": "https://cdn.img4every1.org/team/auckland/logo.webp",
@@ -57,27 +41,19 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Melbourne CityMelbourne Victory",
-        "team2_name": "Melbourne City",
-        "team1_logo": "https://cdn.img4every1.org/team/melbourne-city/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/melbourne-victory/logo.webp",
-        "detail_url": "https://crichd.pk/event/melbourne-city-vs-melbourne-victory"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Papua New GuineaSamoa",
-        "team2_name": "Papua New Guinea",
-        "team1_logo": "https://cdn.img4every1.org/team/papua-new-guinea/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/samoa/logo.webp",
-        "detail_url": "https://crichd.pk/event/png-vs-samoa"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "EnglandFrance",
         "team2_name": "England",
         "team1_logo": "https://cdn.img4every1.org/team/england/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/france/logo.webp",
         "detail_url": "https://crichd.pk/event/england-vs-france"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Melbourne CityMelbourne Victory",
+        "team2_name": "Melbourne City",
+        "team1_logo": "https://cdn.img4every1.org/team/melbourne-city/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/melbourne-victory/logo.webp",
+        "detail_url": "https://crichd.pk/event/melbourne-city-vs-melbourne-victory"
     },
     {
         "event_name": "Live Sports",
