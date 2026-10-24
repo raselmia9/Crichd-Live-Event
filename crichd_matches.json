@@ -41,46 +41,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "ChelseaTottenham Hotspur",
-        "team2_name": "Chelsea",
-        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
-        "detail_url": "https://crichd.pk/event/chelsea-vs-tottenham-hotspur"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Eintracht FrankfurtBorussia Dortmund",
-        "team2_name": "Eintracht Frankfurt",
-        "team1_logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
-        "detail_url": "https://crichd.pk/event/eintracht-frankfurt-vs-dortmund"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "ValenciaVillarreal",
-        "team2_name": "Valencia",
-        "team1_logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "detail_url": "https://crichd.pk/event/valencia-vs-villarreal"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "ParmaLazio",
-        "team2_name": "Parma",
-        "team1_logo": "https://cdn.img4every1.org/team/parma/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "detail_url": "https://crichd.pk/event/parma-vs-lazio"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "LensParis FC",
-        "team2_name": "Lens",
-        "team1_logo": "https://cdn.img4every1.org/team/lens/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
-        "detail_url": "https://crichd.pk/event/lens-vs-paris"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Atlético MadridDeportivo La Coruña",
         "team2_name": "Atlético Madrid",
         "team1_logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
