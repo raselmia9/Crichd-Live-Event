@@ -17,51 +17,11 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "New ZealandCook Islands",
-        "team2_name": "New Zealand",
-        "team1_logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cook-islands/logo.webp",
-        "detail_url": "https://crichd.pk/event/new-zealand-vs-cook-islands"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "AustraliaFiji",
-        "team2_name": "Australia",
-        "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
-        "detail_url": "https://crichd.pk/event/australia-vs-fiji"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Inter MilanFiorentina",
         "team2_name": "Inter Milan",
         "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
         "detail_url": "https://crichd.pk/event/inter-milan-vs-fiorentina"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "JuventusLecce",
-        "team2_name": "Juventus",
-        "team1_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "detail_url": "https://crichd.pk/event/juventus-vs-lecce"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "AC MilanUdinese",
-        "team2_name": "AC Milan",
-        "team1_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-        "detail_url": "https://crichd.pk/event/ac-milan-vs-udinese"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "LazioSassuolo",
-        "team2_name": "Lazio",
-        "team1_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "detail_url": "https://crichd.pk/event/lazio-vs-sassuolo"
     },
     {
         "event_name": "Live Sports",
@@ -216,6 +176,14 @@
         "detail_url": "https://crichd.pk/event/sunderland-vs-leeds-utd"
     },
     {
+        "event_name": "Liverpool",
+        "team1_name": "Chelsea",
+        "team2_name": "Team 2",
+        "team1_logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "detail_url": "https://crichd.pk/event/liverpool-vs-chelsea"
+    },
+    {
         "event_name": "Live Sports",
         "team1_name": "LilleAS Monaco",
         "team2_name": "Lille",
@@ -273,6 +241,30 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "JuventusLecce",
+        "team2_name": "Juventus",
+        "team1_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
+        "detail_url": "https://crichd.pk/event/juventus-vs-lecce"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "AC MilanUdinese",
+        "team2_name": "AC Milan",
+        "team1_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
+        "detail_url": "https://crichd.pk/event/ac-milan-vs-udinese"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "LazioSassuolo",
+        "team2_name": "Lazio",
+        "team1_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "detail_url": "https://crichd.pk/event/lazio-vs-sassuolo"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "2026 Ballon d'OrFriendly",
         "team2_name": "2026 Ballon d'Or",
         "team1_logo": "https://cdn.img4every1.org/league/friendly-soccer-streams/logo.webp",
@@ -302,5 +294,13 @@
         "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/fleetwood-town/logo.webp",
         "detail_url": "https://crichd.pk/event/arsenal-vs-fleetwood-town"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Manchester CityBrighton & Hove Albion",
+        "team2_name": "Manchester City",
+        "team1_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "detail_url": "https://crichd.pk/event/manchester-city-vs-brighton"
     }
 ]
