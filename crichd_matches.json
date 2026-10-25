@@ -17,14 +17,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "MotoGP Australian Grand PrixMotoGP",
-        "team2_name": "MotoGP Australian Grand Prix",
-        "team1_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-        "detail_url": "https://crichd.pk/event/australian-grand-prix"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "New ZealandCook Islands",
         "team2_name": "New Zealand",
         "team1_logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
@@ -302,5 +294,13 @@
         "team1_logo": "https://cdn.img4every1.org/team/bradford-city/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/peterborough-united/logo.webp",
         "detail_url": "https://crichd.pk/event/bradford-city-vs-peterborough-utd"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "ArsenalFleetwood Town",
+        "team2_name": "Arsenal",
+        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/fleetwood-town/logo.webp",
+        "detail_url": "https://crichd.pk/event/arsenal-vs-fleetwood-town"
     }
 ]
