@@ -1,59 +1,11 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_name": "f1 United States Grand PrixFormula 1",
-        "team2_name": "f1 United States Grand Prix",
-        "team1_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "detail_url": "https://crichd.pk/event/f1-united-states-grand-prix"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "FC BarcelonaReal Madrid",
-        "team2_name": "FC Barcelona",
-        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "detail_url": "https://crichd.pk/event/barcelona-vs-real-madrid"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "PGA / LPGA GolfPGA Tour",
         "team2_name": "PGA / LPGA Golf",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "detail_url": "https://crichd.pk/event/pga-lpga-golf"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Snooker Northern Ireland OpenSnooker",
-        "team2_name": "Snooker Northern Ireland Open",
-        "team1_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "detail_url": "https://crichd.pk/event/snooker-northern-ireland-open"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "AC MilanUdinese",
-        "team2_name": "AC Milan",
-        "team1_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-        "detail_url": "https://crichd.pk/event/ac-milan-vs-udinese"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Arizona CardinalsDenver Broncos",
-        "team2_name": "Arizona Cardinals",
-        "team1_logo": "https://cdn.img4every1.org/team/arizona-cardinals/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
-        "detail_url": "https://crichd.pk/event/cardinals-vs-broncos"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Los Angeles RamsLas Vegas Raiders",
-        "team2_name": "Los Angeles Rams",
-        "team1_logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/las-vegas-raiders/logo.webp",
-        "detail_url": "https://crichd.pk/event/rams-vs-raiders"
     },
     {
         "event_name": "Live Sports",
