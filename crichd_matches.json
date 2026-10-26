@@ -9,14 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Detroit LionsGreen Bay Packers",
-        "team2_name": "Detroit Lions",
-        "team1_logo": "https://cdn.img4every1.org/team/detroit-lions/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/green-bay-packers/logo.webp",
-        "detail_url": "https://crichd.pk/event/detroit-lions-vs-green-bay-packers"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Kansas City ChiefsSeattle Seahawks",
         "team2_name": "Kansas City Chiefs",
         "team1_logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
