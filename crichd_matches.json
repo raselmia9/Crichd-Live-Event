@@ -1,35 +1,27 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_name": "PGA / LPGA GolfPGA Tour",
-        "team2_name": "PGA / LPGA Golf",
-        "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "detail_url": "https://crichd.pk/event/pga-lpga-golf"
+        "team1_name": "Dallas CowboysPhiladelphia Eagles",
+        "team2_name": "Dallas Cowboys",
+        "team1_logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
+        "detail_url": "https://crichd.pk/event/cowboys-vs-eagles"
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "2026 Ballon d'OrFriendly",
-        "team2_name": "2026 Ballon d'Or",
-        "team1_logo": "https://cdn.img4every1.org/league/friendly-soccer-streams/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/friendly-soccer-streams/logo.webp",
-        "detail_url": "https://crichd.pk/event/ballon-dor"
+        "team1_name": "LazioSassuolo",
+        "team2_name": "Lazio",
+        "team1_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "detail_url": "https://crichd.pk/event/lazio-vs-sassuolo"
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "PSGOlympique Lyonnais",
-        "team2_name": "PSG",
-        "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-        "detail_url": "https://crichd.pk/event/psg-vs-lyon"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Walsall FCSalford City",
-        "team2_name": "Walsall FC",
-        "team1_logo": "https://cdn.img4every1.org/team/walsall-fc/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/salford-city/logo.webp",
-        "detail_url": "https://crichd.pk/event/walsall-vs-salford-city"
+        "team1_name": "ComoTorino",
+        "team2_name": "Como",
+        "team1_logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/torino/logo.webp",
+        "detail_url": "https://crichd.pk/event/como-vs-torino"
     },
     {
         "event_name": "Live Sports",
@@ -54,22 +46,6 @@
         "team1_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
         "detail_url": "https://crichd.pk/event/manchester-city-vs-brighton"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "SevillaOsasuna",
-        "team2_name": "Sevilla",
-        "team1_logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "detail_url": "https://crichd.pk/event/sevilla-vs-osasuna"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "LazioSassuolo",
-        "team2_name": "Lazio",
-        "team1_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "detail_url": "https://crichd.pk/event/lazio-vs-sassuolo"
     },
     {
         "event_name": "Live Sports",
