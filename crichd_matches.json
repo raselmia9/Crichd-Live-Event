@@ -9,14 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Kansas City ChiefsSeattle Seahawks",
-        "team2_name": "Kansas City Chiefs",
-        "team1_logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
-        "detail_url": "https://crichd.pk/event/chiefs-vs-seahawks"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "2026 Ballon d'OrFriendly",
         "team2_name": "2026 Ballon d'Or",
         "team1_logo": "https://cdn.img4every1.org/league/friendly-soccer-streams/logo.webp",
