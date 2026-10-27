@@ -1,14 +1,6 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_name": "Dallas CowboysPhiladelphia Eagles",
-        "team2_name": "Dallas Cowboys",
-        "team1_logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
-        "detail_url": "https://crichd.pk/event/cowboys-vs-eagles"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "LazioSassuolo",
         "team2_name": "Lazio",
         "team1_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
