@@ -9,38 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Frosinone CalcioLecce",
-        "team2_name": "Frosinone Calcio",
-        "team1_logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "detail_url": "https://crichd.pk/event/frosinone-vs-lecce"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Newcastle UnitedEverton",
-        "team2_name": "Newcastle United",
-        "team1_logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "detail_url": "https://crichd.pk/event/newcastle-united-vs-everton"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "WrexhamSheffield United",
-        "team2_name": "Wrexham",
-        "team1_logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sheffield-united/logo.webp",
-        "detail_url": "https://crichd.pk/event/wrexham-vs-sheffield-united"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "AtalantaFiorentina",
-        "team2_name": "Atalanta",
-        "team1_logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-        "detail_url": "https://crichd.pk/event/atalanta-vs-fiorentina"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Carolina PanthersGreen Bay Packers",
         "team2_name": "Carolina Panthers",
         "team1_logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
@@ -246,6 +214,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
         "detail_url": "https://crichd.pk/event/barcelona-vs-alaves"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "WrexhamSheffield United",
+        "team2_name": "Wrexham",
+        "team1_logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/sheffield-united/logo.webp",
+        "detail_url": "https://crichd.pk/event/wrexham-vs-sheffield-united"
     },
     {
         "event_name": "Live Sports",
