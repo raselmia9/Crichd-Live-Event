@@ -17,14 +17,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "AtalantaFiorentina",
-        "team2_name": "Atalanta",
-        "team1_logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-        "detail_url": "https://crichd.pk/event/atalanta-vs-fiorentina"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Newcastle UnitedEverton",
         "team2_name": "Newcastle United",
         "team1_logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
@@ -38,6 +30,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/sheffield-united/logo.webp",
         "detail_url": "https://crichd.pk/event/wrexham-vs-sheffield-united"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "AtalantaFiorentina",
+        "team2_name": "Atalanta",
+        "team1_logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
+        "detail_url": "https://crichd.pk/event/atalanta-vs-fiorentina"
     },
     {
         "event_name": "Live Sports",
