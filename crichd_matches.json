@@ -17,22 +17,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "AucklandBrisbane Roar",
-        "team2_name": "Auckland",
-        "team1_logo": "https://cdn.img4every1.org/team/auckland/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/brisbane-roar/logo.webp",
-        "detail_url": "https://crichd.pk/event/auckland-vs-brisbane-roar"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "EnglandPapua New Guinea",
-        "team2_name": "England",
-        "team1_logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/papua-new-guinea/logo.webp",
-        "detail_url": "https://crichd.pk/event/england-vs-png"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "PSGLe Havre",
         "team2_name": "PSG",
         "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
