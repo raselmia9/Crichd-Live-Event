@@ -17,22 +17,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "PSGLe Havre",
-        "team2_name": "PSG",
-        "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/le-havre/logo.webp",
-        "detail_url": "https://crichd.pk/event/psg-vs-le-havre"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "LensLille",
-        "team2_name": "Lens",
-        "team1_logo": "https://cdn.img4every1.org/team/lens/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/lille/logo.webp",
-        "detail_url": "https://crichd.pk/event/lens-vs-lille"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "F1 Mexican Grand PrixFormula 1",
         "team2_name": "F1 Mexican Grand Prix",
         "team1_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
@@ -57,38 +41,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Newcastle FalconsSaracens",
-        "team2_name": "Newcastle Falcons",
-        "team1_logo": "https://cdn.img4every1.org/team/newcastle-falcons/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
-        "detail_url": "https://crichd.pk/event/newcastle-falcons-vs-saracens"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Exeter ChiefsHarlequins",
-        "team2_name": "Exeter Chiefs",
-        "team1_logo": "https://cdn.img4every1.org/team/exeter-chiefs/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/harlequins/logo.webp",
-        "detail_url": "https://crichd.pk/event/exeter-chiefs-vs-harlequins"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Sale SharksBath Rugby",
-        "team2_name": "Sale Sharks",
-        "team1_logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
-        "detail_url": "https://crichd.pk/event/sale-sharks-vs-bath"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Northampton SaintsGloucester Rugby",
-        "team2_name": "Northampton Saints",
-        "team1_logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
-        "detail_url": "https://crichd.pk/event/northampton-vs-gloucester"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "LeinsterConnacht",
         "team2_name": "Leinster",
         "team1_logo": "https://cdn.img4every1.org/team/leinster/logo.webp",
@@ -105,54 +57,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "UlsterStormers",
-        "team2_name": "Ulster",
-        "team1_logo": "https://cdn.img4every1.org/team/ulster/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
-        "detail_url": "https://crichd.pk/event/ulster-vs-stormers"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "BullsScarlets",
-        "team2_name": "Bulls",
-        "team1_logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/scarlets/logo.webp",
-        "detail_url": "https://crichd.pk/event/bulls-vs-scarlets"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "EdinburghBenetton",
-        "team2_name": "Edinburgh",
-        "team1_logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/benetton/logo.webp",
-        "detail_url": "https://crichd.pk/event/edinburgh-vs-benetton-treviso"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "The SharksMunster",
-        "team2_name": "The Sharks",
-        "team1_logo": "https://cdn.img4every1.org/team/the-sharks/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/munster/logo.webp",
-        "detail_url": "https://crichd.pk/event/sharks-vs-munster"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "DragonsZebre",
-        "team2_name": "Dragons",
-        "team1_logo": "https://cdn.img4every1.org/team/dragons/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
-        "detail_url": "https://crichd.pk/event/dragons-vs-zebre"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Cardiff BluesOspreys",
-        "team2_name": "Cardiff Blues",
-        "team1_logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/ospreys/logo.webp",
-        "detail_url": "https://crichd.pk/event/cardiff-rugby-vs-ospreys"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "VillarrealEspanyol",
         "team2_name": "Villarreal",
         "team1_logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
@@ -161,43 +65,19 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Atlético MadridLevante",
-        "team2_name": "Atlético Madrid",
-        "team1_logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "detail_url": "https://crichd.pk/event/atletico-madrid-vs-levante"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Celta de VigoRayo Vallecano",
-        "team2_name": "Celta de Vigo",
-        "team1_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "detail_url": "https://crichd.pk/event/celta-vigo-vs-rayo-vallecano"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Real BetisMálaga",
-        "team2_name": "Real Betis",
-        "team1_logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-        "detail_url": "https://crichd.pk/event/real-betis-vs-malaga"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "FC BarcelonaDeportivo Alavés",
-        "team2_name": "FC Barcelona",
-        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
-        "detail_url": "https://crichd.pk/event/barcelona-vs-alaves"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "WrexhamSheffield United",
         "team2_name": "Wrexham",
         "team1_logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/sheffield-united/logo.webp",
         "detail_url": "https://crichd.pk/event/wrexham-vs-sheffield-united"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "LensLille",
+        "team2_name": "Lens",
+        "team1_logo": "https://cdn.img4every1.org/team/lens/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/lille/logo.webp",
+        "detail_url": "https://crichd.pk/event/lens-vs-lille"
     },
     {
         "event_name": "Live Sports",
@@ -262,5 +142,117 @@
         "team1_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
         "detail_url": "https://crichd.pk/event/aston-villa-vs-fulham"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "UlsterStormers",
+        "team2_name": "Ulster",
+        "team1_logo": "https://cdn.img4every1.org/team/ulster/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
+        "detail_url": "https://crichd.pk/event/ulster-vs-stormers"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "BullsScarlets",
+        "team2_name": "Bulls",
+        "team1_logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/scarlets/logo.webp",
+        "detail_url": "https://crichd.pk/event/bulls-vs-scarlets"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "EdinburghBenetton",
+        "team2_name": "Edinburgh",
+        "team1_logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/benetton/logo.webp",
+        "detail_url": "https://crichd.pk/event/edinburgh-vs-benetton-treviso"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "The SharksMunster",
+        "team2_name": "The Sharks",
+        "team1_logo": "https://cdn.img4every1.org/team/the-sharks/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/munster/logo.webp",
+        "detail_url": "https://crichd.pk/event/sharks-vs-munster"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "DragonsZebre",
+        "team2_name": "Dragons",
+        "team1_logo": "https://cdn.img4every1.org/team/dragons/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
+        "detail_url": "https://crichd.pk/event/dragons-vs-zebre"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Cardiff BluesOspreys",
+        "team2_name": "Cardiff Blues",
+        "team1_logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/ospreys/logo.webp",
+        "detail_url": "https://crichd.pk/event/cardiff-rugby-vs-ospreys"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Atlético MadridLevante",
+        "team2_name": "Atlético Madrid",
+        "team1_logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "detail_url": "https://crichd.pk/event/atletico-madrid-vs-levante"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Celta de VigoRayo Vallecano",
+        "team2_name": "Celta de Vigo",
+        "team1_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "detail_url": "https://crichd.pk/event/celta-vigo-vs-rayo-vallecano"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Real BetisMálaga",
+        "team2_name": "Real Betis",
+        "team1_logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "detail_url": "https://crichd.pk/event/real-betis-vs-malaga"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "FC BarcelonaDeportivo Alavés",
+        "team2_name": "FC Barcelona",
+        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
+        "detail_url": "https://crichd.pk/event/barcelona-vs-alaves"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Newcastle FalconsSaracens",
+        "team2_name": "Newcastle Falcons",
+        "team1_logo": "https://cdn.img4every1.org/team/newcastle-falcons/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
+        "detail_url": "https://crichd.pk/event/newcastle-falcons-vs-saracens"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Exeter ChiefsHarlequins",
+        "team2_name": "Exeter Chiefs",
+        "team1_logo": "https://cdn.img4every1.org/team/exeter-chiefs/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/harlequins/logo.webp",
+        "detail_url": "https://crichd.pk/event/exeter-chiefs-vs-harlequins"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Sale SharksBath Rugby",
+        "team2_name": "Sale Sharks",
+        "team1_logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
+        "detail_url": "https://crichd.pk/event/sale-sharks-vs-bath"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Northampton SaintsGloucester Rugby",
+        "team2_name": "Northampton Saints",
+        "team1_logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
+        "detail_url": "https://crichd.pk/event/northampton-vs-gloucester"
     }
 ]
