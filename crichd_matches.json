@@ -1,14 +1,6 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_name": "FC BarcelonaDeportivo Alavés",
-        "team2_name": "FC Barcelona",
-        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
-        "detail_url": "https://crichd.pk/event/barcelona-vs-alaves"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "PGA / LPGA GolfPGA Tour",
         "team2_name": "PGA / LPGA Golf",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -30,38 +22,6 @@
         "team1_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "detail_url": "https://crichd.pk/event/f1-mexican-grand-prix"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Cardiff BluesOspreys",
-        "team2_name": "Cardiff Blues",
-        "team1_logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/ospreys/logo.webp",
-        "detail_url": "https://crichd.pk/event/cardiff-rugby-vs-ospreys"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "AC MilanInter Milan",
-        "team2_name": "AC Milan",
-        "team1_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "detail_url": "https://crichd.pk/event/ac-milan-vs-inter-milan-live"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Aston VillaFulham",
-        "team2_name": "Aston Villa",
-        "team1_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
-        "detail_url": "https://crichd.pk/event/aston-villa-vs-fulham"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "PortoEstoril",
-        "team2_name": "Porto",
-        "team1_logo": "https://cdn.img4every1.org/team/porto/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/estoril/logo.webp",
-        "detail_url": "https://crichd.pk/event/porto-vs-estoril"
     },
     {
         "event_name": "Live Sports",
