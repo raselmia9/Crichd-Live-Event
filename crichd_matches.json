@@ -25,62 +25,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "ElversbergMainz 05",
-        "team2_name": "Elversberg",
-        "team1_logo": "https://cdn.img4every1.org/team/elversberg/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/mainz-05/logo.webp",
-        "detail_url": "https://crichd.pk/event/elversberg-vs-mainz-05"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Bristol BearsLeicester Tigers",
-        "team2_name": "Bristol Bears",
-        "team1_logo": "https://cdn.img4every1.org/team/bristol-bears/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/leicester-tigers/logo.webp",
-        "detail_url": "https://crichd.pk/event/bristol-bears-vs-leicester-tigers"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "LeinsterConnacht",
-        "team2_name": "Leinster",
-        "team1_logo": "https://cdn.img4every1.org/team/leinster/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
-        "detail_url": "https://crichd.pk/event/leinster-vs-connacht"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Glasgow WarriorsLions",
-        "team2_name": "Glasgow Warriors",
-        "team1_logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/lions/logo.webp",
-        "detail_url": "https://crichd.pk/event/glasgow-warriors-vs-lions"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "VillarrealEspanyol",
-        "team2_name": "Villarreal",
-        "team1_logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
-        "detail_url": "https://crichd.pk/event/villarreal-vs-espanyol"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "WrexhamSheffield United",
-        "team2_name": "Wrexham",
-        "team1_logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sheffield-united/logo.webp",
-        "detail_url": "https://crichd.pk/event/wrexham-vs-sheffield-united"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "LensLille",
-        "team2_name": "Lens",
-        "team1_logo": "https://cdn.img4every1.org/team/lens/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/lille/logo.webp",
-        "detail_url": "https://crichd.pk/event/lens-vs-lille"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "ChelseaManchester United",
         "team2_name": "Chelsea",
         "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
