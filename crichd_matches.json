@@ -25,14 +25,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Renato MoicanoTom Nolan",
-        "team2_name": "Renato Moicano",
-        "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "detail_url": "https://crichd.pk/event/renato-moicano-vs-tom-nolan"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "ComoVenezia",
         "team2_name": "Como",
         "team1_logo": "https://cdn.img4every1.org/team/como/logo.webp",
