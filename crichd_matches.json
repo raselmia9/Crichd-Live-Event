@@ -9,30 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "F1 Mexican Grand PrixFormula 1",
-        "team2_name": "F1 Mexican Grand Prix",
-        "team1_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "detail_url": "https://crichd.pk/event/f1-mexican-grand-prix"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "NapoliJuventus",
-        "team2_name": "Napoli",
-        "team1_logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "detail_url": "https://crichd.pk/event/napoli-vs-juventus"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Real SociedadAthletic Club",
-        "team2_name": "Real Sociedad",
-        "team1_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "detail_url": "https://crichd.pk/event/real-sociedad-vs-athletic-club"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Snooker International ChampionshipSnooker",
         "team2_name": "Snooker International Championship",
         "team1_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
