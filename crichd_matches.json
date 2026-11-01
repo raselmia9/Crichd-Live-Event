@@ -9,14 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "MotoGP Malaysian Grand PrixMotoGP",
-        "team2_name": "MotoGP Malaysian Grand Prix",
-        "team1_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-        "detail_url": "https://crichd.pk/event/motogp-malaysian-grand-prix"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "F1 Mexican Grand PrixFormula 1",
         "team2_name": "F1 Mexican Grand Prix",
         "team1_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
@@ -25,11 +17,27 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "ComoVenezia",
-        "team2_name": "Como",
-        "team1_logo": "https://cdn.img4every1.org/team/como/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
-        "detail_url": "https://crichd.pk/event/como-vs-venezia"
+        "team1_name": "Real MadridRacing Santander",
+        "team2_name": "Real Madrid",
+        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
+        "detail_url": "https://crichd.pk/event/real-madrid-vs-racing-santander"
+    },
+    {
+        "event_name": "Liverpool",
+        "team1_name": "Arsenal",
+        "team2_name": "Team 2",
+        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "detail_url": "https://crichd.pk/event/arsenal-vs-liverpool"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Newcastle UnitedEverton",
+        "team2_name": "Newcastle United",
+        "team1_logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+        "detail_url": "https://crichd.pk/event/newcastle-united-vs-everton"
     },
     {
         "event_name": "Live Sports",
@@ -49,19 +57,19 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "GetafeSevilla",
-        "team2_name": "Getafe",
-        "team1_logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "detail_url": "https://crichd.pk/event/getafe-vs-sevilla"
+        "team1_name": "SassuoloFiorentina",
+        "team2_name": "Sassuolo",
+        "team1_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
+        "detail_url": "https://crichd.pk/event/sassuolo-vs-fiorentina"
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Real MadridRacing Santander",
-        "team2_name": "Real Madrid",
-        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
-        "detail_url": "https://crichd.pk/event/real-madrid-vs-racing-santander"
+        "team1_name": "AtalantaParma",
+        "team2_name": "Atalanta",
+        "team1_logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/parma/logo.webp",
+        "detail_url": "https://crichd.pk/event/atalanta-vs-parma"
     },
     {
         "event_name": "Live Sports",
@@ -81,18 +89,50 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Sheffield WednesdayBlackpool",
-        "team2_name": "Sheffield Wednesday",
-        "team1_logo": "https://cdn.img4every1.org/team/sheffield-wednesday/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/blackpool/logo.webp",
-        "detail_url": "https://crichd.pk/event/sheffield-wednesday-vs-blackpool"
+        "team1_name": "OsasunaDeportivo La Coruña",
+        "team2_name": "Osasuna",
+        "team1_logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
+        "detail_url": "https://crichd.pk/event/osasuna-vs-deportivo-la-coruna"
     },
     {
-        "event_name": "Liverpool",
-        "team1_name": "Arsenal",
-        "team2_name": "Team 2",
-        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "detail_url": "https://crichd.pk/event/arsenal-vs-liverpool"
+        "event_name": "Live Sports",
+        "team1_name": "LorientBrest",
+        "team2_name": "Lorient",
+        "team1_logo": "https://cdn.img4every1.org/team/lorient/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/brest/logo.webp",
+        "detail_url": "https://crichd.pk/event/lorient-vs-brest"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "BenficaAlverca",
+        "team2_name": "Benfica",
+        "team1_logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/alverca/logo.webp",
+        "detail_url": "https://crichd.pk/event/benfica-vs-alverca"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Gil VicenteVitória Guimarães",
+        "team2_name": "Gil Vicente",
+        "team1_logo": "https://cdn.img4every1.org/team/gil-vicente/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/vitoria-guimaraes/logo.webp",
+        "detail_url": "https://crichd.pk/event/gil-vicente-vs-vitoria-guimaraes"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Sporting CPShakhtar Donetsk",
+        "team2_name": "Sporting CP",
+        "team1_logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/shakhtar-donetsk/logo.webp",
+        "detail_url": "https://crichd.pk/event/sporting-cp-vs-shakhtar-donetsk"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "StuttgartGalatasaray",
+        "team2_name": "Stuttgart",
+        "team1_logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/galatasaray/logo.webp",
+        "detail_url": "https://crichd.pk/event/stuttgart-vs-galatasaray"
     }
 ]
