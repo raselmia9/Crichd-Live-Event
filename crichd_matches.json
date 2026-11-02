@@ -1,14 +1,6 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_name": "PGA / LPGA GolfPGA Tour",
-        "team2_name": "PGA / LPGA Golf",
-        "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "detail_url": "https://crichd.pk/event/pga-lpga-golf"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Snooker International ChampionshipSnooker",
         "team2_name": "Snooker International Championship",
         "team1_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
