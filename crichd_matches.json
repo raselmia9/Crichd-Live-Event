@@ -9,59 +9,11 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "SassuoloFiorentina",
-        "team2_name": "Sassuolo",
-        "team1_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-        "detail_url": "https://crichd.pk/event/sassuolo-vs-fiorentina"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "AtalantaParma",
-        "team2_name": "Atalanta",
-        "team1_logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/parma/logo.webp",
-        "detail_url": "https://crichd.pk/event/atalanta-vs-parma"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "LorientBrest",
-        "team2_name": "Lorient",
-        "team1_logo": "https://cdn.img4every1.org/team/lorient/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/brest/logo.webp",
-        "detail_url": "https://crichd.pk/event/lorient-vs-brest"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "OsasunaDeportivo La Coruña",
-        "team2_name": "Osasuna",
-        "team1_logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
-        "detail_url": "https://crichd.pk/event/osasuna-vs-deportivo-la-coruna"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Newcastle UnitedEverton",
-        "team2_name": "Newcastle United",
-        "team1_logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "detail_url": "https://crichd.pk/event/newcastle-united-vs-everton"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "BenficaAlverca",
-        "team2_name": "Benfica",
-        "team1_logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/alverca/logo.webp",
-        "detail_url": "https://crichd.pk/event/benfica-vs-alverca"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Gil VicenteVitória Guimarães",
-        "team2_name": "Gil Vicente",
-        "team1_logo": "https://cdn.img4every1.org/team/gil-vicente/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/vitoria-guimaraes/logo.webp",
-        "detail_url": "https://crichd.pk/event/gil-vicente-vs-vitoria-guimaraes"
+        "team1_name": "Chicago BearsSeattle Seahawks",
+        "team2_name": "Chicago Bears",
+        "team1_logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
+        "detail_url": "https://crichd.pk/event/chicago-bears-vs-seahawks"
     },
     {
         "event_name": "Live Sports",
