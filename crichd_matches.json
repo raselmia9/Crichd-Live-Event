@@ -73,6 +73,22 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "Inter MilanFeyenoord",
+        "team2_name": "Inter Milan",
+        "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/feyenoord/logo.webp",
+        "detail_url": "https://crichd.pk/event/inter-milan-vs-feyenoord"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Real MadridAEK Athens",
+        "team2_name": "Real Madrid",
+        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/aek-athens/logo.webp",
+        "detail_url": "https://crichd.pk/event/real-madrid-vs-athens"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "SouthamptonWest Bromwich Albion",
         "team2_name": "Southampton",
         "team1_logo": "https://cdn.img4every1.org/team/southampton/logo.webp",
