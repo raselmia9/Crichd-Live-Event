@@ -17,35 +17,11 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "AC MilanFerencváros",
-        "team2_name": "AC Milan",
-        "team1_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/ferencvaros/logo.webp",
-        "detail_url": "https://crichd.pk/event/milan-vs-ferencvaros"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "AFC BournemouthSparta Praha",
-        "team2_name": "AFC Bournemouth",
-        "team1_logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sparta-praha/logo.webp",
-        "detail_url": "https://crichd.pk/event/bournemouth-vs-sparta-praha"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Crystal PalaceHoffenheim",
-        "team2_name": "Crystal Palace",
-        "team1_logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
-        "detail_url": "https://crichd.pk/event/crystal-palace-vs-hoffenheim"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Real SociedadOlympique Lyonnais",
-        "team2_name": "Real Sociedad",
-        "team1_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-        "detail_url": "https://crichd.pk/event/real-sociedad-vs-lyon"
+        "team1_name": "Brighton & Hove AlbionGetafe",
+        "team2_name": "Brighton & Hove Albion",
+        "team1_logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "detail_url": "https://crichd.pk/event/brighton-vs-getafe"
     },
     {
         "event_name": "Live Sports",
@@ -81,22 +57,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "FC ThunHearts",
-        "team2_name": "FC Thun",
-        "team1_logo": "https://cdn.img4every1.org/team/fc-thun/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/hearts/logo.webp",
-        "detail_url": "https://crichd.pk/event/thun-vs-hearts"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Brighton & Hove AlbionGetafe",
-        "team2_name": "Brighton & Hove Albion",
-        "team1_logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "detail_url": "https://crichd.pk/event/brighton-vs-getafe"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "MotoGP Qatar GPMotoGP",
         "team2_name": "MotoGP Qatar GP",
         "team1_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
@@ -129,6 +89,14 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "StuttgartWerder Bremen",
+        "team2_name": "Stuttgart",
+        "team1_logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/werder-bremen/logo.webp",
+        "detail_url": "https://crichd.pk/event/stuttgart-vs-werder-bremen"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "ToulouseStrasbourg",
         "team2_name": "Toulouse",
         "team1_logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
@@ -150,6 +118,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/oxford-city/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/leicester-city/logo.webp",
         "detail_url": "https://crichd.pk/event/oxford-city-vs-leicester-city"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "AltrinchamNotts County",
+        "team2_name": "Altrincham",
+        "team1_logo": "https://cdn.img4every1.org/team/altrincham/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/notts-county/logo.webp",
+        "detail_url": "https://crichd.pk/event/altrincham-vs-notts-county"
     },
     {
         "event_name": "Live Sports",
@@ -185,11 +161,27 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "JapanWales",
+        "team2_name": "Japan",
+        "team1_logo": "https://cdn.img4every1.org/team/japan/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/wales/logo.webp",
+        "detail_url": "https://crichd.pk/event/japan-vs-wales"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "VeneziaUdinese",
         "team2_name": "Venezia",
         "team1_logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
         "detail_url": "https://crichd.pk/event/venezia-vs-udinese"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "ParmaBologna",
+        "team2_name": "Parma",
+        "team1_logo": "https://cdn.img4every1.org/team/parma/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
+        "detail_url": "https://crichd.pk/event/parma-vs-bologna"
     },
     {
         "event_name": "Live Sports",
@@ -254,6 +246,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
         "detail_url": "https://crichd.pk/event/fulham-vs-newcastle-united"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Manchester CityNottingham Forest",
+        "team2_name": "Manchester City",
+        "team1_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
+        "detail_url": "https://crichd.pk/event/manchester-city-vs-nottm-forest"
     },
     {
         "event_name": "Live Sports",
