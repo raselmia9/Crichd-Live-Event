@@ -9,46 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "F1 Brazilian Grand PrixFormula 1",
-        "team2_name": "F1 Brazilian Grand Prix",
-        "team1_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "detail_url": "https://crichd.pk/event/f1-brazilian-grand-prix"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "HoffenheimSchalke 04",
-        "team2_name": "Hoffenheim",
-        "team1_logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
-        "detail_url": "https://crichd.pk/event/hoffenheim-vs-schalke-04"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "JuventusFiorentina",
-        "team2_name": "Juventus",
-        "team1_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-        "detail_url": "https://crichd.pk/event/juventus-vs-fiorentina"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "FC BarcelonaAtlético Madrid",
-        "team2_name": "FC Barcelona",
-        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "detail_url": "https://crichd.pk/event/barcelona-vs-atletico-madrid"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "BenficaEstrela",
-        "team2_name": "Benfica",
-        "team1_logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/estrela/logo.webp",
-        "detail_url": "https://crichd.pk/event/benfica-vs-estrela"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Plymouth ParkwayBerkhamsted",
         "team2_name": "Plymouth Parkway",
         "team1_logo": "https://cdn.img4every1.org/team/plymouth-parkway/logo.webp",
