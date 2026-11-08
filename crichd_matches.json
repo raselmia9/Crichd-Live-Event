@@ -25,14 +25,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Sporting CPMoreirense",
-        "team2_name": "Sporting CP",
-        "team1_logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/moreirense/logo.webp",
-        "detail_url": "https://crichd.pk/event/sporting-cp-vs-moreirense"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "AustraliaSamoa",
         "team2_name": "Australia",
         "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
