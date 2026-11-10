@@ -9,14 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Plymouth ParkwayBerkhamsted",
-        "team2_name": "Plymouth Parkway",
-        "team1_logo": "https://cdn.img4every1.org/team/plymouth-parkway/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/berkhamsted/logo.webp",
-        "detail_url": "https://crichd.pk/event/plymouth-parkway-vs-berkhamsted"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "TurkiyeBelgium",
         "team2_name": "Turkiye",
         "team1_logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
