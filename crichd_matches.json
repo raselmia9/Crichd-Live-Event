@@ -9,6 +9,14 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "IndiaNew Zealand",
+        "team2_name": "India",
+        "team1_logo": "https://cdn.img4every1.org/team/india/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+        "detail_url": "https://crichd.pk/event/india-vs-new-zealand"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "TurkiyeBelgium",
         "team2_name": "Turkiye",
         "team1_logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
