@@ -9,70 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "TurkiyeBelgium",
-        "team2_name": "Turkiye",
-        "team1_logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
-        "detail_url": "https://crichd.pk/event/turkey-vs-belgium"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "ArmeniaCyprus",
-        "team2_name": "Armenia",
-        "team1_logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
-        "detail_url": "https://crichd.pk/event/armenia-vs-cyprus"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "EnglandCroatia",
-        "team2_name": "England",
-        "team1_logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
-        "detail_url": "https://crichd.pk/event/england-vs-croatia"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "LatviaMontenegro",
-        "team2_name": "Latvia",
-        "team1_logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/montenegro/logo.webp",
-        "detail_url": "https://crichd.pk/event/latvia-vs-montenegro"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "AlbaniaFinland",
-        "team2_name": "Albania",
-        "team1_logo": "https://cdn.img4every1.org/team/albania/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/finland/logo.webp",
-        "detail_url": "https://crichd.pk/event/albania-vs-finland"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "BelarusSan Marino",
-        "team2_name": "Belarus",
-        "team1_logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/san-marino/logo.webp",
-        "detail_url": "https://crichd.pk/event/belarus-vs-san-marino"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "SpainCzechia",
-        "team2_name": "Spain",
-        "team1_logo": "https://cdn.img4every1.org/team/spain/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
-        "detail_url": "https://crichd.pk/event/spain-vs-czechia"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "ItalyFrance",
-        "team2_name": "Italy",
-        "team1_logo": "https://cdn.img4every1.org/team/italy/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/france/logo.webp",
-        "detail_url": "https://crichd.pk/event/italy-vs-france"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "KazakhstanMoldova",
         "team2_name": "Kazakhstan",
         "team1_logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
@@ -86,6 +22,54 @@
         "team1_logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/liechtenstein/logo.webp",
         "detail_url": "https://crichd.pk/event/azerbaijan-vs-liechtenstein"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "GermanySerbia",
+        "team2_name": "Germany",
+        "team1_logo": "https://cdn.img4every1.org/team/germany/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/serbia/logo.webp",
+        "detail_url": "https://crichd.pk/event/germany-vs-serbia"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "NetherlandsGreece",
+        "team2_name": "Netherlands",
+        "team1_logo": "https://cdn.img4every1.org/team/netherlands/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/greece/logo.webp",
+        "detail_url": "https://crichd.pk/event/netherlands-vs-greece"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "ScotlandNorth Macedonia",
+        "team2_name": "Scotland",
+        "team1_logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/north-macedonia/logo.webp",
+        "detail_url": "https://crichd.pk/event/scotland-vs-north-macedonia"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "SwitzerlandSlovenia",
+        "team2_name": "Switzerland",
+        "team1_logo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/slovenia/logo.webp",
+        "detail_url": "https://crichd.pk/event/switzerland-vs-slovenia"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "KosovoIsrael",
+        "team2_name": "Kosovo",
+        "team1_logo": "https://cdn.img4every1.org/team/kosovo/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/israel/logo.webp",
+        "detail_url": "https://crichd.pk/event/kosovo-vs-israel"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "WalesNorway",
+        "team2_name": "Wales",
+        "team1_logo": "https://cdn.img4every1.org/team/wales/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/norway/logo.webp",
+        "detail_url": "https://crichd.pk/event/wales-vs-norway"
     },
     {
         "event_name": "Live Sports",
@@ -134,6 +118,22 @@
         "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
         "detail_url": "https://crichd.pk/event/australia-vs-scotland"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "ArgentinaUruguay",
+        "team2_name": "Argentina",
+        "team1_logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/uruguay/logo.webp",
+        "detail_url": "https://crichd.pk/event/argentina-vs-uruguay"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "BrazilJapan",
+        "team2_name": "Brazil",
+        "team1_logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/japan/logo.webp",
+        "detail_url": "https://crichd.pk/event/brazil-vs-japan"
     },
     {
         "event_name": "Live Sports",
