@@ -70,5 +70,77 @@
         "team1_logo": "https://cdn.img4every1.org/team/italy/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/france/logo.webp",
         "detail_url": "https://crichd.pk/event/italy-vs-france"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "KazakhstanMoldova",
+        "team2_name": "Kazakhstan",
+        "team1_logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/moldova/logo.webp",
+        "detail_url": "https://crichd.pk/event/kazakhstan-vs-moldova"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "AzerbaijanLiechtenstein",
+        "team2_name": "Azerbaijan",
+        "team1_logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/liechtenstein/logo.webp",
+        "detail_url": "https://crichd.pk/event/azerbaijan-vs-liechtenstein"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "FranceSouth Africa",
+        "team2_name": "France",
+        "team1_logo": "https://cdn.img4every1.org/team/france/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
+        "detail_url": "https://crichd.pk/event/france-vs-south-africa"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "ItalyArgentina",
+        "team2_name": "Italy",
+        "team1_logo": "https://cdn.img4every1.org/team/italy/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
+        "detail_url": "https://crichd.pk/event/italy-vs-argentina"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "WalesNew Zealand",
+        "team2_name": "Wales",
+        "team1_logo": "https://cdn.img4every1.org/team/wales/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+        "detail_url": "https://crichd.pk/event/wales-vs-new-zealand"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "EnglandJapan",
+        "team2_name": "England",
+        "team1_logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/japan/logo.webp",
+        "detail_url": "https://crichd.pk/event/england-vs-japan"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "IrelandFiji",
+        "team2_name": "Ireland",
+        "team1_logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
+        "detail_url": "https://crichd.pk/event/ireland-vs-fiji"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "AustraliaScotland",
+        "team2_name": "Australia",
+        "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
+        "detail_url": "https://crichd.pk/event/australia-vs-scotland"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Ciryl GaneJosh Hokit",
+        "team2_name": "Ciryl Gane",
+        "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "detail_url": "https://crichd.pk/event/ciryl-gane-vs-josh-hokit"
     }
 ]
