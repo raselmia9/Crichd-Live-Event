@@ -9,14 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "KazakhstanMoldova",
-        "team2_name": "Kazakhstan",
-        "team1_logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/moldova/logo.webp",
-        "detail_url": "https://crichd.pk/event/kazakhstan-vs-moldova"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "AzerbaijanLiechtenstein",
         "team2_name": "Azerbaijan",
         "team1_logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
@@ -70,6 +62,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/wales/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/norway/logo.webp",
         "detail_url": "https://crichd.pk/event/wales-vs-norway"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "HungaryGeorgia",
+        "team2_name": "Hungary",
+        "team1_logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
+        "detail_url": "https://crichd.pk/event/hungary-vs-georgia"
     },
     {
         "event_name": "Live Sports",
