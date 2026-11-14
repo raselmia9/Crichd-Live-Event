@@ -17,59 +17,19 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "WalesNorway",
-        "team2_name": "Wales",
-        "team1_logo": "https://cdn.img4every1.org/team/wales/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/norway/logo.webp",
-        "detail_url": "https://crichd.pk/event/wales-vs-norway"
+        "team1_name": "USAHaiti",
+        "team2_name": "USA",
+        "team1_logo": "https://cdn.img4every1.org/team/usa/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/haiti/logo.webp",
+        "detail_url": "https://crichd.pk/event/usa-vs-haiti"
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "HungaryGeorgia",
-        "team2_name": "Hungary",
-        "team1_logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
-        "detail_url": "https://crichd.pk/event/hungary-vs-georgia"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "IrelandAustria",
-        "team2_name": "Ireland",
-        "team1_logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/austria/logo.webp",
-        "detail_url": "https://crichd.pk/event/ireland-vs-austria"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "UkraineNorthern Ireland",
-        "team2_name": "Ukraine",
-        "team1_logo": "https://cdn.img4every1.org/team/ukraine/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/northern-ireland/logo.webp",
-        "detail_url": "https://crichd.pk/event/ukraine-vs-northern-ireland"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "PolandRomania",
-        "team2_name": "Poland",
-        "team1_logo": "https://cdn.img4every1.org/team/poland/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/romania/logo.webp",
-        "detail_url": "https://crichd.pk/event/poland-vs-romania"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Bosnia and HerzegovinaSweden",
-        "team2_name": "Bosnia and Herzegovina",
-        "team1_logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sweden/logo.webp",
-        "detail_url": "https://crichd.pk/event/bosnia-vs-sweden"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "DenmarkPortugal",
-        "team2_name": "Denmark",
-        "team1_logo": "https://cdn.img4every1.org/team/denmark/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
-        "detail_url": "https://crichd.pk/event/denmark-vs-portugal"
+        "team1_name": "Ciryl GaneJosh Hokit",
+        "team2_name": "Ciryl Gane",
+        "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "detail_url": "https://crichd.pk/event/ciryl-gane-vs-josh-hokit"
     },
     {
         "event_name": "Live Sports",
@@ -97,11 +57,43 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "IrelandFiji",
-        "team2_name": "Ireland",
-        "team1_logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
-        "detail_url": "https://crichd.pk/event/ireland-vs-fiji"
+        "team1_name": "AlbaniaBelarus",
+        "team2_name": "Albania",
+        "team1_logo": "https://cdn.img4every1.org/team/albania/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
+        "detail_url": "https://crichd.pk/event/albania-vs-belarus"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "EnglandSpain",
+        "team2_name": "England",
+        "team1_logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/spain/logo.webp",
+        "detail_url": "https://crichd.pk/event/england-vs-spain"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "TurkiyeFrance",
+        "team2_name": "Turkiye",
+        "team1_logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/france/logo.webp",
+        "detail_url": "https://crichd.pk/event/turkiye-vs-france"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "CzechiaCroatia",
+        "team2_name": "Czechia",
+        "team1_logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
+        "detail_url": "https://crichd.pk/event/czechia-vs-croatia"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "ItalyBelgium",
+        "team2_name": "Italy",
+        "team1_logo": "https://cdn.img4every1.org/team/italy/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
+        "detail_url": "https://crichd.pk/event/italy-vs-belgium-live-stream"
     },
     {
         "event_name": "Live Sports",
@@ -110,13 +102,5 @@
         "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
         "detail_url": "https://crichd.pk/event/australia-vs-scotland"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Ciryl GaneJosh Hokit",
-        "team2_name": "Ciryl Gane",
-        "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "detail_url": "https://crichd.pk/event/ciryl-gane-vs-josh-hokit"
     }
 ]
