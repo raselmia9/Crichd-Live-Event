@@ -9,43 +9,11 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "KosovoIsrael",
-        "team2_name": "Kosovo",
-        "team1_logo": "https://cdn.img4every1.org/team/kosovo/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/israel/logo.webp",
-        "detail_url": "https://crichd.pk/event/kosovo-vs-israel"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "WalesNew Zealand",
-        "team2_name": "Wales",
-        "team1_logo": "https://cdn.img4every1.org/team/wales/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-        "detail_url": "https://crichd.pk/event/wales-vs-new-zealand"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "EnglandJapan",
-        "team2_name": "England",
-        "team1_logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/japan/logo.webp",
-        "detail_url": "https://crichd.pk/event/england-vs-japan"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "IrelandFiji",
-        "team2_name": "Ireland",
-        "team1_logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
-        "detail_url": "https://crichd.pk/event/ireland-vs-fiji"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "AustraliaScotland",
-        "team2_name": "Australia",
-        "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
-        "detail_url": "https://crichd.pk/event/australia-vs-scotland"
+        "team1_name": "Grand Slam of DartsDarts",
+        "team2_name": "Grand Slam of Darts",
+        "team1_logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
+        "detail_url": "https://crichd.pk/event/grand-slam-of-darts-live-stream"
     },
     {
         "event_name": "Live Sports",
@@ -110,6 +78,38 @@
         "team1_logo": "https://cdn.img4every1.org/team/montenegro/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
         "detail_url": "https://crichd.pk/event/montenegro-vs-cyprus"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "ArmeniaLatvia",
+        "team2_name": "Armenia",
+        "team1_logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
+        "detail_url": "https://crichd.pk/event/armenia-vs-latvia"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "FinlandSan Marino",
+        "team2_name": "Finland",
+        "team1_logo": "https://cdn.img4every1.org/team/finland/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/san-marino/logo.webp",
+        "detail_url": "https://crichd.pk/event/finland-vs-san-marino"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "IrelandFiji",
+        "team2_name": "Ireland",
+        "team1_logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
+        "detail_url": "https://crichd.pk/event/ireland-vs-fiji"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "AustraliaScotland",
+        "team2_name": "Australia",
+        "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
+        "detail_url": "https://crichd.pk/event/australia-vs-scotland"
     },
     {
         "event_name": "Live Sports",
