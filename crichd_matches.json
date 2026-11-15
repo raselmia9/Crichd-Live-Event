@@ -17,19 +17,27 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "MontenegroCyprus",
-        "team2_name": "Montenegro",
-        "team1_logo": "https://cdn.img4every1.org/team/montenegro/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
-        "detail_url": "https://crichd.pk/event/montenegro-vs-cyprus"
+        "team1_name": "Detroit LionsNew England Patriots",
+        "team2_name": "Detroit Lions",
+        "team1_logo": "https://cdn.img4every1.org/team/detroit-lions/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/new-england-patriots/logo.webp",
+        "detail_url": "https://crichd.pk/event/lions-vs-patriots"
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "ArmeniaLatvia",
-        "team2_name": "Armenia",
-        "team1_logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
-        "detail_url": "https://crichd.pk/event/armenia-vs-latvia"
+        "team1_name": "AustraliaScotland",
+        "team2_name": "Australia",
+        "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
+        "detail_url": "https://crichd.pk/event/australia-vs-scotland"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "ArsenalLondon City Lionesses",
+        "team2_name": "Arsenal",
+        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/london-city-lionesses/logo.webp",
+        "detail_url": "https://crichd.pk/event/arsenal-vs-london-city-lionesses"
     },
     {
         "event_name": "Live Sports",
@@ -81,10 +89,34 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "AustraliaScotland",
-        "team2_name": "Australia",
-        "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
-        "detail_url": "https://crichd.pk/event/australia-vs-scotland"
+        "team1_name": "Kansas City ChiefsAtlanta Falcons",
+        "team2_name": "Kansas City Chiefs",
+        "team1_logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
+        "detail_url": "https://crichd.pk/event/chiefs-vs-falcons"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Minnesota VikingsGreen Bay Packers",
+        "team2_name": "Minnesota Vikings",
+        "team1_logo": "https://cdn.img4every1.org/team/minnesota-vikings/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/green-bay-packers/logo.webp",
+        "detail_url": "https://crichd.pk/event/minnesota-vikings-vs-green-bay-packers"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Carolina PanthersNew Orleans Saints",
+        "team2_name": "Carolina Panthers",
+        "team1_logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/new-orleans-saints/logo.webp",
+        "detail_url": "https://crichd.pk/event/carolina-panthers-vs-new-orleans-saints"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "PanamaCuraçao",
+        "team2_name": "Panama",
+        "team1_logo": "https://cdn.img4every1.org/team/panama/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/curacao/logo.webp",
+        "detail_url": "https://crichd.pk/event/panama-vs-curacao"
     }
 ]
