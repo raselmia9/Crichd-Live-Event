@@ -17,14 +17,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "USAHaiti",
-        "team2_name": "USA",
-        "team1_logo": "https://cdn.img4every1.org/team/usa/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/haiti/logo.webp",
-        "detail_url": "https://crichd.pk/event/usa-vs-haiti"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Ciryl GaneJosh Hokit",
         "team2_name": "Ciryl Gane",
         "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
