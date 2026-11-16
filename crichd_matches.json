@@ -9,14 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Pittsburgh SteelersCincinnati Bengals",
-        "team2_name": "Pittsburgh Steelers",
-        "team1_logo": "https://cdn.img4every1.org/team/pittsburgh-steelers/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cincinnati-bengals/logo.webp",
-        "detail_url": "https://crichd.pk/event/steelers-vs-bengals"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "MoldovaFaroe Islands",
         "team2_name": "Moldova",
         "team1_logo": "https://cdn.img4every1.org/team/moldova/logo.webp",
