@@ -1,107 +1,11 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_name": "EnglandSpain",
-        "team2_name": "England",
-        "team1_logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/spain/logo.webp",
-        "detail_url": "https://crichd.pk/event/england-vs-spain"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Snooker Champion of ChampionsSnooker",
-        "team2_name": "Snooker Champion of Champions",
-        "team1_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "detail_url": "https://crichd.pk/event/snooker-champion-of-champions"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Grand Slam of DartsDarts",
         "team2_name": "Grand Slam of Darts",
         "team1_logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
         "detail_url": "https://crichd.pk/event/grand-slam-of-darts-live-stream"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "TurkiyeFrance",
-        "team2_name": "Turkiye",
-        "team1_logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/france/logo.webp",
-        "detail_url": "https://crichd.pk/event/turkiye-vs-france"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "CzechiaCroatia",
-        "team2_name": "Czechia",
-        "team1_logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
-        "detail_url": "https://crichd.pk/event/czechia-vs-croatia"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "ItalyBelgium",
-        "team2_name": "Italy",
-        "team1_logo": "https://cdn.img4every1.org/team/italy/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
-        "detail_url": "https://crichd.pk/event/italy-vs-belgium-live-stream"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Dallas CowboysSan Francisco 49ers",
-        "team2_name": "Dallas Cowboys",
-        "team1_logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
-        "detail_url": "https://crichd.pk/event/cowboys-vs-49ers"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "PanamaCuraçao",
-        "team2_name": "Panama",
-        "team1_logo": "https://cdn.img4every1.org/team/panama/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/curacao/logo.webp",
-        "detail_url": "https://crichd.pk/event/panama-vs-curacao"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "GuyanaPuerto Rico",
-        "team2_name": "Guyana",
-        "team1_logo": "https://cdn.img4every1.org/team/guyana/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/puerto-rico/logo.webp",
-        "detail_url": "https://crichd.pk/event/guyana-vs-puerto-rico"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Trinidad and TobagoAntigua and Barbuda",
-        "team2_name": "Trinidad and Tobago",
-        "team1_logo": "https://cdn.img4every1.org/team/trinidad-and-tobago/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/antigua-and-barbuda/logo.webp",
-        "detail_url": "https://crichd.pk/event/trinidad-and-tobago-vs-antigua-and-barbuda"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "ArubaMartinique",
-        "team2_name": "Aruba",
-        "team1_logo": "https://cdn.img4every1.org/team/aruba/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/martinique/logo.webp",
-        "detail_url": "https://crichd.pk/event/aruba-vs-martinique"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "CanadaGuatemala",
-        "team2_name": "Canada",
-        "team1_logo": "https://cdn.img4every1.org/team/canada/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/guatemala/logo.webp",
-        "detail_url": "https://crichd.pk/event/canada-vs-guatemala"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "BonaireSaint Kitts and Nevis",
-        "team2_name": "Bonaire",
-        "team1_logo": "https://cdn.img4every1.org/team/bonaire/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/saint-kitts-and-nevis/logo.webp",
-        "detail_url": "https://crichd.pk/event/bonaire-vs-st-kitts-and-nevis"
     },
     {
         "event_name": "Live Sports",
@@ -174,6 +78,46 @@
         "team1_logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
         "detail_url": "https://crichd.pk/event/scotland-vs-switzerland"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "GuyanaPuerto Rico",
+        "team2_name": "Guyana",
+        "team1_logo": "https://cdn.img4every1.org/team/guyana/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/puerto-rico/logo.webp",
+        "detail_url": "https://crichd.pk/event/guyana-vs-puerto-rico"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Trinidad and TobagoAntigua and Barbuda",
+        "team2_name": "Trinidad and Tobago",
+        "team1_logo": "https://cdn.img4every1.org/team/trinidad-and-tobago/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/antigua-and-barbuda/logo.webp",
+        "detail_url": "https://crichd.pk/event/trinidad-and-tobago-vs-antigua-and-barbuda"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "ArubaMartinique",
+        "team2_name": "Aruba",
+        "team1_logo": "https://cdn.img4every1.org/team/aruba/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/martinique/logo.webp",
+        "detail_url": "https://crichd.pk/event/aruba-vs-martinique"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "CanadaGuatemala",
+        "team2_name": "Canada",
+        "team1_logo": "https://cdn.img4every1.org/team/canada/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/guatemala/logo.webp",
+        "detail_url": "https://crichd.pk/event/canada-vs-guatemala"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "BonaireSaint Kitts and Nevis",
+        "team2_name": "Bonaire",
+        "team1_logo": "https://cdn.img4every1.org/team/bonaire/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/saint-kitts-and-nevis/logo.webp",
+        "detail_url": "https://crichd.pk/event/bonaire-vs-st-kitts-and-nevis"
     },
     {
         "event_name": "Live Sports",
