@@ -9,38 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "USAHaiti",
-        "team2_name": "USA",
-        "team1_logo": "https://cdn.img4every1.org/team/usa/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/haiti/logo.webp",
-        "detail_url": "https://crichd.pk/event/usa-vs-haiti"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "Saint MartinEl Salvador",
-        "team2_name": "Saint Martin",
-        "team1_logo": "https://cdn.img4every1.org/team/saint-martin/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/el-salvador/logo.webp",
-        "detail_url": "https://crichd.pk/event/saint-martin-vs-el-salvador"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "MexicoJamaica",
-        "team2_name": "Mexico",
-        "team1_logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/jamaica/logo.webp",
-        "detail_url": "https://crichd.pk/event/mexico-vs-jamaica"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "NicaraguaMontserrat",
-        "team2_name": "Nicaragua",
-        "team1_logo": "https://cdn.img4every1.org/team/nicaragua/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/montserrat/logo.webp",
-        "detail_url": "https://crichd.pk/event/nicaragua-vs-montserrat"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "Real MadridInter Milan",
         "team2_name": "Real Madrid",
         "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
