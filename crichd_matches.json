@@ -17,6 +17,14 @@
     },
     {
         "event_name": "Live Sports",
+        "team1_name": "ChelseaPSG",
+        "team2_name": "Chelsea",
+        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "detail_url": "https://crichd.pk/event/chelsea-vs-psg"
+    },
+    {
+        "event_name": "Live Sports",
         "team1_name": "Bayern MünchenKöln",
         "team2_name": "Bayern München",
         "team1_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
