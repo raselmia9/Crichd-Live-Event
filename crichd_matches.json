@@ -9,19 +9,19 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Real MadridInter Milan",
-        "team2_name": "Real Madrid",
-        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "detail_url": "https://crichd.pk/event/real-madrid-vs-inter-milan"
+        "team1_name": "F1 Las Vegas Grand PrixFormula 1",
+        "team2_name": "F1 Las Vegas Grand Prix",
+        "team1_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "detail_url": "https://crichd.pk/event/f1-las-vegas-grand-prix"
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "ChelseaPSG",
-        "team2_name": "Chelsea",
-        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "detail_url": "https://crichd.pk/event/chelsea-vs-psg"
+        "team1_name": "MotoGP PortugalMotoGP",
+        "team2_name": "MotoGP Portugal",
+        "team1_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "detail_url": "https://crichd.pk/event/motogp-portugal"
     },
     {
         "event_name": "Live Sports",
