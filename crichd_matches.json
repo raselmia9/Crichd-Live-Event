@@ -9,30 +9,6 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_name": "Bayern MünchenAustria Wien",
-        "team2_name": "Bayern München",
-        "team1_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/austria-wien/logo.webp",
-        "detail_url": "https://crichd.pk/event/bayern-vs-austria-wien"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "ArsenalOlympique Lyonnais",
-        "team2_name": "Arsenal",
-        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-        "detail_url": "https://crichd.pk/event/arsenal-vs-lyon"
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_name": "FC BarcelonaServette Chênois",
-        "team2_name": "FC Barcelona",
-        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/servette-chenois/logo.webp",
-        "detail_url": "https://crichd.pk/event/barcelona-vs-servette-chenois"
-    },
-    {
-        "event_name": "Live Sports",
         "team1_name": "F1 Las Vegas Grand PrixFormula 1",
         "team2_name": "F1 Las Vegas Grand Prix",
         "team1_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
@@ -70,6 +46,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/augsburg/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/mainz-05/logo.webp",
         "detail_url": "https://crichd.pk/event/augsburg-vs-mainz-05"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "Werder BremenHamburger SV",
+        "team2_name": "Werder Bremen",
+        "team1_logo": "https://cdn.img4every1.org/team/werder-bremen/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/hamburger-sv/logo.webp",
+        "detail_url": "https://crichd.pk/event/werder-bremen-vs-hamburger-sv"
     },
     {
         "event_name": "Live Sports",
@@ -142,6 +126,14 @@
         "team1_logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
         "detail_url": "https://crichd.pk/event/racing-santander-vs-real-sociedad"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "OsasunaMálaga",
+        "team2_name": "Osasuna",
+        "team1_logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "detail_url": "https://crichd.pk/event/osasuna-vs-malaga"
     },
     {
         "event_name": "Live Sports",
@@ -318,5 +310,13 @@
         "team1_logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
         "detail_url": "https://crichd.pk/event/genoa-vs-sassuolo"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_name": "AC MilanFrosinone Calcio",
+        "team2_name": "AC Milan",
+        "team1_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
+        "detail_url": "https://crichd.pk/event/milan-vs-frosinone"
     }
 ]
